@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T21:28:50.000Z
+pubDatetime: 2026-05-31T22:27:02.000Z
 title: "Melhores investimentos em Holandeses no EA FC (31/05/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -32,6 +32,7 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
 | Xavi Simons | 88 | Premier League | 65k coins | +15% | +49.4% | 95% |
+| Roy Makaay | 87 | Bundesliga | 17k coins | +38% | +40.8% | 27% |
 | Noa Lang | 91 | Trendyol Süper Lig | 50k coins | +31.6% | +25% | 5% |
 | Wout Weghorst | 85 | Eredivisie | 118k coins | +8.3% | +24.9% | 5% |
 | Ryan Gravenberch | 87 | Premier League | 98k coins | +8.9% | +23.3% | 39% |
@@ -50,13 +51,13 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 - **Xavi Simons (88)** — 65k coins, **+49.4% em 7 dias** (+15% em 24h). Preço em linha com a média de 7 dias (+5%). 🔮 O modelo reforça a tese: **95% de chance de seguir subindo**.
 
+- **Roy Makaay (87)** — 17k coins, **+40.8% em 7 dias** (+38% em 24h). Preço +19% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+
 - **Noa Lang (91)** — 50k coins, **+25% em 7 dias** (+31.6% em 24h). Preço +36% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
 - **Wout Weghorst (85)** — 118k coins, **+24.9% em 7 dias** (+8.3% em 24h). Preço +18% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
 - **Ryan Gravenberch (87)** — 98k coins, **+23.3% em 7 dias** (+8.9% em 24h). Preço +13% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
-
-- **Xavi Simons (91)** — 97k coins, **+19.8% em 7 dias** (+12.1% em 24h). Preço +13% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
 
 ## Como usar esta lista

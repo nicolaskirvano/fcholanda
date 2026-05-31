@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T21:28:50.000Z
+pubDatetime: 2026-05-31T22:27:01.000Z
 title: "Holandeses no EA FC hoje (31/05/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -17,16 +17,16 @@ faq:
   - q: "E a maior queda do dia?"
     a: "Xavi Simons (84), -31.8% em 24h, a 81k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Frank Rijkaard (87) — 95% de probabilidade de alta, a 70k coins."
+    a: "Pelo modelo FutQuant, Frank Rijkaard (87) — 95% de probabilidade de alta, a 67k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 37 cartas em alta contra 51 em queda (média -2.74%)."
+    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 38 cartas em alta contra 49 em queda (média -2.04%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **37 subiram** e **51 caíram**, com variação média de **-2.74%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
+Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **38 subiram** e **49 caíram**, com variação média de **-2.04%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
 
 > 🟢 **Maior alta:** Tijjani Reijnders (87) **+36.8%** · 🔴 **Maior baixa:** Xavi Simons (84) **-31.8%**
 
@@ -61,14 +61,14 @@ Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 | --- | --- | --- | --- | --- | --- |
 | Xavi Simons | 84 | Premier League | 81k coins | -31.8% | -25% |
 | Micky van de Ven | 87 | Premier League | 2.54M coins | -25.4% | -11% |
-| Marco van Basten | 91 | Icons | 69k coins | -22.9% | -22.9% |
 | Noah Ohio | 87 | LaLiga Hypermotion | 30k coins | -18.9% | -18.9% |
 | Quinten Timber | 85 | Eredivisie | 29k coins | -18.3% | +2.6% |
-| Ruud Gullit | 90 | Icons | 1.84M coins | -16.5% | +0.4% |
 | Dennis Bergkamp | 91 | Icons | 61k coins | -16.4% | -6.2% |
 | Jurriën Timber | 87 | Premier League | 33k coins | -13.2% | -9.6% |
 | Ryan Gravenberch | 92 | Premier League | 219k coins | -13.1% | +9.5% |
 | Romée Leuchter | 90 | D1 Arkema | 115k coins | -9.4% | -11.5% |
+| Frenkie de Jong | 89 | LALIGA EA SPORTS | 480k coins | -8.9% | -4% |
+| Jaap Stam | 91 | Eredivisie | 909k coins | -8.1% | -1.2% |
 
 
 ### Análise das baixas
@@ -77,7 +77,7 @@ Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 
 - **Micky van de Ven (87)** caiu **-25.4%** em 24h, a **2.54M coins** (faixa do dia: 2.30M–3.40M). Está em linha com a média de 7 dias (-6%). O modelo vê **estabilização** no curto prazo.
 
-- **Marco van Basten (91)** caiu **-22.9%** em 24h, a **69k coins** (faixa do dia: 69k–90k). Está -20% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Noah Ohio (87)** caiu **-18.9%** em 24h, a **30k coins** (faixa do dia: 23k–41k). Está -13% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
 
 
 ## 🔮 O que o modelo prevê para as próximas 24h
@@ -86,7 +86,7 @@ As cartas que o modelo FutQuant aponta com **maior probabilidade de valorizaçã
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
-| Frank Rijkaard | 87 | 70k coins | 84k coins | 95% |
+| Frank Rijkaard | 87 | 67k coins | 80k coins | 95% |
 | Jaap Stam | 89 | 110k coins | 127k coins | 95% |
 | Jeremie Frimpong | 86 | 137k coins | 169k coins | 95% |
 | Kenneth Taylor | 84 | 24k coins | 29k coins | 95% |
@@ -102,14 +102,14 @@ Cartas com **maior probabilidade de desvalorizar** nas próximas 24h — evite c
 
 | Jogador | OVR | Preço atual | Variação prevista |
 | --- | --- | --- | --- |
+| Quinten Timber | 85 | 29k coins | -17.5% |
+| Wout Weghorst | 85 | 118k coins | -15.7% |
+| Dennis Bergkamp | 90 | 78k coins | -21.4% |
+| Xavi Simons | 84 | 81k coins | -34.1% |
 | Noa Lang | 91 | 50k coins | -15.6% |
 | Denzel Dumfries | 89 | 35k coins | -17.3% |
 | Ian Maatsen | 89 | 40k coins | -21.4% |
-| Quinten Timber | 85 | 29k coins | -17.5% |
-| Xavi Simons | 84 | 81k coins | -34.1% |
 | Jordan Teze | 87 | 16k coins | -24% |
-| Dennis Bergkamp | 90 | 78k coins | -21.4% |
-| Georginio Wijnaldum | 87 | 18k coins | -17.5% |
 
 
 ## 📐 Como o FutQuant lê o mercado
@@ -126,10 +126,10 @@ Tijjani Reijnders (87, Premier League), com +36.8% em 24h, a 305k coins no Conso
 Xavi Simons (84), -31.8% em 24h, a 81k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Frank Rijkaard (87) — 95% de probabilidade de alta, a 70k coins.
+Pelo modelo FutQuant, Frank Rijkaard (87) — 95% de probabilidade de alta, a 67k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 37 cartas em alta contra 51 em queda (média -2.74%).
+Hoje o mercado está em mercado em baixa — predominam as quedas, com 38 cartas em alta contra 49 em queda (média -2.04%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

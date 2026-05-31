@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T21:28:51.000Z
+pubDatetime: 2026-05-31T22:27:03.000Z
 title: "Jogadores baratos de Holandeses no EA FC (31/05/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -30,33 +30,33 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Virgil van Dijk | 90 | CB | Premier League | 10k coins | +3.2% |
-| Dirk Kuyt | 88 | CAM | Eredivisie | 15k coins | -13% |
 | Frenkie de Jong | 87 | CM | LALIGA EA SPORTS | 2k coins | -3.8% |
 | Dirk Kuyt | 86 | CAM | Eredivisie | 11k coins | 0% |
-| Lynn Wilms | 86 | RB | Barclays Women’s Super League | 11k coins | -64.8% |
-| Janou Levels | 86 | LB | GPFBL | 12k coins | -57.8% |
-| Kees Smit | 86 | CAM | Eredivisie | 12k coins | -10.7% |
-| Georginio Wijnaldum | 84 | ST | Brasileirão | 11k coins | -82.8% |
-| Youri Baas | 84 | CB | Eredivisie | 11k coins | -71% |
+| Lynn Wilms | 86 | RB | Barclays Women’s Super League | 11k coins | -76.2% |
+| Janou Levels | 86 | LB | GPFBL | 11k coins | -71.7% |
+| Givairo Read | 86 | RB | Eredivisie | 13k coins | +4% |
+| Georginio Wijnaldum | 84 | ST | Brasileirão | 11k coins | -83.1% |
+| Romée Leuchter | 84 | ST | D1 Arkema | 11k coins | -77% |
+| Youri Baas | 84 | CB | Eredivisie | 11k coins | -70.1% |
+| Melle Meulensteen | 84 | CDM | Eredivisie | 11k coins | -79% |
+| Joël Drommel | 84 | GK | Eredivisie | 11k coins | -63.9% |
+| Mark Flekken | 84 | GK | Bundesliga | 11k coins | -69% |
 | Danilho Doekhi | 84 | CB | Bundesliga | 11k coins | -6.4% |
-| Romée Leuchter | 84 | ST | D1 Arkema | 11k coins | -69.8% |
-| Mark Flekken | 84 | GK | Bundesliga | 11k coins | -75.3% |
-| Melle Meulensteen | 84 | CDM | Eredivisie | 12k coins | -78.1% |
-| Joël Drommel | 84 | GK | Eredivisie | 12k coins | -57.4% |
-| Esmee Brugts | 83 | LB | Liga F | 11k coins | -63.3% |
+| Wouter Burger | 83 | CM | Bundesliga | 11k coins | -70.3% |
+| Noah Naujoks | 83 | CAM | Eredivisie | 11k coins | -78.4% |
 
 
 ## 📈 Destaques
 
 - **Virgil van Dijk (90, CB)** da Premier League, a apenas **10k coins**
 
-- **Dirk Kuyt (88, CAM)** da Eredivisie, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **Frenkie de Jong (87, CM)** da LALIGA EA SPORTS, a apenas **2k coins**
 
 - **Dirk Kuyt (86, CAM)** da Eredivisie, a apenas **11k coins**
 
 - **Lynn Wilms (86, RB)** da Barclays Women’s Super League, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Janou Levels (86, LB)** da GPFBL, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?

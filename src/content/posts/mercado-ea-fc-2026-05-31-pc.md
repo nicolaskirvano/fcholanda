@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T21:28:51.000Z
+pubDatetime: 2026-05-31T22:27:02.000Z
 title: "Holandeses no EA FC hoje (31/05/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -13,69 +13,80 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 31/05/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (31/05/2026)?"
-    a: "Dennis Bergkamp (93, Icons), com +56.2% em 24h, a 406k coins no PC."
+    a: "Lineth Beerensteyn (86, GPFBL), com +46% em 24h, a 23k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Dominique Janssen (89), -44% em 24h, a 21k coins."
+    a: "Zian Flemming (80), -35.9% em 24h, a 31k coins."
+  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
+    a: "Pelo modelo FutQuant, Virgil van Dijk (91) — 81% de probabilidade de alta, a 362k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 34 cartas em alta contra 30 em queda (média 2.83%)."
+    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 29 cartas em alta contra 35 em queda (média 2.75%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **34 subiram** e **30 caíram**, com variação média de **2.83%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
+Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **29 subiram** e **35 caíram**, com variação média de **2.75%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Dennis Bergkamp (93) **+56.2%** · 🔴 **Maior baixa:** Dominique Janssen (89) **-44%**
+> 🟢 **Maior alta:** Lineth Beerensteyn (86) **+46%** · 🔴 **Maior baixa:** Zian Flemming (80) **-35.9%**
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Dennis Bergkamp | 93 | Icons | 406k coins | +56.2% | +35.3% |
-| Wouter Burger | 87 | Bundesliga | 297k coins | +36.9% | +14.2% |
-| Tijjani Reijnders | 93 | Premier League | 780k coins | +33.8% | -13.3% |
-| Wesley Sneijder | 92 | Serie A TIM | 950k coins | +33% | +18.8% |
-| Donyell Malen | 89 | Serie A TIM | 93k coins | +26.5% | +36.8% |
-| Romée Leuchter | 90 | D1 Arkema | 235k coins | +23.7% | +11.9% |
-| Ryan Gravenberch | 92 | Premier League | 475k coins | +21.8% | +21.2% |
-| Wesley Sneijder | 89 | Serie A TIM | 250k coins | +20.8% | 0% |
+| Lineth Beerensteyn | 86 | GPFBL | 23k coins | +46% | +13.6% |
+| Xavi Simons | 88 | Premier League | 100k coins | +44.9% | +49.2% |
+| Wouter Burger | 87 | Bundesliga | 276k coins | +33.3% | +6.2% |
+| Johan Cruyff | 87 | Icons | 950k coins | +27.5% | +31.9% |
 | Marco van Basten | 91 | Icons | 86k coins | +20.3% | +21.1% |
-| Ronald Koeman | 91 | Icons | 210k coins | +19.3% | -0.9% |
+| Ryan Gravenberch | 92 | Premier League | 477k coins | +19.8% | +21.7% |
+| Frank Rijkaard | 89 | Icons | 99k coins | +16.5% | +23.8% |
+| Johan Cruyff | 94 | Icons | 2.23M coins | +15.5% | +7.9% |
+| Kenneth Taylor | 84 | Eredivisie | 30k coins | +14.4% | -28.3% |
+| Johan Cruyff | 93 | Icons | 840k coins | +12.3% | +28.8% |
 
 
 ### Análise das altas
 
-- **Dennis Bergkamp (93)** subiu **+56.2%** em 24h, a **406k coins** (faixa do dia: 255k–406k). Está +12% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Lineth Beerensteyn (86)** subiu **+46%** em 24h, a **23k coins** (faixa do dia: 13k–35k). Está +33% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
 
-- **Wouter Burger (87)** subiu **+36.9%** em 24h, a **297k coins** (faixa do dia: 197k–300k). Está +25% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Xavi Simons (88)** subiu **+44.9%** em 24h, a **100k coins** (faixa do dia: 60k–100k). Está +32% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
 
-- **Tijjani Reijnders (93)** subiu **+33.8%** em 24h, a **780k coins** (faixa do dia: 679k–780k). Está em linha com a média de 7 dias (-1%). O modelo vê **estabilização** no curto prazo.
+- **Wouter Burger (87)** subiu **+33.3%** em 24h, a **276k coins** (faixa do dia: 197k–300k). Está +16% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Dominique Janssen | 89 | Barclays WSL | 21k coins | -44% | +10.5% |
 | Zian Flemming | 80 | Premier League | 31k coins | -35.9% | -20.6% |
+| Quinten Timber | 85 | Eredivisie | 21k coins | -30% | -28.2% |
+| Ryan Gravenberch | 86 | Premier League | 103k coins | -29.9% | -39.8% |
+| Romée Leuchter | 90 | D1 Arkema | 194k coins | -28.2% | -5.4% |
 | Ruud Gullit | 90 | Icons | 2.41M coins | -24.6% | -19.5% |
-| Sherida Spitse | 85 | Nederland Vrouwen Liga | 26k coins | -18.5% | +5% |
-| Tijjani Reijnders | 87 | Premier League | 100k coins | -14.2% | -60.2% |
-| Virgil van Dijk | 91 | Premier League | 440k coins | -14.1% | -16.2% |
-| Quinten Timber | 85 | Eredivisie | 24k coins | -13.3% | -16.2% |
-| Robin van Persie | 88 | Icons | 90k coins | -12.6% | -21% |
-| Frenkie de Jong | 89 | LALIGA EA SPORTS | 1.40M coins | -12.4% | -0.1% |
-| Edwin van der Sar | 88 | Icons | 209k coins | -11.1% | -8.7% |
+| Noa Lang | 91 | Trendyol Süper Lig | 44k coins | -20.9% | -13% |
+| Donyell Malen | 89 | Serie A TIM | 80k coins | -16.8% | +18.7% |
+| Denzel Dumfries | 89 | Serie A TIM | 45k coins | -16.4% | +45.5% |
+| Ruud Gullit | 93 | Icons | 5.70M coins | -16.2% | +20.9% |
+| Dennis Bergkamp | 91 | Icons | 76k coins | -13.6% | -30.9% |
 
 
 ### Análise das baixas
 
-- **Dominique Janssen (89)** caiu **-44%** em 24h, a **21k coins** (faixa do dia: 21k–36k). Está -31% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
-
 - **Zian Flemming (80)** caiu **-35.9%** em 24h, a **31k coins** (faixa do dia: 31k–48k). Está -32% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
 
-- **Ruud Gullit (90)** caiu **-24.6%** em 24h, a **2.41M coins** (faixa do dia: 2.40M–3.20M). Está -20% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Quinten Timber (85)** caiu **-30%** em 24h, a **21k coins** (faixa do dia: 21k–30k). Está -28% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+
+- **Ryan Gravenberch (86)** caiu **-29.9%** em 24h, a **103k coins** (faixa do dia: 67k–146k). Está +12% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+
+
+## 🔮 O que o modelo prevê para as próximas 24h
+
+As cartas que o modelo FutQuant aponta com **maior probabilidade de valorização** (sinal de alta, confiança alta):
+
+| Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
+| --- | --- | --- | --- | --- |
+| Virgil van Dijk | 91 | 362k coins | 376k coins | 81% |
 
 
 ## 📐 Como o FutQuant lê o mercado
@@ -86,13 +97,16 @@ Nossos números vêm de **centenas de milhões de pontos de preço** coletados d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (31/05/2026)?**  
-Dennis Bergkamp (93, Icons), com +56.2% em 24h, a 406k coins no PC.
+Lineth Beerensteyn (86, GPFBL), com +46% em 24h, a 23k coins no PC.
 
 **E a maior queda do dia?**  
-Dominique Janssen (89), -44% em 24h, a 21k coins.
+Zian Flemming (80), -35.9% em 24h, a 31k coins.
+
+**Qual carta tem mais chance de subir amanhã no EA FC?**  
+Pelo modelo FutQuant, Virgil van Dijk (91) — 81% de probabilidade de alta, a 362k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em alta — predominam as valorizações, com 34 cartas em alta contra 30 em queda (média 2.83%).
+Hoje o mercado está em mercado em alta — predominam as valorizações, com 29 cartas em alta contra 35 em queda (média 2.75%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
