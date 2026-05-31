@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T19:43:46.000Z
+pubDatetime: 2026-05-31T21:28:50.000Z
 title: "Jogadores baratos de Holandeses no EA FC (31/05/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -30,33 +30,33 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Virgil van Dijk | 90 | CB | Premier League | 8k coins | -3.4% |
-| Sepp van den Berg | 89 | CB | Premier League | 15k coins | 0% |
-| Roy Makaay | 89 | ST | Bundesliga | 15k coins | +7.1% |
-| Mats Deijl | 88 | RB | Eredivisie | 15k coins | +5.4% |
-| Dirk Kuyt | 88 | CAM | Eredivisie | 15k coins | +7.3% |
+| Vivianne Miedema | 89 | ST | Barclays WSL | 14k coins | -29.1% |
+| Dirk Kuyt | 88 | CAM | Eredivisie | 14k coins | -15.2% |
 | Frenkie de Jong | 87 | CM | LALIGA EA SPORTS | 2k coins | -18.2% |
+| Lynn Wilms | 86 | RB | Barclays Women’s Super League | 11k coins | -72.2% |
+| Janou Levels | 86 | LB | GPFBL | 11k coins | -63.3% |
 | Dirk Kuyt | 86 | CAM | Eredivisie | 12k coins | +7% |
-| Lynn Wilms | 86 | RB | Barclays Women’s Super League | 12k coins | -68.2% |
-| Janou Levels | 86 | LB | GPFBL | 12k coins | -59% |
-| Cody Gakpo | 86 | LW | Premier League | 13k coins | -13.6% |
-| Mark Flekken | 84 | GK | Bundesliga | 12k coins | -71.1% |
-| Joël Drommel | 84 | GK | Eredivisie | 12k coins | -58% |
-| Melle Meulensteen | 84 | CDM | Eredivisie | 12k coins | -58% |
-| Georginio Wijnaldum | 84 | ST | Brasileirão | 12k coins | -73.9% |
-| Youri Baas | 84 | CB | Eredivisie | 12k coins | -60.2% |
+| Cody Gakpo | 86 | LW | Premier League | 12k coins | -15.2% |
+| Jurriën Timber | 86 | RB | Premier League | 13k coins | -7.1% |
+| Kees Smit | 86 | CAM | Eredivisie | 13k coins | 0% |
+| Denzel Dumfries | 86 | RB | Serie A TIM | 14k coins | -12.9% |
+| Melle Meulensteen | 84 | CDM | Eredivisie | 11k coins | -60.7% |
+| Mark Flekken | 84 | GK | Bundesliga | 11k coins | -71.8% |
+| Danilho Doekhi | 84 | CB | Bundesliga | 11k coins | -24.1% |
+| Wouter Burger | 83 | CM | Bundesliga | 11k coins | -66.2% |
 
 
 ## 📈 Destaques
 
 - **Virgil van Dijk (90, CB)** da Premier League, a apenas **8k coins**
 
-- **Sepp van den Berg (89, CB)** da Premier League, a apenas **15k coins**
+- **Vivianne Miedema (89, ST)** da Barclays WSL, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Roy Makaay (89, ST)** da Bundesliga, a apenas **15k coins**
+- **Dirk Kuyt (88, CAM)** da Eredivisie, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Mats Deijl (88, RB)** da Eredivisie, a apenas **15k coins**
+- **Frenkie de Jong (87, CM)** da LALIGA EA SPORTS, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Dirk Kuyt (88, CAM)** da Eredivisie, a apenas **15k coins**
+- **Lynn Wilms (86, RB)** da Barclays Women’s Super League, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
@@ -81,6 +81,8 @@ Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-b
 **Esses preços são reais?**  
 Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados contra anomalias.
 
+
+> 🔔 Acompanhe o mercado do EA FC em tempo real e crie alertas no <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a> — a mesma base que alimenta este blog.
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T19:43:47.000Z
+pubDatetime: 2026-05-31T21:28:51.000Z
 title: "Jogadores baratos de Holandeses no EA FC (31/05/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,9 +29,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Virgil van Dijk | 90 | CB | Premier League | 10k coins | +4.2% |
+| Virgil van Dijk | 90 | CB | Premier League | 10k coins | +3.2% |
 | Dirk Kuyt | 88 | CAM | Eredivisie | 15k coins | -13% |
-| Tijjani Reijnders | 86 | CM | Premier League | 2k coins | +35.7% |
+| Frenkie de Jong | 87 | CM | LALIGA EA SPORTS | 2k coins | -3.8% |
 | Dirk Kuyt | 86 | CAM | Eredivisie | 11k coins | 0% |
 | Lynn Wilms | 86 | RB | Barclays Women’s Super League | 11k coins | -64.8% |
 | Janou Levels | 86 | LB | GPFBL | 12k coins | -57.8% |
@@ -52,7 +52,7 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Dirk Kuyt (88, CAM)** da Eredivisie, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Tijjani Reijnders (86, CM)** da Premier League, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
+- **Frenkie de Jong (87, CM)** da LALIGA EA SPORTS, a apenas **2k coins**
 
 - **Dirk Kuyt (86, CAM)** da Eredivisie, a apenas **11k coins**
 
@@ -81,6 +81,8 @@ Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-b
 **Esses preços são reais?**  
 Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados contra anomalias.
 
+
+> 🔔 Acompanhe o mercado do EA FC em tempo real e crie alertas no <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a> — a mesma base que alimenta este blog.
 
 ---
 

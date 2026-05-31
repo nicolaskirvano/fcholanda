@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T19:43:46.000Z
+pubDatetime: 2026-05-31T21:28:51.000Z
 title: "Holandeses no EA FC hoje (31/05/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -17,14 +17,14 @@ faq:
   - q: "E a maior queda do dia?"
     a: "Dominique Janssen (89), -44% em 24h, a 21k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 33 cartas em alta contra 30 em queda (média 2.36%)."
+    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 34 cartas em alta contra 30 em queda (média 2.83%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **33 subiram** e **30 caíram**, com variação média de **2.36%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
+Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **34 subiram** e **30 caíram**, com variação média de **2.83%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** Dennis Bergkamp (93) **+56.2%** · 🔴 **Maior baixa:** Dominique Janssen (89) **-44%**
 
@@ -40,7 +40,7 @@ Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em merca
 | Romée Leuchter | 90 | D1 Arkema | 235k coins | +23.7% | +11.9% |
 | Ryan Gravenberch | 92 | Premier League | 475k coins | +21.8% | +21.2% |
 | Wesley Sneijder | 89 | Serie A TIM | 250k coins | +20.8% | 0% |
-| Wesley Sneijder | 88 | Serie A TIM | 28k coins | +20.4% | +33.3% |
+| Marco van Basten | 91 | Icons | 86k coins | +20.3% | +21.1% |
 | Ronald Koeman | 91 | Icons | 210k coins | +19.3% | -0.9% |
 
 
@@ -59,14 +59,14 @@ Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em merca
 | --- | --- | --- | --- | --- | --- |
 | Dominique Janssen | 89 | Barclays WSL | 21k coins | -44% | +10.5% |
 | Zian Flemming | 80 | Premier League | 31k coins | -35.9% | -20.6% |
+| Ruud Gullit | 90 | Icons | 2.41M coins | -24.6% | -19.5% |
 | Sherida Spitse | 85 | Nederland Vrouwen Liga | 26k coins | -18.5% | +5% |
-| Robin van Persie | 88 | Icons | 88k coins | -14.9% | -22.4% |
-| Marco van Basten | 91 | Icons | 71k coins | -14.5% | 0% |
 | Tijjani Reijnders | 87 | Premier League | 100k coins | -14.2% | -60.2% |
 | Virgil van Dijk | 91 | Premier League | 440k coins | -14.1% | -16.2% |
 | Quinten Timber | 85 | Eredivisie | 24k coins | -13.3% | -16.2% |
+| Robin van Persie | 88 | Icons | 90k coins | -12.6% | -21% |
 | Frenkie de Jong | 89 | LALIGA EA SPORTS | 1.40M coins | -12.4% | -0.1% |
-| Ruud Gullit | 90 | Icons | 2.70M coins | -12.3% | -10% |
+| Edwin van der Sar | 88 | Icons | 209k coins | -11.1% | -8.7% |
 
 
 ### Análise das baixas
@@ -75,7 +75,7 @@ Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em merca
 
 - **Zian Flemming (80)** caiu **-35.9%** em 24h, a **31k coins** (faixa do dia: 31k–48k). Está -32% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
 
-- **Sherida Spitse (85)** caiu **-18.5%** em 24h, a **26k coins** (faixa do dia: 26k–27k). Está -35% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Ruud Gullit (90)** caiu **-24.6%** em 24h, a **2.41M coins** (faixa do dia: 2.40M–3.20M). Está -20% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
 
 
 ## 📐 Como o FutQuant lê o mercado
@@ -92,11 +92,13 @@ Dennis Bergkamp (93, Icons), com +56.2% em 24h, a 406k coins no PC.
 Dominique Janssen (89), -44% em 24h, a 21k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em alta — predominam as valorizações, com 33 cartas em alta contra 30 em queda (média 2.36%).
+Hoje o mercado está em mercado em alta — predominam as valorizações, com 34 cartas em alta contra 30 em queda (média 2.83%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
+
+> 🔔 Acompanhe o mercado do EA FC em tempo real e crie alertas no <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a> — a mesma base que alimenta este blog.
 
 ---
 
