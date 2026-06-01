@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T10:27:03.000Z
+pubDatetime: 2026-06-01T13:27:03.000Z
 title: "Melhores investimentos em Holandeses no EA FC (01/06/2026): análise e previsões — PC"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 01/06/2026 (PC), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (01/06/2026) no EA FC?"
-    a: "Frank Rijkaard (89, Icons) lidera, com +68.8% em 7 dias a 135k coins no PC, e o modelo dá 35% de chance de seguir subindo."
+    a: "Jeremie Frimpong (86, Premier League) lidera, com +70.8% em 7 dias a 193k coins no PC, e o modelo dá 12% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,7 +23,7 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **01/06/2026** no **PC**:
 
-> 🔝 **Destaque:** Frank Rijkaard (89) acumula **+68.8% em 7 dias** a 135k coins.
+> 🔝 **Destaque:** Jeremie Frimpong (86) acumula **+70.8% em 7 dias** a 193k coins.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -31,28 +31,26 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Frank Rijkaard | 89 | Icons | 135k coins | +27.4% | +68.8% | 35% |
-| Wesley Sneijder | 88 | Serie A TIM | 37k coins | +25.2% | +49% | 29% |
-| Denzel Dumfries | 89 | Serie A TIM | 45k coins | +7.8% | +47.9% | 36% |
-| Marco van Basten | 91 | Icons | 88k coins | +13.5% | +26.4% | 46% |
-| Luciano Valente | 87 | Eredivisie | 18k coins | +12.9% | +25% | 54% |
-| Dennis Bergkamp | 91 | Icons | 94k coins | +21.4% | +23% | 32% |
-| Mats Deijl | 88 | Eredivisie | 18k coins | +2.9% | +22.4% | 55% |
-| Noa Lang | 91 | Trendyol Süper Lig | 55k coins | +11.7% | +10.6% | 44% |
-| Frank Rijkaard | 87 | Icons | 74k coins | +12.9% | +5.7% | 20% |
+| Jeremie Frimpong | 86 | Premier League | 193k coins | +10.3% | +70.8% | 12% |
+| Wesley Sneijder | 88 | Serie A TIM | 36k coins | +30.3% | +40.6% | 29% |
+| Frank Rijkaard | 89 | Icons | 104k coins | +22.4% | +30% | 35% |
+| Lineth Beerensteyn | 86 | GPFBL | 25k coins | +7.6% | +28.6% | 16% |
+| Mats Deijl | 88 | Eredivisie | 18k coins | +9.2% | +22.4% | 55% |
+| Noa Lang | 91 | Trendyol Süper Lig | 56k coins | +2.8% | +12.6% | 44% |
+| Romée Leuchter | 90 | D1 Arkema | 229k coins | +21.8% | +12.2% | 39% |
 
 
 ## 📈 Análise dos destaques
 
-- **Frank Rijkaard (89)** — 135k coins, **+68.8% em 7 dias** (+27.4% em 24h). Preço +55% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Jeremie Frimpong (86)** — 193k coins, **+70.8% em 7 dias** (+10.3% em 24h). Preço em linha com a média de 7 dias (-6%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Wesley Sneijder (88)** — 37k coins, **+49% em 7 dias** (+25.2% em 24h). Preço +39% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Wesley Sneijder (88)** — 36k coins, **+40.6% em 7 dias** (+30.3% em 24h). Preço +31% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Denzel Dumfries (89)** — 45k coins, **+47.9% em 7 dias** (+7.8% em 24h). Preço +24% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Frank Rijkaard (89)** — 104k coins, **+30% em 7 dias** (+22.4% em 24h). Preço +19% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Marco van Basten (91)** — 88k coins, **+26.4% em 7 dias** (+13.5% em 24h). Preço em linha com a média de 7 dias (+7%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Lineth Beerensteyn (86)** — 25k coins, **+28.6% em 7 dias** (+7.6% em 24h). Preço +36% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Luciano Valente (87)** — 18k coins, **+25% em 7 dias** (+12.9% em 24h). Preço +8% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Mats Deijl (88)** — 18k coins, **+22.4% em 7 dias** (+9.2% em 24h). Preço +25% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
@@ -70,7 +68,7 @@ Trabalhamos com **centenas de milhões de pontos de preço** do mercado do EA FC
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (01/06/2026) no EA FC?**  
-Frank Rijkaard (89, Icons) lidera, com +68.8% em 7 dias a 135k coins no PC, e o modelo dá 35% de chance de seguir subindo.
+Jeremie Frimpong (86, Premier League) lidera, com +70.8% em 7 dias a 193k coins no PC, e o modelo dá 12% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

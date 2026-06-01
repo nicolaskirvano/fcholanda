@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T10:27:03.000Z
+pubDatetime: 2026-06-01T13:27:03.000Z
 title: "Jogadores baratos de Holandeses no EA FC (01/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,32 +29,32 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Virgil van Dijk | 90 | CB | Premier League | 10k coins | +2.1% |
-| Vivianne Miedema | 89 | ST | Barclays WSL | 13k coins | -33.3% |
-| Frenkie de Jong | 87 | CM | LALIGA EA SPORTS | 2k coins | +4.2% |
+| Virgil van Dijk | 90 | CB | Premier League | 10k coins | -3.1% |
+| Vivianne Miedema | 89 | ST | Barclays WSL | 14k coins | -28.2% |
+| Jurriën Timber | 86 | RB | Premier League | 11k coins | -8.5% |
+| Lynn Wilms | 86 | RB | Barclays Women’s Super League | 11k coins | -12.2% |
+| Janou Levels | 86 | LB | GPFBL | 11k coins | -64.2% |
 | Dirk Kuyt | 86 | CAM | Eredivisie | 11k coins | 0% |
-| Janou Levels | 86 | LB | GPFBL | 11k coins | -69% |
-| Jurriën Timber | 86 | RB | Premier League | 11k coins | -4.3% |
-| Lynn Wilms | 86 | RB | Barclays Women’s Super League | 11k coins | -13.5% |
-| Givairo Read | 86 | RB | Eredivisie | 13k coins | -11.9% |
+| Cody Gakpo | 86 | LW | Premier League | 11k coins | -26.7% |
+| Givairo Read | 86 | RB | Eredivisie | 15k coins | 0% |
+| Youri Baas | 84 | CB | Eredivisie | 11k coins | -74.7% |
+| Mark Flekken | 84 | GK | Bundesliga | 11k coins | -77.1% |
 | Georginio Wijnaldum | 84 | ST | Brasileirão | 11k coins | -59.8% |
+| Joël Drommel | 84 | GK | Eredivisie | 11k coins | -60.9% |
+| Romée Leuchter | 84 | ST | D1 Arkema | 11k coins | -64.2% |
+| Melle Meulensteen | 84 | CDM | Eredivisie | 11k coins | -71% |
 | Danilho Doekhi | 84 | CB | Bundesliga | 11k coins | -8.5% |
-| Melle Meulensteen | 84 | CDM | Eredivisie | 11k coins | -79.5% |
-| Mark Flekken | 84 | GK | Bundesliga | 11k coins | -77.2% |
-| Joël Drommel | 84 | GK | Eredivisie | 11k coins | -60% |
-| Romée Leuchter | 84 | ST | D1 Arkema | 11k coins | -68.1% |
-| Youri Baas | 84 | CB | Eredivisie | 11k coins | -63.3% |
 
 
 ## 📈 Destaques
 
 - **Virgil van Dijk (90, CB)** da Premier League, a apenas **10k coins**
 
-- **Vivianne Miedema (89, ST)** da Barclays WSL, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Vivianne Miedema (89, ST)** da Barclays WSL, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Frenkie de Jong (87, CM)** da LALIGA EA SPORTS, a apenas **2k coins**
+- **Jurriën Timber (86, RB)** da Premier League, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Dirk Kuyt (86, CAM)** da Eredivisie, a apenas **11k coins**
+- **Lynn Wilms (86, RB)** da Barclays Women’s Super League, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Janou Levels (86, LB)** da GPFBL, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 

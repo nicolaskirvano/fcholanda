@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T10:27:02.000Z
+pubDatetime: 2026-06-01T13:27:02.000Z
 title: "Melhores investimentos em Holandeses no EA FC (01/06/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -33,6 +33,7 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 | --- | --- | --- | --- | --- | --- | --- |
 | Noa Lang | 91 | Trendyol Süper Lig | 45k coins | +16.2% | +35.6% | 5% |
 | Frank Rijkaard | 89 | Icons | 104k coins | +10.6% | +33.3% | 60% |
+| Edwin van der Sar | 88 | Icons | 228k coins | +37.4% | +30.3% | 68% |
 | Wout Weghorst | 85 | Eredivisie | 122k coins | +3.4% | +29.1% | 5% |
 | Dennis Bergkamp | 91 | Icons | 78k coins | +21.1% | +23% | 43% |
 | Ian Maatsen | 89 | Premier League | 43k coins | +1.8% | +22.9% | 5% |
@@ -47,11 +48,11 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 - **Frank Rijkaard (89)** — 104k coins, **+33.3% em 7 dias** (+10.6% em 24h). Preço +24% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
+- **Edwin van der Sar (88)** — 228k coins, **+30.3% em 7 dias** (+37.4% em 24h). Preço em linha com a média de 7 dias (-4%). 🔮 O modelo reforça a tese: **68% de chance de seguir subindo**.
+
 - **Wout Weghorst (85)** — 122k coins, **+29.1% em 7 dias** (+3.4% em 24h). Preço +18% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
 - **Dennis Bergkamp (91)** — 78k coins, **+23% em 7 dias** (+21.1% em 24h). Preço +12% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
-
-- **Ian Maatsen (89)** — 43k coins, **+22.9% em 7 dias** (+1.8% em 24h). Preço em linha com a média de 7 dias (+4%). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
 
 ## Como usar esta lista

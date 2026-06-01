@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T10:27:02.000Z
+pubDatetime: 2026-06-01T13:27:02.000Z
 title: "Jogadores baratos de Holandeses no EA FC (01/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -37,7 +37,7 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Frenkie de Jong | 87 | CM | LALIGA EA SPORTS | 2k coins | +9.5% |
 | Lynn Wilms | 86 | RB | Barclays Women’s Super League | 11k coins | -23.2% |
 | Janou Levels | 86 | LB | GPFBL | 11k coins | -65% |
-| Dirk Kuyt | 86 | CAM | Eredivisie | 11k coins | -4.4% |
+| Dirk Kuyt | 86 | CAM | Eredivisie | 11k coins | +2.3% |
 | Cody Gakpo | 86 | LW | Premier League | 11k coins | -19.6% |
 | Jurriën Timber | 86 | RB | Premier League | 12k coins | -12.5% |
 | Kees Smit | 86 | CAM | Eredivisie | 14k coins | +1.9% |
