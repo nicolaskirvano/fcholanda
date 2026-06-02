@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-02T10:27:02.000Z
+pubDatetime: 2026-06-02T13:27:02.000Z
 title: "Melhores investimentos em Holandeses no EA FC (02/06/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
