@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T19:27:08.000Z
+pubDatetime: 2026-06-18T19:28:31.000Z
 title: "Holandeses no EA FC hoje (18/06/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
