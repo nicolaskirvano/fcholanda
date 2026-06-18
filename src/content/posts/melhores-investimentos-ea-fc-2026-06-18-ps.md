@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T19:28:32.000Z
+pubDatetime: 2026-06-18T20:12:20.000Z
 title: "Melhores investimentos em Holandeses no EA FC (18/06/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -25,6 +25,14 @@ Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pi
 
 > 🔝 **Destaque:** Denzel Dumfries (89) acumula **+78.9% em 7 dias** a 110k coins.
 
+
+## 🔎 Análise do mercado hoje
+No mercado de Ultimate Team de console para 18/06/2026, os holandeses apresentam oportunidades claras, embora a volatilidade exija discernimento entre hype momentâneo e tendência sustentável. Entre as cartas com maior probabilidade de valorização, destacam-se Jaap Stam (89, Premier League) e Jeremie Frimpong (86, Premier League), ambos com 95% de chance de alta. Stam subiu 6,2% em 24h, cotado a 96k coins, enquanto Frimpong, com um impressionante aumento de 11,1%, já alcança 148k coins. A combinação de alta probabilidade e crescimento recente torna estas duas opções as mais seguras para entrada imediata, sugerindo uma demanda sólida no curto prazo.
+
+Outro nome de elite que não pode ser ignorado é Frank Rijkaard (89, Icons). Com uma alta probabilidade de 60% e um salto de 20,8% em apenas 24 horas, o ícone está cotado a 145k coins. Apesar de a probabilidade ser inferior à de Stam e Frimpong, o volume da subida indica forte interesse da comunidade, justificando uma posição de investimento para quem busca lucros em cartas de status. Xavi Simons (88, Premier League) também se enquadra neste grupo de alta confiança, com 95% de probabilidade de alta e 17,3% de crescimento em 24h, posicionando-se a 40k coins como uma entrada acessível e promissora.
+
+Por outro lado, cautela é necessária com cartas como Denzel Dumfries (89, Serie A TIM) e Georginio Wijnaldum (87, Brasileirão). Embora tenham subido 1,9% e 2,7% respectivamente, ambas possuem apenas 5% de probabilidade de alta, cotadas a 110k e 30k coins. O mesmo se aplica a Wout Weghorst (85, Eredivisie), que subiu 5,8% mas tem baixa probabilidade de continuidade. Por fim, Steven Berghuis (86, Eredivisie) apresenta um movimento atípico: subiu 35% em 24h a 45k coins, mas com apenas 44% de probabilidade de alta, sugerindo um pico especulativo de risco elevado. Portanto, foque em Stam, Frimpong, Rijkaard e Simons para a melhor relação risco-retorno.
+
 ## 💎 Cartas em tendência de alta (84+)
 
 Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seguir subindo:
@@ -32,33 +40,33 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
 | Denzel Dumfries | 89 | Serie A TIM | 110k coins | +1.9% | +78.9% | 5% |
-| Jaap Stam | 89 | Premier League | 102k coins | +17.7% | +54.8% | 95% |
-| Frank Rijkaard | 89 | Icons | 145k coins | +11.7% | +54% | 60% |
-| Luciano Valente | 87 | Eredivisie | 22k coins | +17.3% | +49.2% | 55% |
-| Robin van Persie | 88 | Icons | 110k coins | +10.6% | +39.2% | 95% |
-| Jeremie Frimpong | 86 | Premier League | 160k coins | +15% | +26.8% | 95% |
-| Wout Weghorst | 85 | Eredivisie | 98k coins | +5.8% | +22.7% | 5% |
-| Xavi Simons | 88 | Premier League | 39k coins | +5.6% | +19% | 95% |
-| Mark Flekken | 84 | Bundesliga | 50k coins | +6.8% | +18.3% | 95% |
-| Xavi Simons | 91 | Premier League | 103k coins | +9.5% | +13.5% | 27% |
-| Georginio Wijnaldum | 84 | Brasileirão | 50k coins | +2% | +12.8% | 81% |
-| Dennis Bergkamp | 91 | Icons | 64k coins | +3.1% | +10.1% | 43% |
-| Ronald Koeman | 88 | Icons | 73k coins | +2.1% | +9.8% | 81% |
-| Patrick Kluivert | 87 | Icons | 72k coins | +2.1% | +8.3% | 55% |
-| Kees Smit | 86 | Eredivisie | 16k coins | +10.9% | +7% | 81% |
+| Frank Rijkaard | 89 | Icons | 145k coins | +20.8% | +66.7% | 60% |
+| Georginio Wijnaldum | 87 | Brasileirão | 30k coins | +2.7% | +54.1% | 5% |
+| Jaap Stam | 89 | Premier League | 96k coins | +6.2% | +38.8% | 95% |
+| Tijjani Reijnders | 87 | Premier League | 60k coins | +8.3% | +30.7% | 5% |
+| Jeremie Frimpong | 86 | Premier League | 148k coins | +11.1% | +26% | 95% |
+| Denzel Dumfries | 86 | Serie A TIM | 50k coins | +32.5% | +25% | 95% |
+| Xavi Simons | 88 | Premier League | 40k coins | +17.3% | +23.8% | 95% |
+| Wout Weghorst | 85 | Eredivisie | 100k coins | +5.8% | +18.3% | 5% |
+| Steven Berghuis | 86 | Eredivisie | 45k coins | +35% | +13.1% | 44% |
+| Ronald Koeman | 88 | Icons | 70k coins | +2.8% | +9.8% | 81% |
+| Dennis Bergkamp | 91 | Icons | 64k coins | +2.4% | +9.2% | 43% |
+| Joshua Zirkzee | 87 | Premier League | 30k coins | +1% | +8.9% | 18% |
+| Kees Smit | 86 | Eredivisie | 16k coins | +12.7% | +8.8% | 81% |
+| Patrick Kluivert | 87 | Icons | 70k coins | +3.6% | +8.3% | 55% |
 
 
 ## 📈 Análise dos destaques
 
 - **Denzel Dumfries (89)** — 110k coins, **+78.9% em 7 dias** (+1.9% em 24h). Preço +31% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Jaap Stam (89)** — 102k coins, **+54.8% em 7 dias** (+17.7% em 24h). Preço em linha com a média de 7 dias (+6%). 🔮 O modelo reforça a tese: **95% de chance de seguir subindo**.
+- **Frank Rijkaard (89)** — 145k coins, **+66.7% em 7 dias** (+20.8% em 24h). Preço +28% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Frank Rijkaard (89)** — 145k coins, **+54% em 7 dias** (+11.7% em 24h). Preço +28% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Georginio Wijnaldum (87)** — 30k coins, **+54.1% em 7 dias** (+2.7% em 24h). Preço +26% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Luciano Valente (87)** — 22k coins, **+49.2% em 7 dias** (+17.3% em 24h). Preço +19% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Jaap Stam (89)** — 96k coins, **+38.8% em 7 dias** (+6.2% em 24h). Preço em linha com a média de 7 dias (+0%). 🔮 O modelo reforça a tese: **95% de chance de seguir subindo**.
 
-- **Robin van Persie (88)** — 110k coins, **+39.2% em 7 dias** (+10.6% em 24h). Preço -10% abaixo da média de 7 dias (descontada). 🔮 O modelo reforça a tese: **95% de chance de seguir subindo**.
+- **Tijjani Reijnders (87)** — 60k coins, **+30.7% em 7 dias** (+8.3% em 24h). Preço em linha com a média de 7 dias (+0%). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
 
 ## Como usar esta lista
@@ -69,8 +77,8 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 - Use a coluna *Prob. alta* para priorizar: quanto maior, mais o modelo concorda com a tendência.
 
 
-## 📐 Como o FutQuant gera estes dados
-Trabalhamos com **centenas de milhões de pontos de preço** do mercado do EA FC Ultimate Team, coletados de múltiplas fontes e atualizados várias vezes ao dia. Antes de publicar, removemos **anomalias** (cotações irreais de cartas extintas ou erros de coleta) e cruzamos preço atual, **médias móveis (24h e 7 dias)**, faixa do dia e tendência. É por isso que aqui você vê dado tratado — não número solto.
+## 📐 Como o FutQuant le o mercado
+Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de varias fontes e atualizados ao longo do dia. Antes de publicar, filtramos **anomalias** (cartas extintas, erros de coleta) e cruzamos preço atual, **médias móveis (24h e 7 dias)**, faixa do dia e tendência. Você vê aqui o que poucos sites mostram: não só o preço, mas **para onde ele tende a ir**.
 
 
 ## ❓ Perguntas frequentes
