@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T20:12:40.000Z
+pubDatetime: 2026-06-18T22:28:05.000Z
 title: "Holandeses no EA FC hoje (18/06/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -13,61 +13,61 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 18/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (18/06/2026)?"
-    a: "Givairo Read (86, Eredivisie), com +41% em 24h, a 23k coins no PC."
+    a: "Noah Ohio (87, LaLiga Hypermotion), com +25% em 24h, a 24k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Mark Flekken (84), -32.2% em 24h, a 30k coins."
+    a: "Georginio Wijnaldum (87), -32.3% em 24h, a 21k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 25 cartas em alta contra 37 em queda (média -0.62%)."
+    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 23 cartas em alta contra 42 em queda (média -0.18%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-O mercado holandês segue lateralizado nesta segunda-feira, sem uma direção clara definida pelos traders. Com 25 altas contra 37 quedas, a média geral recuou 0.62% em 24 horas, indicando cautela e volume moderado.
+O mercado de holandeses está claramente em baixa hoje, com 42 quedas superando as 23 altas e uma média negativa de 0,18% em 24 horas.
 
-> 🟢 **Maior alta:** Givairo Read (86) **+41%** · 🔴 **Maior baixa:** Mark Flekken (84) **-32.2%**
+> 🟢 **Maior alta:** Noah Ohio (87) **+25%** · 🔴 **Maior baixa:** Georginio Wijnaldum (87) **-32.3%**
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Givairo Read | 86 | Eredivisie | 23k coins | +41% | +22.2% |
-| Wesley Sneijder | 93 | Serie A TIM | 1.07M coins | +38.6% | +66.9% |
-| Mats Deijl | 88 | Eredivisie | 27k coins | +24.4% | +57.4% |
-| Dirk Kuyt | 88 | Eredivisie | 25k coins | +20.8% | +45% |
-| Jaap Stam | 87 | Premier League | 841k coins | +17% | +13.6% |
-| Jeremie Frimpong | 86 | Premier League | 205k coins | +15.9% | -1.2% |
+| Noah Ohio | 87 | LaLiga Hypermotion | 24k coins | +25% | +61.3% |
+| Tijjani Reijnders | 93 | Premier League | 525k coins | +25% | -22.8% |
+| Robin van Persie | 88 | Icons | 117k coins | +21.2% | +59.2% |
+| Ryan Gravenberch | 93 | Premier League | 465k coins | +19.7% | +5.5% |
+| Mats Deijl | 88 | Eredivisie | 25k coins | +19% | +47.1% |
+| Cody Gakpo | 89 | Premier League | 180k coins | +18.7% | +11.2% |
+| Denzel Dumfries | 89 | Serie A TIM | 90k coins | +13.1% | +33.1% |
+| Donyell Malen | 89 | Serie A TIM | 100k coins | +11.7% | +25.8% |
 | Micky van de Ven | 87 | Premier League | 2.42M coins | +10.7% | -10.4% |
-| Ryan Gravenberch | 87 | Premier League | 110k coins | +8.9% | +12.8% |
-| Jayden Oosterwolde | 87 | Trendyol Süper Lig | 297k coins | +8% | +17.4% |
-| Wouter Burger | 87 | Bundesliga | 180k coins | +7.5% | +1.2% |
+| Ryan Gravenberch | 87 | Premier League | 110k coins | +8.9% | +0.9% |
 
 
-Givairo Read liderou a alta com 41% subindo para 23k, seguido de perto por Wesley Sneijder (93) que disparou 38.6% e atingiu 1.07M. Mats Deijl e Dirk Kuyt também se destacaram com ganhos de 24.4% e 20.8% respectivamente, pressionando os 27k e 25k.
+As maiores valorizações foram lideradas por Tijjani Reijnders e Noah Ohio, ambos com alta de 25%, seguidos por Robin van Persie com 21,2% e Ryan Gravenberch com 19,7%.
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Mark Flekken | 84 | Bundesliga | 30k coins | -32.2% | -34.1% |
-| Johan Cruyff | 94 | Icons | 1.40M coins | -25% | +5.9% |
-| Georginio Wijnaldum | 84 | Brasileirão | 46k coins | -22.9% | -22.9% |
-| Cody Gakpo | 89 | Premier League | 120k coins | -20% | +20% |
-| Johan Cruyff | 93 | Icons | 535k coins | -19.2% | 0% |
-| Melle Meulensteen | 84 | Eredivisie | 32k coins | -17% | -10.6% |
-| Esmee Brugts | 88 | Liga F | 31k coins | -16% | -1.6% |
-| Dominique Janssen | 89 | Barclays WSL | 21k coins | -15.3% | +22.1% |
-| Youri Baas | 84 | Eredivisie | 35k coins | -13.9% | -0.7% |
-| Georginio Wijnaldum | 87 | Brasileirão | 27k coins | -13.3% | -11.2% |
+| Georginio Wijnaldum | 87 | Brasileirão | 21k coins | -32.3% | -30.6% |
+| Noa Lang | 91 | Trendyol Süper Lig | 35k coins | -28.9% | -20.9% |
+| Youri Baas | 84 | Eredivisie | 29k coins | -26.7% | -14% |
+| Kenneth Taylor | 84 | Eredivisie | 24k coins | -25.8% | +10.5% |
+| Johan Cruyff | 94 | Icons | 1.30M coins | -25.6% | +5% |
+| Georginio Wijnaldum | 84 | Brasileirão | 44k coins | -23% | -25% |
+| Givairo Read | 86 | Eredivisie | 22k coins | -22.1% | +6% |
+| Dominique Janssen | 89 | Barclays WSL | 22k coins | -19.4% | +27.9% |
+| Esmee Brugts | 88 | Liga F | 26k coins | -16.8% | -3.1% |
+| Joshua Zirkzee | 87 | Premier League | 24k coins | -13.5% | +24.7% |
 
 
-Johan Cruyff (94) sofreu a maior queda de 25%, despencando para 1.40M, enquanto Mark Flekken caiu 32.2% e chegou aos 30k. Georginio Wijnaldum e Cody Gakpo registraram quedas de 22.9% e 20%, caindo para 46k e 120k.
+Georginio Wijnaldum (87) despencou 32,3%, enquanto Noa Lang caiu 28,9% e Youri Baas recuou 26,7%, refletindo a força vendedora no setor.
 
 
 ## 🎯 A estratégia do dia
-Diante da volatilidade e do sentimento lateral, o ideal é evitar compras impulsivas de itens em alta alocada. Foque em segurar seus ativos de longo prazo e aproveite as quedas de títulos como Gakpo para acumular barato.
+Dada a predominância das quedas e a queda acentuada de cards icônicos como Cruyff, o cenário sugere segurar posições de alta probabilidade e evitar compras impulsivas.
 
 
 ## 📐 Como o FutQuant le o mercado
@@ -77,13 +77,13 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (18/06/2026)?**  
-Givairo Read (86, Eredivisie), com +41% em 24h, a 23k coins no PC.
+Noah Ohio (87, LaLiga Hypermotion), com +25% em 24h, a 24k coins no PC.
 
 **E a maior queda do dia?**  
-Mark Flekken (84), -32.2% em 24h, a 30k coins.
+Georginio Wijnaldum (87), -32.3% em 24h, a 21k coins.
 
 **Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado lateral — sem direção clara, com 25 cartas em alta contra 37 em queda (média -0.62%).
+Hoje o mercado está em mercado em baixa — predominam as quedas, com 23 cartas em alta contra 42 em queda (média -0.18%).
 
 **De onde vêm os preços do FutQuant?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

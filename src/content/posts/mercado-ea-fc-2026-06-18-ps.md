@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T20:11:56.000Z
+pubDatetime: 2026-06-18T22:27:27.000Z
 title: "Holandeses no EA FC hoje (18/06/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -13,59 +13,59 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 18/06/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (18/06/2026)?"
-    a: "Virgil van Dijk (95, Premier League), com +39% em 24h, a 2.84M coins no Console (PS)."
+    a: "Noa Lang (91, Trendyol Süper Lig), com +28.6% em 24h, a 24k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Patrick van Aanholt (85), -48.3% em 24h, a 30k coins."
+    a: "Patrick van Aanholt (85), -44.5% em 24h, a 26k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Kenneth Taylor (84) — 95% de probabilidade de alta, a 32k coins."
+    a: "Pelo modelo FutQuant, Jurgen Ekkelenkamp (83) — 95% de probabilidade de alta, a 42k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 36 cartas em alta contra 34 em queda (média 0.17%)."
+    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 28 cartas em alta contra 46 em queda (média -2.63%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-O mercado de holandeses segue lateralizado hoje, com um equilíbrio claro entre 36 altas e 34 quedas, resultando em uma variação média de apenas 0.17% nas últimas 24 horas. Essa falta de direção definida indica cautela dos traders, que aguardam gatilhos mais fortes para definir uma tendência clara de compra ou venda no segmento.
+O mercado de holandeses no console PS encontra-se em um cenário de baixa consolidada, com 46 quedas contra apenas 28 altas nas ultimas 24 horas. A media de variacao foi de -2.63%, indicando que a pressao vendedora continua dominando o segmento e que traders devem estar atentos a oportunidades de compra em ativos descontados.
 
-> 🟢 **Maior alta:** Virgil van Dijk (95) **+39%** · 🔴 **Maior baixa:** Patrick van Aanholt (85) **-48.3%**
+> 🟢 **Maior alta:** Noa Lang (91) **+28.6%** · 🔴 **Maior baixa:** Patrick van Aanholt (85) **-44.5%**
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Virgil van Dijk | 95 | Premier League | 2.84M coins | +39% | +11.1% |
-| Steven Berghuis | 86 | Eredivisie | 45k coins | +35% | +13.1% |
-| Denzel Dumfries | 86 | Serie A TIM | 50k coins | +32.5% | +25% |
-| Wesley Sneijder | 88 | Serie A TIM | 35k coins | +25.4% | +150.8% |
-| Frank Rijkaard | 89 | Icons | 145k coins | +20.8% | +66.7% |
-| Xavi Simons | 88 | Premier League | 40k coins | +17.3% | +23.8% |
-| Kenneth Taylor | 84 | Eredivisie | 32k coins | +16.5% | +119% |
-| Jaap Stam | 89 | Premier League | 1.05M coins | +15.7% | -9.5% |
-| Danilho Doekhi | 84 | Bundesliga | 46k coins | +11.6% | +8.3% |
-| Jeremie Frimpong | 86 | Premier League | 148k coins | +11.1% | +26% |
+| Noa Lang | 91 | Trendyol Süper Lig | 24k coins | +28.6% | -35.3% |
+| Virgil van Dijk | 95 | Premier League | 2.74M coins | +27.7% | +6.1% |
+| Frank Rijkaard | 89 | Icons | 130k coins | +16.5% | +53.1% |
+| Tijjani Reijnders | 87 | Premier League | 69k coins | +14% | +38.7% |
+| Kenneth Taylor | 84 | Eredivisie | 35k coins | +13.4% | +140% |
+| Romée Leuchter | 84 | D1 Arkema | 44k coins | +13.3% | +7.8% |
+| Danilho Doekhi | 84 | Bundesliga | 44k coins | +9.4% | -1.7% |
+| Ruud van Nistelrooy | 89 | Icons | 77k coins | +8.5% | +14.1% |
+| Jaap Stam | 89 | Premier League | 1.04M coins | +8.1% | -13.3% |
+| Johan Cruyff | 87 | Icons | 320k coins | +6.4% | +11.4% |
 
 
-Virgil van Dijk lidera as altas com impressionantes 39% para 2.84M coins, seguido de perto por Steven Berghuis, que subiu 35% e atingiu 45k coins. Denzel Dumfries e Wesley Sneijder também se destacam com aumentos de 32.5% e 25.4% respectivamente, mostrando força em carteiras de nível médio e alto.
+Virgil van Dijk lidera as altas com um salto de 27.7% para 2.74 milhoes de coins, seguido por Noa Lang que disparou 28.6% para 24k. Icones como Frank Rijkaard e Ruud van Nistelrooy tambem ganharam forca, subindo 16.5% e 8.5% respectivamente, enquanto Kenneth Taylor mostrou resiliencia com alta de 13.4%.
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Patrick van Aanholt | 85 | Eredivisie | 30k coins | -48.3% | -19.5% |
-| Marco van Basten | 91 | Icons | 80k coins | -24.7% | -2.1% |
-| Wesley Sneijder | 93 | Serie A TIM | 470k coins | -21.4% | -41.2% |
-| Dennis Bergkamp | 93 | Icons | 185k coins | -18.3% | +15.1% |
-| Cody Gakpo | 89 | Premier League | 79k coins | -15.1% | -18.1% |
-| Joël Drommel | 84 | Eredivisie | 44k coins | -11.6% | +1.7% |
-| Donyell Malen | 89 | Serie A TIM | 90k coins | -11.5% | -8.3% |
-| Romée Leuchter | 84 | D1 Arkema | 40k coins | -8.6% | -4.2% |
-| Sepp van den Berg | 89 | Premier League | 29k coins | -8.3% | +31.6% |
-| Micky van de Ven | 84 | Premier League | 520k coins | -7.8% | +4.2% |
+| Patrick van Aanholt | 85 | Eredivisie | 26k coins | -44.5% | -27.9% |
+| Wesley Sneijder | 93 | Serie A TIM | 460k coins | -21.5% | -41.4% |
+| Ruben Kluivert | 86 | Ligue 1 McDonald's | 38k coins | -21.3% | +18% |
+| Donyell Malen | 89 | Serie A TIM | 75k coins | -20% | -16.7% |
+| Dennis Bergkamp | 93 | Icons | 186k coins | -18.6% | +10.8% |
+| Robin Roefs | 87 | Premier League | 60k coins | -14.4% | -13% |
+| Tijjani Reijnders | 87 | Premier League | 135k coins | -12.9% | +5.5% |
+| Jurgen Ekkelenkamp | 83 | Serie A TIM | 42k coins | -11.4% | -17.6% |
+| Joël Drommel | 84 | Eredivisie | 44k coins | -11.1% | +2.3% |
+| Jordan Teze | 87 | Ligue 1 McDonald's | 27k coins | -10.8% | +44.6% |
 
 
-A maior queda foi registrada por Patrick van Aanholt, que despencou 48.3% e caiu para 30k coins, enquanto Marco van Basten perdeu 24.7% e agora vale 80k coins. Wesley Sneijder na versão 93 e Dennis Bergkamp também sofreram recuos significativos de 21.4% e 18.3%, refletindo a pressão de venda em ícones e lendas.
+Patrick van Aanholt sofreu a maior queda do dia, despencando 44.5% para 26k coins, um movimento extremo que sugere venda massiva ou final de demanda. Wesley Sneijder e Ruben Kluivert tambem registraram quedas significativas de 21.5% e 21.3%, respectivamente, enquanto Donyell Malen caiu 20%, refletindo a tendencia de desvalorizacao em cartas de alto custo.
 
 
 ## 🔮 O que o modelo prevê para as próximas 24h
@@ -74,17 +74,17 @@ Onde o modelo vê **mais chance de subir** nas próximas 24h (sinal de alta, alt
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
-| Kenneth Taylor | 84 | 32k coins | 39k coins | 95% |
-| Robin Roefs | 87 | 46k coins | 53k coins | 95% |
-| Xavi Simons | 88 | 40k coins | 48k coins | 95% |
+| Jurgen Ekkelenkamp | 83 | 42k coins | 53k coins | 95% |
+| Jaap Stam | 89 | 102k coins | 117k coins | 95% |
+| Robin van Persie | 88 | 103k coins | 122k coins | 95% |
+| Jeremie Frimpong | 86 | 160k coins | 197k coins | 95% |
+| Robin Roefs | 87 | 60k coins | 69k coins | 95% |
 | Frank Rijkaard | 87 | 72k coins | 86k coins | 95% |
-| Jurriën Timber | 87 | 38k coins | 48k coins | 95% |
-| Jeremie Frimpong | 86 | 148k coins | 183k coins | 95% |
-| Robin van Persie | 88 | 107k coins | 127k coins | 95% |
-| Jaap Stam | 89 | 96k coins | 111k coins | 95% |
+| Jurriën Timber | 87 | 38k coins | 49k coins | 95% |
+| Kenneth Taylor | 84 | 35k coins | 43k coins | 95% |
 
 
-O modelo projeta alta com 95% de probabilidade para Kenneth Taylor a 32k coins e Xavi Simons a 40k coins, indicando oportunidades de curto prazo. Outras carteiras com forte potencial de valorização incluem Jurriën Timber a 38k coins e Robin van Persie a 107k coins.
+O modelo projeta altas probaveis para varios ativos, destacando Jurgen Ekkelenkamp, Jaap Stam, Robin van Persie e Jeremie Frimpong com 95% de probabilidade de alta. Outros nomes como Robin Roefs, Frank Rijkaard, Jurrien Timber e Kenneth Taylor tambem compoem a lista de ativos com forte potencial de valorizacao segundo a analise.
 
 
 ## ⚠️ Alerta de queda projetada
@@ -93,18 +93,18 @@ Onde o sinal aponta **tendência de baixa** no curto prazo — atenção antes d
 
 | Jogador | OVR | Preço atual | Variação prevista |
 | --- | --- | --- | --- |
-| Givairo Read | 86 | 38k coins | -15.7% |
+| Ruben Kluivert | 86 | 38k coins | -17.5% |
 | Lynn Wilms | 86 | 30k coins | -21.3% |
-| Quinten Timber | 85 | 38k coins | -17.5% |
-| Ian Maatsen | 89 | 35k coins | -21.4% |
-| Wout Weghorst | 85 | 100k coins | -15.7% |
-| Georginio Wijnaldum | 87 | 30k coins | -17.5% |
-| Tijjani Reijnders | 87 | 60k coins | -24% |
-| Johan Cruyff | 87 | 339k coins | -21.3% |
+| Jordan Teze | 87 | 27k coins | -24% |
+| Quinten Timber | 85 | 30k coins | -17.5% |
+| Mats Deijl | 88 | 32k coins | -29.2% |
+| Denzel Dumfries | 89 | 100k coins | -17.3% |
+| Ian Maatsen | 89 | 40k coins | -21.4% |
+| Johan Cruyff | 87 | 320k coins | -21.3% |
 
 
 ## 🎯 A estratégia do dia
-Diante do cenário lateral, o foco deve ser nas carteiras com alta probabilidade de subida, como Kenneth Taylor e Xavi Simons, para lucros rápidos de baixo risco. Evite posições longas em ícones como Van Basten e Bergkamp, que continuam em tendência de queda, e monitore Van Dijk apenas para operações de swing trading.
+Diante da tendencia de baixa, a estrategia mais segura e comprar ativos com alta probabilidade de retorno, como Ekkelenkamp e Stam, ou aguardar a estabilizacao de cartas premium como Sneijder. Evite vender por panico neste momento, pois as quedas acentuadas em nomes como Van Aanholt podem oferecer pontos de entrada lucrativos para o curto prazo.
 
 
 ## 📐 Como o FutQuant le o mercado
@@ -114,16 +114,16 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (18/06/2026)?**  
-Virgil van Dijk (95, Premier League), com +39% em 24h, a 2.84M coins no Console (PS).
+Noa Lang (91, Trendyol Süper Lig), com +28.6% em 24h, a 24k coins no Console (PS).
 
 **E a maior queda do dia?**  
-Patrick van Aanholt (85), -48.3% em 24h, a 30k coins.
+Patrick van Aanholt (85), -44.5% em 24h, a 26k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Kenneth Taylor (84) — 95% de probabilidade de alta, a 32k coins.
+Pelo modelo FutQuant, Jurgen Ekkelenkamp (83) — 95% de probabilidade de alta, a 42k coins.
 
 **Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado lateral — sem direção clara, com 36 cartas em alta contra 34 em queda (média 0.17%).
+Hoje o mercado está em mercado em baixa — predominam as quedas, com 28 cartas em alta contra 46 em queda (média -2.63%).
 
 **De onde vêm os preços do FutQuant?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
