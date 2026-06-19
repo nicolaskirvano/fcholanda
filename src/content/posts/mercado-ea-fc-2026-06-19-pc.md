@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-19T19:28:35.000Z
+pubDatetime: 2026-06-19T22:32:24.000Z
 title: "Holandeses no EA FC hoje (19/06/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -13,61 +13,61 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 19/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (19/06/2026)?"
-    a: "Tijjani Reijnders (93, Premier League), com +42.9% em 24h, a 645k coins no PC."
+    a: "Georginio Wijnaldum (87, Brasileirão), com +42.9% em 24h, a 30k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Wesley Sneijder (93), -44.7% em 24h, a 597k coins."
+    a: "Jurriën Timber (87), -35.3% em 24h, a 28k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 25 cartas em alta contra 31 em queda (média -1.83%)."
+    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 19 cartas em alta contra 36 em queda (média -3.19%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-O mercado holandês neste 19 de junho de 2026 respira um ar pesado de liquidificação, com um sentimento claramente vendedor que domina a narrativa das negociações em PC. Os números são inequívocos para quem busca oportunidade de compra: enquanto apenas 25 cartas registraram alta, 31 sofreram quedas, resultando em uma média negativa de -1.83% em 24 horas para o segmento. Esse desequilíbrio sugere que investidores estão fechando posições rapidamente, possivelmente para se adequar a eventos iminentes ou para garantir lucros em um ambiente volátil. A pressão vendedora é generalizada, mas não uniforme, criando bolsões de liquidez onde ativos específicos ainda conseguem deflagrar altas significativas devido a demanda pontual ou escassez momentânea. Entender a dinâmica entre essas poucas altas e a maioria esmagadora das quedas é crucial para não ser pego de surpresa pelas oscilações irracionais que caracterizam o fim de semana no Ultimate Team.
+O mercado de cartas holandesas no EA FC Ultimate Team apresenta um cenário extremamente hostil para traders que buscam segurança, marcado por um sentimento predominantemente vendedor que resultou em um saldo negativo generalizado nas últimas 24 horas. Dos movimentos registrados, apenas 19 cartas sofreram altas significativas, enquanto 36 enfrentaram quedas de valor, consolidando uma média de desvalorização de -3.19% no segmento, o que indica uma liquidez cautelosa e uma pressão de venda constante. O contexto de hoje exige uma leitura atenta da probabilidade de alta associada a cada ativo, pois muitos jogadores que subiram em preço possuem indicadores fracos de sustentabilidade, enquanto outros que caíram exibem potencial de recuperação não explorado. Para o trader experiente, o dia de 19/06/2026 não é sobre acumulação em massa, mas sim sobre a identificação de oportunidades de compra em ativos de alta probabilidade que foram descontados excessivamente pelo pânico do mercado. A volatilidade observada nas categorias de Elite e TOTY/TOTS, combinada com a instabilidade nas ligas de acesso, cria um ambiente onde a paciência e a disciplina são os únicos diferenciais para evitar perdas capitalizadas.
 
-> 🟢 **Maior alta:** Tijjani Reijnders (93) **+42.9%** · 🔴 **Maior baixa:** Wesley Sneijder (93) **-44.7%**
+> 🟢 **Maior alta:** Georginio Wijnaldum (87) **+42.9%** · 🔴 **Maior baixa:** Jurriën Timber (87) **-35.3%**
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Tijjani Reijnders | 93 | Premier League | 645k coins | +42.9% | +36.9% |
-| Cody Gakpo | 89 | Premier League | 157k coins | +39.2% | +19.3% |
-| Marco van Basten | 91 | Icons | 94k coins | +38.4% | +38.4% |
-| Xavi Simons | 88 | Premier League | 48k coins | +32.9% | +23.2% |
-| Johan Cruyff | 93 | Icons | 685k coins | +25.7% | +29.2% |
-| Frenkie de Jong | 89 | LALIGA EA SPORTS | 1.17M coins | +21.1% | +12.2% |
-| Dominique Janssen | 89 | Barclays WSL | 22k coins | +14.5% | +35.7% |
-| Gustavo Hamer | 83 | EFL Championship | 40k coins | +11.1% | +1.3% |
-| Wesley Sneijder | 89 | Serie A TIM | 240k coins | +9.1% | -4% |
-| Ryan Gravenberch | 86 | Premier League | 55k coins | +8.9% | +10% |
+| Georginio Wijnaldum | 87 | Brasileirão | 30k coins | +42.9% | -3.2% |
+| Daley Blind | 86 | LALIGA EA SPORTS | 20k coins | +30.9% | +2.3% |
+| Steven Berghuis | 86 | Eredivisie | 49k coins | +22% | +22% |
+| Xavi Simons | 88 | Premier League | 55k coins | +14.9% | +26.8% |
+| Jaap Stam | 89 | Premier League | 2.29M coins | +14.6% | +0.7% |
+| Mark Flekken | 84 | Bundesliga | 40k coins | +13.5% | -8.6% |
+| Frank Rijkaard | 89 | Icons | 117k coins | +12.1% | +14.3% |
+| Givairo Read | 86 | Eredivisie | 25k coins | +12.1% | +27.5% |
+| Ian Maatsen | 89 | Premier League | 46k coins | +11.3% | +3.9% |
+| Tijjani Reijnders | 93 | Premier League | 570k coins | +10.5% | +5.8% |
 
 
-A despeito do clima geral de venda, Tijjani Reijnders lidera as altas com um impressionante salto de 42.9% em 24h, atingindo 645k coins, movido por uma probabilidade de alta de 39% que indica forte interesse especulativo em sua carta de 93 da Premier League. Cody Gakpo também se destaca com alta de 39.2%, chegando a 157k coins, impulsionado por uma probabilidade de alta de 51% que sugere que traders confiam na sustentabilidade do preço da sua carta de 89. Marco van Basten, o ícone de 91, subiu 38.4% para 94k coins, com probabilidade de alta de 46%, mostrando que o mercado de ícones holandeses ainda possui liquidez atrativa para investidores de médio prazo. Xavi Simons, carta de 88 da Premier League, registrou alta de 32.9% para 48k coins, com probabilidade de alta de 50%, indicando uma entrada robusta de capital em ativos de menor valor que oferecem retorno rápido. Johan Cruyff, o lendário ícone de 93, completou o top 5 com alta de 25.7% para 685k coins, embora sua probabilidade de alta de 24% sugira cautela, pois o movimento pode ser impulsionado por flutuações de curto prazo em vez de tendência estrutural.
+Entre os ativos que conseguiram resistir à pressão vendedora, Georginio Wijnaldum se destaca com um aumento agressivo de 42.9% em 24 horas, atingindo a marca de 30k coins, embora sua probabilidade de alta futura seja de apenas 28%, sugerindo que este movimento pode ser uma correção técnica de curto prazo sem sustentação de longo prazo. Daley Blind também apresenta uma performance notável com alta de 30.9% para 20k coins, apoiado por uma probabilidade de alta de 35%, o que indica um interesse renovado em defensores versáteis de ligas menores, mas ainda assim requer monitoramento constante para evitar reversões rápidas. Steven Berghuis, da Eredivisie, sobe 22% para 49k coins e é o ativo mais promissor deste grupo com uma probabilidade de alta de 62%, tornando-o um candidato ideal para compras imediatas visando revenda em poucos dias, já que o mercado reconhece seu valor subestimado. Xavi Simons, na Premier League, registra um aumento de 14.9% para 55k coins com probabilidade de alta de 50%, equilibrando risco e retorno em um ativo de alto volume, onde a liquidez facilita a entrada e saída sem grandes impactos no preço. Por fim, Jaap Stam, um ícone da Premier League, dispara 14.6% para um valor exorbitante de 2.29M coins, mas sua probabilidade de alta é de apenas 8%, caracterizando um movimento especulativo de 'whale' que deve ser evitado por traders comuns devido ao risco extremo de correção brusca e falta de suporte de demanda orgânica.
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Wesley Sneijder | 93 | Serie A TIM | 597k coins | -44.7% | -25.1% |
-| Dennis Bergkamp | 91 | Icons | 65k coins | -32% | -21.3% |
-| Jayden Oosterwolde | 87 | Trendyol Süper Lig | 213k coins | -23.9% | 0% |
-| Wouter Burger | 83 | Bundesliga | 36k coins | -23.7% | -12.1% |
-| Noa Lang | 91 | Trendyol Süper Lig | 38k coins | -18.8% | -5.6% |
-| Georginio Wijnaldum | 84 | Brasileirão | 37k coins | -18.1% | -24.4% |
-| Jaap Stam | 87 | Premier League | 698k coins | -17.7% | -6.8% |
-| Esmee Brugts | 83 | Liga F | 25k coins | -16% | -16.7% |
-| Roy Makaay | 89 | Bundesliga | 25k coins | -13.3% | +36.8% |
-| Noah Naujoks | 83 | Eredivisie | 51k coins | -11.3% | +6.5% |
+| Jurriën Timber | 87 | Premier League | 28k coins | -35.3% | -13.4% |
+| Johan Cruyff | 93 | Icons | 438k coins | -29.2% | -14.5% |
+| Jordan Teze | 87 | Ligue 1 McDonald's | 23k coins | -26.8% | +16.2% |
+| Robin Roefs | 87 | Premier League | 35k coins | -26.7% | 0% |
+| Johan Cruyff | 94 | Icons | 1.05M coins | -20.8% | -36.7% |
+| Cody Gakpo | 89 | Premier League | 137k coins | -19.9% | -2.1% |
+| Joël Drommel | 84 | Eredivisie | 34k coins | -16.6% | -15.1% |
+| Jurgen Ekkelenkamp | 83 | Serie A TIM | 34k coins | -15.6% | -15.6% |
+| Micky van de Ven | 90 | Premier League | 2.54M coins | -14.7% | +15.9% |
+| Xavi Simons | 91 | Premier League | 74k coins | -14.6% | -11.1% |
 
 
-Wesley Sneijder sofreu o maior impacto negativo com queda de 44.7% em 24h, caindo para 597k coins, e sua baixa probabilidade de alta de 20% indica que a tendência de desvalorização pode persistir, representando um risco alto para quem tentar comprar na correção. Dennis Bergkamp, ícone de 91, perdeu 32% do valor para 65k coins, com probabilidade de alta de 32%, sugerindo que a falta de demanda imediata para ícones de custo mais baixo está pressionando os preços para baixo de forma consistente. Jayden Oosterwolde, carta de 87, despencou 23.9% para 213k coins, e apesar de ter probabilidade de alta de 59%, a volatilidade extrema desse ativo exige extrema cautela, pois a queda pode ser apenas uma pausa antes de nova baixa. Wouter Burger, de 83, caiu 23.7% para 36k coins com probabilidade de alta de 57%, demonstrando que cartas de liga secundária como a Bundesliga estão sendo liquidadas sem muita resistência de compradores. Noa Lang, carta de 91, perdeu 18.8% para 38k coins, com probabilidade de alta de 44%, indicando que o mercado feminino ou de ligas menos tradicionais está sofrendo com a falta de liquidez e interesse especulativo neste momento.
+O lado negativo do mercado é dominado por Jurriën Timber, que despenca 35.3% para 28k coins, um movimento alarmante dado que sua probabilidade de alta é de 56%, indicando que esta queda é provavelmente uma oportunidade de compra forçada e não uma reavaliação fundamental do seu valor no meta. Johan Cruyff, na versão de 93 rating, recua 29.2% para 438k coins, e embora sua probabilidade de alta seja baixa em 24%, a magnitude da queda sugere um ajuste de mercado em ícones de alta faixa de preço onde a liquidez é mais sensível a mudanças de sentimento macroeconômico dentro do jogo. Jordan Teze, da Ligue 1, cai 26.8% para 23k coins com uma probabilidade de alta de 48%, representando um risco moderado, mas a queda significativa pode atrair compradores de pacotes que buscam atacantes de baixo custo, criando um suporte potencial próximo. Robin Roefs também sofre uma desvalorização acentuada de 26.7% para 35k coins, com probabilidade de alta de 55%, o que reforça a tese de que defensores da Premier League de rating médio estão sendo vendidos em massa, possivelmente devido a novas ofertas de pacotes ou mudanças na meta de SBCs. Cody Gakpo, um ativo premium da Premier League, recua 19.9% para 137k coins, e com uma probabilidade de alta de 51%, esta queda parece ser uma oportunidade de acumulação para traders de longo prazo, já que ativos dessa faixa de preço tendem a se estabilizar rapidamente após vendas em pânico.
 
 
 ## 🎯 Conclusão do dia
-A estratégia ideal para hoje é focar na compra agressiva de ativos com alta probabilidade de correção positiva, como Jayden Oosterwolde e Wouter Burger, que apesar das quedas recentes têm mais de 50% de chance de alta, oferecendo bom risco-benefício para swing trades de curto prazo. Evite expor capital em Wesley Sneijder e Dennis Bergkamp, pois as quedas acentuadas combinadas com baixas probabilidades de alta sugerem que o fundo ainda não foi atingido e os preços podem continuar caindo. Considere segurar ou vender Tijjani Reijnders e Cody Gakpo se já estiver em lucro, pois as altas de 40%+ em um mercado vendedor geralmente são sustentáveis por pouco tempo antes de uma correção. Fique atento a Johan Cruyff e Marco van Basten para entradas de longo prazo, mas espere por uma estabilização dos preços, já que as probabilidades de alta dos ícones estão divergentes. O momento é de paciência seletiva: compre os holandeses de menor cotação que estão sendo liquidados por pânico e evite perseguidores de alta em ativos que já subiram muito sem fundamentos claros de sustentabilidade.
+A estratégia para hoje deve ser agressivamente seletiva, focando na compra de ativos com alta probabilidade de retorno que sofreram quedas injustificadas, como Jurriën Timber e Robin Roefs, cujos indicadores de probabilidade de alta superam 55% apesar das quedas de mais de 26%. Evite completamente a compra de Georginio Wijnaldum e Jaap Stam, pois suas probabilidades de alta são insuficientes para justificar o risco de compra em picos de preço, servindo apenas como alvos para vendas imediatas se você já os possui em estoque. Priorize a entrada em Steven Berghuis, que combina uma alta recente com a maior probabilidade de continuidade de tendência do dia, oferecendo um perfil de risco-recompensa otimizado para operações de curto prazo. Mantenha uma posição neutra em Xavi Simons e Daley Blind, monitorando a liquidez das próximas horas para decidir se a alta se sustenta ou se reversões ocorrerão, já que suas probabilidades de 50% e 35% respectivamente indicam indecisão do mercado. O foco final deve estar na proteção do capital, evitando alavancagem em ícones como Johan Cruyff e Cody Gakpo até que haja confirmação de suporte, e aproveitando a volatilidade do mercado vendedor para acumular ativos de valor intrínseco superior ao preço atual de mercado.
 
 
 ## 🧪 De onde vêm estes números
@@ -77,13 +77,13 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (19/06/2026)?**  
-Tijjani Reijnders (93, Premier League), com +42.9% em 24h, a 645k coins no PC.
+Georginio Wijnaldum (87, Brasileirão), com +42.9% em 24h, a 30k coins no PC.
 
 **E a maior queda do dia?**  
-Wesley Sneijder (93), -44.7% em 24h, a 597k coins.
+Jurriën Timber (87), -35.3% em 24h, a 28k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**  
-Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 25 cartas em alta contra 31 em queda (média -1.83%).
+Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 19 cartas em alta contra 36 em queda (média -3.19%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
