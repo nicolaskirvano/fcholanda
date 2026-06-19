@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-19T16:28:47.000Z
+pubDatetime: 2026-06-19T19:27:59.000Z
 title: "Melhores investimentos em Holandeses no EA FC (19/06/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 19/06/2026 (Console (PS)), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (19/06/2026) no EA FC?"
-    a: "Sherida Spitse (85, Nederland Vrouwen Liga) lidera, com +68.4% em 7 dias a 30k coins no Console (PS), e o modelo dá 18% de chance de seguir subindo."
+    a: "Noah Ohio (87, LaLiga Hypermotion) lidera, com +48.6% em 7 dias a 26k coins no Console (PS), e o modelo dá 42% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,21 +23,21 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **19/06/2026** no **Console (PS)**:
 
-> 🔝 **Destaque:** Sherida Spitse (85) acumula **+68.4% em 7 dias** a 30k coins.
+> 🔝 **Destaque:** Noah Ohio (87) acumula **+48.6% em 7 dias** a 26k coins.
 
 
 ## 🧠 Análise FutQuant do dia
-A análise do mercado de cartas holandesas no EA FC Ultimate Team para o console PlayStation, datada de 19 de junho de 2026, revela uma dinâmica interessante de valorização nos últimos sete dias. Ao observarmos as tendências de alta, identificamos oportunidades distintas tanto para investidores de baixo orçamento quanto para aqueles com maior capital disponível. A volatilidade recente sugere que a demanda por jogadores específicos dessas seleções tem oscilado, criando janelas de oportunidade para entrada estratégica, desde que se considere não apenas o ganho percentual imediato, mas também a probabilidade de sustentabilidade dessa alta.
+O mercado de Ultimate Team no console PlayStation apresenta um cenário fascinante para investidores focados em jogadores holandeses, especialmente considerando a volatilidade observada nos últimos dias. Ao analisar a tendência de valorização dos últimos sete dias, identificamos oportunidades distintas que variam desde apostas de alto risco até investimentos de alta probabilidade. A data de 19 de junho de 2026 marca um momento crucial para reposicionar carteiras, aproveitando as flutuações específicas de cada ativo disponível no mercado.
 
-Entre os ativos de menor valor, destaca-se Sherida Spitse, uma carta de 85 de overall da Nederland Vrouwen Liga. Com um preço atual de 30 mil coins, ela registrou um aumento de 1,6% nas últimas 24 horas. Apesar do ganho percentual modesto, a probabilidade de alta é classificada como alta, com 18%. Isso indica uma estabilidade relativa e uma tendência de crescimento gradual, tornando-a uma opção segura para quem busca diversificar o portfólio com riscos minimizados e capital de entrada acessível.
+Entre as opções mais conservadoras e com maior potencial de retorno seguro, destaca-se Kees Smit. A carta de 86 de Overall da Eredivisie registrou uma valorização de 19,7% em apenas 24 horas, atingindo um preço de 18k coins. O que torna este ativo particularmente atrativo é a probabilidade de alta, estimada em 81%. Essa estatística sugere que a tendência de crescimento não é um evento isolado, mas sim parte de um movimento estrutural de valorização, tornando Smit uma das escolhas mais lógicas para quem busca segurança relativa no investimento a curto prazo.
 
-No segmento intermediário, Marten de Roon apresenta um desempenho robusto. A carta de 85 overall da Serie A TIM está valendo 24 mil coins e acumulou 15,9% de valorização em 24 horas. Com uma probabilidade de alta de 16%, De Roon oferece um equilíbrio atrativo entre risco e retorno. Por outro lado, Kees Smit, da Eredivisie (86 overall), é ainda mais promissor no curto prazo. Vendida por 19 mil coins, a carta subiu 16,4% em um dia, com uma impressionante probabilidade de alta de 81%, sugerindo forte pressão de compra e potencial para ganhos rápidos.
+Para os investidores com maior apetite por risco e recompensa imediata, Dirk Kuyt oferece uma narrativa interessante. A carta de 88 de Overall da Eredivisie disparou 33,3% em 24 horas, estabilizando-se nos 18k coins. Embora a probabilidade de continuidade da alta seja moderada, de 33%, a magnitude do salto recente indica forte interesse da comunidade. Kuyt representa uma oportunidade de "comprar na notícia", onde o investidor tenta capturar o momentum antes que o mercado se estabilize ou corrija os preços.
 
-Ruben Kluivert, da Ligue 1 McDonald's (86 overall), merece atenção especial pela volatilidade extrema. Sua carta valorizou 25% em 24 horas, atingindo 38 mil coins. No entanto, a probabilidade de alta é baixa, de apenas 5%. Isso caracteriza um ativo de especulação pura, ideal para traders experientes que buscam lucros rápidos de entrada e saída, mas que devem estar cientes do alto risco de reversão imediata nos preços.
+No segmento de elite, as Icons continuam a ditar o ritmo do mercado de alto valor. Dennis Bergkamp, com 91 de Overall, subiu 6,1% em 24 horas, cotado a 70k coins, com uma probabilidade de alta de 43%. Já Marco van Basten, também com 91 de Overall, registrou um aumento de 4,9% em 24 horas, atingindo 80k coins, com 35% de chance de alta. Embora os percentuais sejam menores comparados às cartas de menor overall, a solidez desses ativos os torna ideais para proteção de capital a longo prazo, com Bergkamp apresentando ligeiramente mais volatilidade positiva do que Van Basten no momento.
 
-Para investidores de alto capital, as cartas Icons e lendárias oferecem perfis distintos. Jaap Stam, da Premier League (89 overall), é o destaque de estabilidade. Com preço em 114 mil coins e alta de 2% em 24 horas, possui a maior probabilidade de alta do grupo, com 95%. É uma aposta segura para preservação e crescimento lento de capital. Em contraste, Ronald Koeman (91 Icons) a 225 mil coins subiu 13,5%, mas com apenas 8% de probabilidade de alta, indicando possível saturação ou especulação de curto prazo que requer cautela.
+Uma das surpresas positivas do dia é Donyell Malen. A carta de 89 de Overall da Serie A TIM valorizou 17,8% em 24 horas, atingindo um valor substancial de 111k coins. O dado mais impressionante aqui é a probabilidade de alta de 93%, o mais alto da lista analisada. Isso indica uma demanda extremamente forte e consistente, sugerindo que Malen pode ser o ativo mais robusto para entrada, apesar do preço elevado. A combinação de alta probabilidade e valorização significativa o coloca no topo das recomendações para carteiras com maior poder de compra.
 
-Finalmente, Dirk Kuyt (88, Eredivisie) surge como a surpresa do dia. Com 36,9% de alta em 24 horas a 22 mil coins, sua probabilidade de alta é de 33%. Esse movimento significativo combinado com uma chance moderada de continuação sugere um momento de pico de interesse, possivelmente impulsionado por SBCs ou promoções específicas. Enquanto Tijjani Reijnders (87, Premier League) a 70 mil coins e Youri Baas (84, Eredivisie) a 50 mil coins apresentam probabilidades baixas (5% e 65%, respectivamente) apesar de suas altas, a recomendação principal recai sobre Kees Smit pela alta probabilidade de continuidade e Jaap Stam pela segurança de longo prazo.
+Por fim, Noah Ohio e Roy Makaay oferecem perfis de risco distintos. Ohio, com 87 de Overall da LaLiga Hypermotion, subiu 10,6% em 24 horas a 26k coins, com 42% de probabilidade de alta, equilibrando risco e retorno. Já Makaay, com 89 de Overall da Bundesliga, teve um salto expressivo de 25% em 24 horas para 20k coins, mas sua probabilidade de alta é baixa, de apenas 5%. Isso sugere que o movimento de Makaay pode ser uma correção temporária ou uma "pump and dump", recomendando cautela extrema. Em resumo, a estratégia ideal combina a segurança de Smit e Malen com a aposta especulativa em Kuyt, evitando ativos com baixa probabilidade de continuidade como Makaay.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -45,32 +45,27 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Sherida Spitse | 85 | Nederland Vrouwen Liga | 30k coins | +1.6% | +68.4% | 18% |
-| Marten de Roon | 85 | Serie A TIM | 24k coins | +15.9% | +35.7% | 16% |
-| Ruben Kluivert | 86 | Ligue 1 McDonald's | 38k coins | +25% | +30.4% | 5% |
-| Jaap Stam | 89 | Premier League | 114k coins | +2% | +25.3% | 95% |
-| Kees Smit | 86 | Eredivisie | 19k coins | +16.4% | +24.6% | 81% |
-| Dennis Bergkamp | 91 | Icons | 78k coins | +8.8% | +24.2% | 43% |
-| Tijjani Reijnders | 87 | Premier League | 70k coins | +12.1% | +18.8% | 5% |
-| Dirk Kuyt | 88 | Eredivisie | 22k coins | +36.9% | +18.7% | 33% |
-| Ronald Koeman | 91 | Icons | 225k coins | +13.5% | +13.5% | 8% |
-| Youri Baas | 84 | Eredivisie | 50k coins | +9.8% | +13.5% | 65% |
-| Jordan Teze | 87 | Ligue 1 McDonald's | 24k coins | +3.2% | +12.9% | 5% |
-| Cody Gakpo | 89 | Premier League | 107k coins | +35.3% | +12.7% | 73% |
-| Wout Weghorst | 85 | Eredivisie | 100k coins | +2.1% | +10.6% | 5% |
+| Noah Ohio | 87 | LaLiga Hypermotion | 26k coins | +10.6% | +48.6% | 42% |
+| Roy Makaay | 89 | Bundesliga | 20k coins | +25% | +33.3% | 5% |
+| Kees Smit | 86 | Eredivisie | 18k coins | +19.7% | +28.1% | 81% |
+| Vivianne Miedema | 89 | Barclays WSL | 19k coins | +14.7% | +25.8% | 5% |
+| Dirk Kuyt | 88 | Eredivisie | 18k coins | +33.3% | +22.2% | 33% |
+| Dennis Bergkamp | 91 | Icons | 70k coins | +6.1% | +16.7% | 43% |
+| Donyell Malen | 89 | Serie A TIM | 111k coins | +17.8% | +12.8% | 93% |
+| Marco van Basten | 91 | Icons | 80k coins | +4.9% | +7.1% | 35% |
 
 
 ## 📈 Análise dos destaques
 
-- **Sherida Spitse (85)** — 30k coins, **+68.4% em 7 dias** (+1.6% em 24h). Preço em linha com a média de 7 dias (-4%). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Noah Ohio (87)** — 26k coins, **+48.6% em 7 dias** (+10.6% em 24h). Preço +22% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Marten de Roon (85)** — 24k coins, **+35.7% em 7 dias** (+15.9% em 24h). Preço +18% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Roy Makaay (89)** — 20k coins, **+33.3% em 7 dias** (+25% em 24h). Preço +19% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Ruben Kluivert (86)** — 38k coins, **+30.4% em 7 dias** (+25% em 24h). Preço +23% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Kees Smit (86)** — 18k coins, **+28.1% em 7 dias** (+19.7% em 24h). Preço +17% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **81% de chance de seguir subindo**.
 
-- **Jaap Stam (89)** — 114k coins, **+25.3% em 7 dias** (+2% em 24h). Preço +17% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **95% de chance de seguir subindo**.
+- **Vivianne Miedema (89)** — 19k coins, **+25.8% em 7 dias** (+14.7% em 24h). Preço em linha com a média de 7 dias (+7%). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Kees Smit (86)** — 19k coins, **+24.6% em 7 dias** (+16.4% em 24h). Preço +22% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **81% de chance de seguir subindo**.
+- **Dirk Kuyt (88)** — 18k coins, **+22.2% em 7 dias** (+33.3% em 24h). Preço em linha com a média de 7 dias (-4%). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
 
 ## Como usar esta lista
@@ -88,7 +83,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (19/06/2026) no EA FC?**  
-Sherida Spitse (85, Nederland Vrouwen Liga) lidera, com +68.4% em 7 dias a 30k coins no Console (PS), e o modelo dá 18% de chance de seguir subindo.
+Noah Ohio (87, LaLiga Hypermotion) lidera, com +48.6% em 7 dias a 26k coins no Console (PS), e o modelo dá 42% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
