@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-21T16:27:05.000Z
+pubDatetime: 2026-06-21T19:27:05.000Z
 title: "Jogadores baratos de Holandeses no EA FC (21/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 21/06/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (21/06/2026)?"
-    a: "Sepp van den Berg (89, Premier League) aparece como melhor custo-benefício, a 14k coins no Console (PS)."
+    a: "Sepp van den Berg (89, Premier League) aparece como melhor custo-benefício, a 15k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **21/06/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Sepp van den Berg (89) por apenas 14k coins.
+> 💰 **Melhor pechincha:** Sepp van den Berg (89) por apenas 15k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,28 +29,24 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Sepp van den Berg | 89 | CB | Premier League | 14k coins | -25% |
-| Wesley Sneijder | 88 | CAM | Serie A TIM | 11k coins | -57.7% |
-| Dirk Kuyt | 88 | CAM | Eredivisie | 15k coins | +5.6% |
-| Roy Makaay | 87 | ST | Bundesliga | 13k coins | +10.6% |
-| Luciano Valente | 87 | CAM | Eredivisie | 14k coins | -19.4% |
-| Noah Ohio | 87 | ST | LaLiga Hypermotion | 14k coins | -18.6% |
-| Dirk Kuyt | 86 | CAM | Eredivisie | 11k coins | +4.3% |
-| Kees Smit | 86 | CAM | Eredivisie | 14k coins | +10.6% |
-| Daley Blind | 86 | CB | LALIGA EA SPORTS | 15k coins | -30.2% |
+| Sepp van den Berg | 89 | CB | Premier League | 15k coins | -21.1% |
+| Wesley Sneijder | 88 | CAM | Serie A TIM | 12k coins | -55.8% |
+| Roy Makaay | 87 | ST | Bundesliga | 13k coins | +13% |
+| Dirk Kuyt | 86 | CAM | Eredivisie | 12k coins | +8.9% |
+| Loïs Openda | 83 | ST | Serie A TIM | 2k coins | +41.7% |
 
 
 ## 📈 Destaques
 
-- **Sepp van den Berg (89, CB)** da Premier League, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Sepp van den Berg (89, CB)** da Premier League, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Wesley Sneijder (88, CAM)** da Serie A TIM, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Dirk Kuyt (88, CAM)** da Eredivisie, a apenas **15k coins**
+- **Wesley Sneijder (88, CAM)** da Serie A TIM, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Roy Makaay (87, ST)** da Bundesliga, a apenas **13k coins**
 
-- **Luciano Valente (87, CAM)** da Eredivisie, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Dirk Kuyt (86, CAM)** da Eredivisie, a apenas **12k coins**
+
+- **Loïs Openda (83, ST)** da Serie A TIM, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
@@ -67,7 +63,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (21/06/2026)?**  
-Sepp van den Berg (89, Premier League) aparece como melhor custo-benefício, a 14k coins no Console (PS).
+Sepp van den Berg (89, Premier League) aparece como melhor custo-benefício, a 15k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
