@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-22T19:27:06.000Z
+pubDatetime: 2026-06-22T22:27:05.000Z
 title: "Jogadores baratos de Holandeses no EA FC (22/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,21 +29,28 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Sepp van den Berg | 89 | CB | Premier League | 14k coins | -34.9% |
-| Wesley Sneijder | 88 | CAM | Serie A TIM | 15k coins | -64% |
-| Roy Makaay | 87 | ST | Bundesliga | 12k coins | 0% |
-| Lineth Beerensteyn | 86 | ST | GPFBL | 14k coins | -11.5% |
+| Sepp van den Berg | 89 | CB | Premier League | 14k coins | -36.8% |
+| Wesley Sneijder | 88 | CAM | Serie A TIM | 12k coins | -71.7% |
+| Dirk Kuyt | 88 | CAM | Eredivisie | 13k coins | -25.9% |
+| Roy Makaay | 87 | ST | Bundesliga | 11k coins | -6.4% |
+| Luciano Valente | 87 | CAM | Eredivisie | 14k coins | -26.2% |
+| Noah Ohio | 87 | ST | LaLiga Hypermotion | 15k coins | -19.4% |
+| Dirk Kuyt | 86 | CAM | Eredivisie | 11k coins | -4.3% |
+| Kees Smit | 86 | CAM | Eredivisie | 13k coins | -19% |
+| Lineth Beerensteyn | 86 | ST | GPFBL | 14k coins | -6.5% |
 
 
 ## 📈 Destaques
 
 - **Sepp van den Berg (89, CB)** da Premier League, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Wesley Sneijder (88, CAM)** da Serie A TIM, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Wesley Sneijder (88, CAM)** da Serie A TIM, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Roy Makaay (87, ST)** da Bundesliga, a apenas **12k coins**
+- **Dirk Kuyt (88, CAM)** da Eredivisie, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Lineth Beerensteyn (86, ST)** da GPFBL, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Roy Makaay (87, ST)** da Bundesliga, a apenas **11k coins**
+
+- **Luciano Valente (87, CAM)** da Eredivisie, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
