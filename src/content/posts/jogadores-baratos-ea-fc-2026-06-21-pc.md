@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-21T22:27:10.000Z
+pubDatetime: 2026-06-22T01:27:10.000Z
 title: "Jogadores baratos de Holandeses no EA FC (21/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 21/06/2026 (PC): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (21/06/2026)?"
-    a: "Roy Makaay (89, Bundesliga) aparece como melhor custo-benefício, a 14k coins no PC."
+    a: "Roy Makaay (89, Bundesliga) aparece como melhor custo-benefício, a 13k coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **21/06/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Roy Makaay (89) por apenas 14k coins.
+> 💰 **Melhor pechincha:** Roy Makaay (89) por apenas 13k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,24 +29,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Roy Makaay | 89 | ST | Bundesliga | 14k coins | -47.7% |
-| Dirk Kuyt | 88 | CAM | Eredivisie | 13k coins | -35.8% |
+| Roy Makaay | 89 | ST | Bundesliga | 13k coins | -48% |
 | Roy Makaay | 87 | ST | Bundesliga | 11k coins | -4.3% |
-| Dirk Kuyt | 86 | CAM | Eredivisie | 11k coins | -2.3% |
-| Lineth Beerensteyn | 86 | ST | GPFBL | 14k coins | -30% |
+| Dirk Kuyt | 86 | CAM | Eredivisie | 12k coins | +4.5% |
+| Kees Smit | 86 | CAM | Eredivisie | 14k coins | -18.3% |
 
 
 ## 📈 Destaques
 
-- **Roy Makaay (89, ST)** da Bundesliga, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Dirk Kuyt (88, CAM)** da Eredivisie, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Roy Makaay (89, ST)** da Bundesliga, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Roy Makaay (87, ST)** da Bundesliga, a apenas **11k coins**
 
-- **Dirk Kuyt (86, CAM)** da Eredivisie, a apenas **11k coins**
+- **Dirk Kuyt (86, CAM)** da Eredivisie, a apenas **12k coins**
 
-- **Lineth Beerensteyn (86, ST)** da GPFBL, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Kees Smit (86, CAM)** da Eredivisie, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
@@ -63,7 +60,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (21/06/2026)?**  
-Roy Makaay (89, Bundesliga) aparece como melhor custo-benefício, a 14k coins no PC.
+Roy Makaay (89, Bundesliga) aparece como melhor custo-benefício, a 13k coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
