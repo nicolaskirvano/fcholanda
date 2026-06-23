@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-23T16:27:10.000Z
+pubDatetime: 2026-06-23T19:27:10.000Z
 title: "Jogadores baratos de Holandeses no EA FC (23/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,21 +29,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Roy Makaay | 87 | ST | Bundesliga | 11k coins | 0% |
-| Dirk Kuyt | 86 | CAM | Eredivisie | 11k coins | +9.1% |
-| Kees Smit | 86 | CAM | Eredivisie | 13k coins | -12.7% |
-| Lineth Beerensteyn | 86 | ST | GPFBL | 13k coins | -26.4% |
+| Roy Makaay | 87 | ST | Bundesliga | 11k coins | -4.3% |
+| Kees Smit | 86 | CAM | Eredivisie | 11k coins | -27% |
+| Dirk Kuyt | 86 | CAM | Eredivisie | 11k coins | +4.5% |
+| Lineth Beerensteyn | 86 | ST | GPFBL | 14k coins | -48% |
 
 
 ## 📈 Destaques
 
 - **Roy Makaay (87, ST)** da Bundesliga, a apenas **11k coins**
 
+- **Kees Smit (86, CAM)** da Eredivisie, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
 - **Dirk Kuyt (86, CAM)** da Eredivisie, a apenas **11k coins**
 
-- **Kees Smit (86, CAM)** da Eredivisie, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Lineth Beerensteyn (86, ST)** da GPFBL, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Lineth Beerensteyn (86, ST)** da GPFBL, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
