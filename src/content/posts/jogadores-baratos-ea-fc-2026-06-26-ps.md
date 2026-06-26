@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-26T19:27:05.000Z
+pubDatetime: 2026-06-26T22:27:05.000Z
 title: "Jogadores baratos de Holandeses no EA FC (26/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 26/06/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (26/06/2026)?"
-    a: "Sepp van den Berg (89, Premier League) aparece como melhor custo-benefício, a 12k coins no Console (PS)."
+    a: "Esmee Brugts (88, Liga F) aparece como melhor custo-benefício, a 14k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **26/06/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Sepp van den Berg (89) por apenas 12k coins.
+> 💰 **Melhor pechincha:** Esmee Brugts (88) por apenas 14k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,24 +29,24 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Sepp van den Berg | 89 | CB | Premier League | 12k coins | -13.3% |
-| Roy Makaay | 89 | ST | Bundesliga | 15k coins | -5.9% |
-| Wesley Sneijder | 88 | CAM | Serie A TIM | 13k coins | +10.4% |
-| Roy Makaay | 87 | ST | Bundesliga | 12k coins | 0% |
-| Dirk Kuyt | 86 | CAM | Eredivisie | 12k coins | +4.4% |
+| Esmee Brugts | 88 | LB | Liga F | 14k coins | -14.7% |
+| Wesley Sneijder | 88 | CAM | Serie A TIM | 15k coins | +25% |
+| Roy Makaay | 87 | ST | Bundesliga | 11k coins | -4.3% |
+| Dirk Kuyt | 86 | CAM | Eredivisie | 11k coins | 0% |
+| Kees Smit | 86 | CAM | Eredivisie | 13k coins | -18.8% |
 
 
 ## 📈 Destaques
 
-- **Sepp van den Berg (89, CB)** da Premier League, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Esmee Brugts (88, LB)** da Liga F, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Roy Makaay (89, ST)** da Bundesliga, a apenas **15k coins**
+- **Wesley Sneijder (88, CAM)** da Serie A TIM, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Wesley Sneijder (88, CAM)** da Serie A TIM, a apenas **13k coins**
+- **Roy Makaay (87, ST)** da Bundesliga, a apenas **11k coins**
 
-- **Roy Makaay (87, ST)** da Bundesliga, a apenas **12k coins**
+- **Dirk Kuyt (86, CAM)** da Eredivisie, a apenas **11k coins**
 
-- **Dirk Kuyt (86, CAM)** da Eredivisie, a apenas **12k coins**
+- **Kees Smit (86, CAM)** da Eredivisie, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
@@ -63,7 +63,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (26/06/2026)?**  
-Sepp van den Berg (89, Premier League) aparece como melhor custo-benefício, a 12k coins no Console (PS).
+Esmee Brugts (88, Liga F) aparece como melhor custo-benefício, a 14k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
