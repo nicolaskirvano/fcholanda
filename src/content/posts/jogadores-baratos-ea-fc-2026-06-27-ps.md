@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-27T19:27:05.000Z
+pubDatetime: 2026-06-27T22:27:05.000Z
 title: "Jogadores baratos de Holandeses no EA FC (27/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 27/06/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (27/06/2026)?"
-    a: "Sepp van den Berg (89, Premier League) aparece como melhor custo-benefício, a 14k coins no Console (PS)."
+    a: "Vivianne Miedema (89, Barclays WSL) aparece como melhor custo-benefício, a 15k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **27/06/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Sepp van den Berg (89) por apenas 14k coins.
+> 💰 **Melhor pechincha:** Vivianne Miedema (89) por apenas 15k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,26 +29,31 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Sepp van den Berg | 89 | CB | Premier League | 14k coins | -3.6% |
-| Vivianne Miedema | 89 | ST | Barclays WSL | 15k coins | -10.4% |
-| Wesley Sneijder | 88 | CAM | Serie A TIM | 15k coins | +20.4% |
-| Dirk Kuyt | 88 | CAM | Eredivisie | 15k coins | -16.7% |
-| Roy Makaay | 87 | ST | Bundesliga | 11k coins | -6.2% |
-| Noah Ohio | 87 | ST | LaLiga Hypermotion | 15k coins | +8.8% |
-| Dirk Kuyt | 86 | CAM | Eredivisie | 11k coins | 0% |
+| Vivianne Miedema | 89 | ST | Barclays WSL | 15k coins | -11.8% |
+| Wesley Sneijder | 88 | CAM | Serie A TIM | 12k coins | +16.3% |
+| Esmee Brugts | 88 | LB | Liga F | 14k coins | -3.3% |
+| Mats Deijl | 88 | RB | Eredivisie | 15k coins | -14.5% |
+| Dirk Kuyt | 88 | CAM | Eredivisie | 15k coins | -13.9% |
+| Roy Makaay | 87 | ST | Bundesliga | 12k coins | -2.1% |
+| Joshua Zirkzee | 87 | ST | Premier League | 13k coins | -15.6% |
+| Noah Ohio | 87 | ST | LaLiga Hypermotion | 14k coins | -1.8% |
+| Jordan Teze | 87 | RB | Ligue 1 McDonald's | 15k coins | -11.8% |
+| Luciano Valente | 87 | CAM | Eredivisie | 15k coins | +10.7% |
+| Dirk Kuyt | 86 | CAM | Eredivisie | 12k coins | +2.2% |
+| Kees Smit | 86 | CAM | Eredivisie | 14k coins | -6.7% |
 
 
 ## 📈 Destaques
 
-- **Sepp van den Berg (89, CB)** da Premier League, a apenas **14k coins**
-
 - **Vivianne Miedema (89, ST)** da Barclays WSL, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Wesley Sneijder (88, CAM)** da Serie A TIM, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
+- **Wesley Sneijder (88, CAM)** da Serie A TIM, a apenas **12k coins** — já **valorizando**, sinal de procura crescente.
+
+- **Esmee Brugts (88, LB)** da Liga F, a apenas **14k coins**
+
+- **Mats Deijl (88, RB)** da Eredivisie, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Dirk Kuyt (88, CAM)** da Eredivisie, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Roy Makaay (87, ST)** da Bundesliga, a apenas **11k coins**
 
 
 ## Por que estas cartas?
@@ -65,7 +70,7 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (27/06/2026)?**  
-Sepp van den Berg (89, Premier League) aparece como melhor custo-benefício, a 14k coins no Console (PS).
+Vivianne Miedema (89, Barclays WSL) aparece como melhor custo-benefício, a 15k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
