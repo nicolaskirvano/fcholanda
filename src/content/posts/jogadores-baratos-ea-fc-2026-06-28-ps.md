@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-28T16:27:05.000Z
+pubDatetime: 2026-06-28T19:27:06.000Z
 title: "Jogadores baratos de Holandeses no EA FC (28/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -30,13 +30,14 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Vivianne Miedema | 89 | ST | Barclays WSL | 14k coins | -19.4% |
-| Sepp van den Berg | 89 | CB | Premier League | 14k coins | -15.3% |
-| Esmee Brugts | 88 | LB | Liga F | 13k coins | -16.4% |
-| Dirk Kuyt | 88 | CAM | Eredivisie | 15k coins | -14.5% |
-| Roy Makaay | 87 | ST | Bundesliga | 11k coins | -8.3% |
-| Noah Ohio | 87 | ST | LaLiga Hypermotion | 14k coins | -12.9% |
-| Luciano Valente | 87 | CAM | Eredivisie | 14k coins | +7.7% |
-| Dirk Kuyt | 86 | CAM | Eredivisie | 11k coins | 0% |
+| Sepp van den Berg | 89 | CB | Premier League | 14k coins | -15% |
+| Esmee Brugts | 88 | LB | Liga F | 14k coins | -21.2% |
+| Dirk Kuyt | 88 | CAM | Eredivisie | 15k coins | -10.4% |
+| Roy Makaay | 87 | ST | Bundesliga | 12k coins | -2.1% |
+| Jordan Teze | 87 | RB | Ligue 1 McDonald's | 14k coins | -18.8% |
+| Luciano Valente | 87 | CAM | Eredivisie | 14k coins | +5.6% |
+| Joshua Zirkzee | 87 | ST | Premier League | 14k coins | -9.4% |
+| Dirk Kuyt | 86 | CAM | Eredivisie | 11k coins | +2.2% |
 
 
 ## 📈 Destaques
@@ -45,11 +46,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Sepp van den Berg (89, CB)** da Premier League, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Esmee Brugts (88, LB)** da Liga F, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Esmee Brugts (88, LB)** da Liga F, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Dirk Kuyt (88, CAM)** da Eredivisie, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Roy Makaay (87, ST)** da Bundesliga, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Roy Makaay (87, ST)** da Bundesliga, a apenas **12k coins**
 
 
 ## Por que estas cartas?
