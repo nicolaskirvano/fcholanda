@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-28T22:27:05.000Z
+pubDatetime: 2026-06-29T01:27:05.000Z
 title: "Jogadores baratos de Holandeses no EA FC (28/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,30 +29,27 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Sepp van den Berg | 89 | CB | Premier League | 14k coins | -5.1% |
-| Wesley Sneijder | 88 | CAM | Serie A TIM | 13k coins | -3.6% |
-| Esmee Brugts | 88 | LB | Liga F | 13k coins | -27.9% |
-| Dirk Kuyt | 88 | CAM | Eredivisie | 14k coins | -6.7% |
-| Mats Deijl | 88 | RB | Eredivisie | 15k coins | -23.1% |
-| Roy Makaay | 87 | ST | Bundesliga | 12k coins | +2.1% |
-| Noah Ohio | 87 | ST | LaLiga Hypermotion | 14k coins | -14.7% |
-| Luciano Valente | 87 | CAM | Eredivisie | 14k coins | 0% |
-| Dirk Kuyt | 86 | CAM | Eredivisie | 12k coins | +4.4% |
-| Kees Smit | 86 | CAM | Eredivisie | 14k coins | +5.8% |
-| Marten de Roon | 85 | CM | Serie A TIM | 14k coins | -16.7% |
+| Sepp van den Berg | 89 | CB | Premier League | 14k coins | -6.9% |
+| Dominique Janssen | 89 | CDM | Barclays WSL | 14k coins | -23.3% |
+| Esmee Brugts | 88 | LB | Liga F | 12k coins | -28.6% |
+| Roy Makaay | 87 | ST | Bundesliga | 12k coins | -4% |
+| Noah Ohio | 87 | ST | LaLiga Hypermotion | 12k coins | -28.6% |
+| Luciano Valente | 87 | CAM | Eredivisie | 15k coins | +7.4% |
+| Dirk Kuyt | 86 | CAM | Eredivisie | 12k coins | +4.5% |
+| Marten de Roon | 85 | CM | Serie A TIM | 13k coins | -31.1% |
 
 
 ## 📈 Destaques
 
 - **Sepp van den Berg (89, CB)** da Premier League, a apenas **14k coins**
 
-- **Wesley Sneijder (88, CAM)** da Serie A TIM, a apenas **13k coins**
+- **Dominique Janssen (89, CDM)** da Barclays WSL, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Esmee Brugts (88, LB)** da Liga F, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Esmee Brugts (88, LB)** da Liga F, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Dirk Kuyt (88, CAM)** da Eredivisie, a apenas **14k coins**
+- **Roy Makaay (87, ST)** da Bundesliga, a apenas **12k coins**
 
-- **Mats Deijl (88, RB)** da Eredivisie, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Noah Ohio (87, ST)** da LaLiga Hypermotion, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
