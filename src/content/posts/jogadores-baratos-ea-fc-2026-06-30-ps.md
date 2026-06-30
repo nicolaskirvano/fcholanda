@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-30T16:27:05.000Z
+pubDatetime: 2026-06-30T19:27:06.000Z
 title: "Jogadores baratos de Holandeses no EA FC (30/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,10 +29,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Dominique Janssen | 89 | CDM | Barclays WSL | 14k coins | -31.2% |
+| Dominique Janssen | 89 | CDM | Barclays WSL | 14k coins | -28.6% |
 | Wesley Sneijder | 88 | CAM | Serie A TIM | 12k coins | -16.7% |
 | Roy Makaay | 87 | ST | Bundesliga | 14k coins | +22.7% |
-| Luciano Valente | 87 | CAM | Eredivisie | 14k coins | -10% |
+| Luciano Valente | 87 | CAM | Eredivisie | 14k coins | -6.9% |
+| Dirk Kuyt | 86 | CAM | Eredivisie | 11k coins | -2.2% |
 
 
 ## 📈 Destaques
@@ -43,7 +44,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Roy Makaay (87, ST)** da Bundesliga, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Luciano Valente (87, CAM)** da Eredivisie, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Luciano Valente (87, CAM)** da Eredivisie, a apenas **14k coins**
+
+- **Dirk Kuyt (86, CAM)** da Eredivisie, a apenas **11k coins**
 
 
 ## Por que estas cartas?

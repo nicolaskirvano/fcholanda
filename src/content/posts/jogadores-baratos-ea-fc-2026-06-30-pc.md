@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-30T16:27:10.000Z
+pubDatetime: 2026-06-30T19:27:10.000Z
 title: "Jogadores baratos de Holandeses no EA FC (30/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Vivianne Miedema | 89 | ST | Barclays WSL | 14k coins | -32.5% |
-| Sepp van den Berg | 89 | CB | Premier League | 15k coins | -19.2% |
+| Sepp van den Berg | 89 | CB | Premier League | 15k coins | -20.3% |
 | Roy Makaay | 87 | ST | Bundesliga | 11k coins | 0% |
-| Dirk Kuyt | 86 | CAM | Eredivisie | 11k coins | -4.4% |
+| Dirk Kuyt | 86 | CAM | Eredivisie | 11k coins | -2.3% |
 
 
 ## 📈 Destaques
