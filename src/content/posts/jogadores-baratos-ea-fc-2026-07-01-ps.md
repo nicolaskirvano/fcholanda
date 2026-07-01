@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-01T19:27:06.000Z
+pubDatetime: 2026-07-01T22:27:05.000Z
 title: "Jogadores baratos de Holandeses no EA FC (01/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,25 +29,23 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Sepp van den Berg | 89 | CB | Premier League | 13k coins | +23.6% |
-| Dominique Janssen | 89 | CDM | Barclays WSL | 15k coins | -4.6% |
-| Wesley Sneijder | 88 | CAM | Serie A TIM | 12k coins | -33.3% |
-| Esmee Brugts | 88 | LB | Liga F | 14k coins | +7.5% |
+| Sepp van den Berg | 89 | CB | Premier League | 13k coins | -3.7% |
+| Roy Makaay | 89 | ST | Bundesliga | 14k coins | 0% |
+| Dominique Janssen | 89 | CDM | Barclays WSL | 15k coins | -20.9% |
+| Wesley Sneijder | 88 | CAM | Serie A TIM | 12k coins | -32.9% |
 | Roy Makaay | 87 | ST | Bundesliga | 12k coins | -2.1% |
-| Noah Ohio | 87 | ST | LaLiga Hypermotion | 15k coins | -20.3% |
-| Dirk Kuyt | 86 | CAM | Eredivisie | 12k coins | +2.2% |
-| Marten de Roon | 85 | CM | Serie A TIM | 14k coins | -29.9% |
+| Dirk Kuyt | 86 | CAM | Eredivisie | 12k coins | +4.4% |
 
 
 ## 📈 Destaques
 
-- **Sepp van den Berg (89, CB)** da Premier League, a apenas **13k coins** — já **valorizando**, sinal de procura crescente.
+- **Sepp van den Berg (89, CB)** da Premier League, a apenas **13k coins**
 
-- **Dominique Janssen (89, CDM)** da Barclays WSL, a apenas **15k coins**
+- **Roy Makaay (89, ST)** da Bundesliga, a apenas **14k coins**
+
+- **Dominique Janssen (89, CDM)** da Barclays WSL, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Wesley Sneijder (88, CAM)** da Serie A TIM, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Esmee Brugts (88, LB)** da Liga F, a apenas **14k coins**
 
 - **Roy Makaay (87, ST)** da Bundesliga, a apenas **12k coins**
 
