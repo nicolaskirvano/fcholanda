@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-30T22:27:05.000Z
+pubDatetime: 2026-07-01T01:27:06.000Z
 title: "Jogadores baratos de Holandeses no EA FC (30/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -30,11 +30,12 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Roy Makaay | 89 | ST | Bundesliga | 13k coins | -8.6% |
-| Dominique Janssen | 89 | CDM | Barclays WSL | 14k coins | -30.4% |
-| Wesley Sneijder | 88 | CAM | Serie A TIM | 12k coins | -18% |
+| Dominique Janssen | 89 | CDM | Barclays WSL | 14k coins | -28.6% |
+| Dirk Kuyt | 88 | CAM | Eredivisie | 12k coins | -26.2% |
+| Wesley Sneijder | 88 | CAM | Serie A TIM | 12k coins | -16.7% |
 | Noah Ohio | 87 | ST | LaLiga Hypermotion | 13k coins | -25.7% |
 | Roy Makaay | 87 | ST | Bundesliga | 14k coins | +22.7% |
-| Luciano Valente | 87 | CAM | Eredivisie | 14k coins | -10% |
+| Luciano Valente | 87 | CAM | Eredivisie | 14k coins | -6.9% |
 | Dirk Kuyt | 86 | CAM | Eredivisie | 11k coins | -2.2% |
 
 
@@ -44,11 +45,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Dominique Janssen (89, CDM)** da Barclays WSL, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
+- **Dirk Kuyt (88, CAM)** da Eredivisie, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
 - **Wesley Sneijder (88, CAM)** da Serie A TIM, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Noah Ohio (87, ST)** da LaLiga Hypermotion, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Roy Makaay (87, ST)** da Bundesliga, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
