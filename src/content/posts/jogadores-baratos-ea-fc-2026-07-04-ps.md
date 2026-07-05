@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-04T22:27:05.000Z
+pubDatetime: 2026-07-05T01:27:05.000Z
 title: "Jogadores baratos de Holandeses no EA FC (04/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,21 +29,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Sepp van den Berg | 89 | CB | Premier League | 12k coins | -16.9% |
-| Wesley Sneijder | 88 | CAM | Serie A TIM | 12k coins | -1.7% |
-| Kees Smit | 86 | CAM | Eredivisie | 15k coins | +5.3% |
-| Marten de Roon | 85 | CM | Serie A TIM | 14k coins | -30% |
+| Sepp van den Berg | 89 | CB | Premier League | 12k coins | -14.3% |
+| Wesley Sneijder | 88 | CAM | Serie A TIM | 13k coins | -8.8% |
+| Noah Ohio | 87 | ST | LaLiga Hypermotion | 15k coins | +7.1% |
+| Dirk Kuyt | 86 | CAM | Eredivisie | 13k coins | +15.6% |
 
 
 ## 📈 Destaques
 
 - **Sepp van den Berg (89, CB)** da Premier League, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Wesley Sneijder (88, CAM)** da Serie A TIM, a apenas **12k coins**
+- **Wesley Sneijder (88, CAM)** da Serie A TIM, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Kees Smit (86, CAM)** da Eredivisie, a apenas **15k coins**
+- **Noah Ohio (87, ST)** da LaLiga Hypermotion, a apenas **15k coins**
 
-- **Marten de Roon (85, CM)** da Serie A TIM, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Dirk Kuyt (86, CAM)** da Eredivisie, a apenas **13k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
