@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-05T22:27:05.000Z
+pubDatetime: 2026-07-06T01:27:06.000Z
 title: "Jogadores baratos de Holandeses no EA FC (05/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,10 +29,10 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Sepp van den Berg | 89 | CB | Premier League | 12k coins | -12.7% |
-| Wesley Sneijder | 88 | CAM | Serie A TIM | 14k coins | +14.3% |
-| Dirk Kuyt | 86 | CAM | Eredivisie | 11k coins | +2.2% |
-| Denzel Dumfries | 86 | RB | Serie A TIM | 15k coins | -67% |
+| Sepp van den Berg | 89 | CB | Premier League | 12k coins | -10.9% |
+| Wesley Sneijder | 88 | CAM | Serie A TIM | 14k coins | +12% |
+| Dirk Kuyt | 86 | CAM | Eredivisie | 12k coins | +2.2% |
+| Denzel Dumfries | 86 | RB | Serie A TIM | 13k coins | -69.8% |
 
 
 ## 📈 Destaques
@@ -41,9 +41,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Wesley Sneijder (88, CAM)** da Serie A TIM, a apenas **14k coins**
 
-- **Dirk Kuyt (86, CAM)** da Eredivisie, a apenas **11k coins**
+- **Dirk Kuyt (86, CAM)** da Eredivisie, a apenas **12k coins**
 
-- **Denzel Dumfries (86, RB)** da Serie A TIM, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Denzel Dumfries (86, RB)** da Serie A TIM, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
