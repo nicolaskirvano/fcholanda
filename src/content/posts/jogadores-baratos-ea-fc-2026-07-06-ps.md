@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-06T19:27:06.000Z
+pubDatetime: 2026-07-06T22:27:05.000Z
 title: "Jogadores baratos de Holandeses no EA FC (06/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -30,10 +30,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Sepp van den Berg | 89 | CB | Premier League | 13k coins | -16.4% |
-| Wesley Sneijder | 88 | CAM | Serie A TIM | 14k coins | +2% |
-| Roy Makaay | 87 | ST | Bundesliga | 15k coins | +9.3% |
-| Dirk Kuyt | 86 | CAM | Eredivisie | 13k coins | +15.9% |
-| Kees Smit | 86 | CAM | Eredivisie | 13k coins | -19.7% |
+| Wesley Sneijder | 88 | CAM | Serie A TIM | 14k coins | +8% |
+| Dirk Kuyt | 86 | CAM | Eredivisie | 12k coins | +18.2% |
+| Lineth Beerensteyn | 86 | ST | GPFBL | 14k coins | -7.2% |
 
 
 ## 📈 Destaques
@@ -42,11 +41,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Wesley Sneijder (88, CAM)** da Serie A TIM, a apenas **14k coins**
 
-- **Roy Makaay (87, ST)** da Bundesliga, a apenas **15k coins**
+- **Dirk Kuyt (86, CAM)** da Eredivisie, a apenas **12k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Dirk Kuyt (86, CAM)** da Eredivisie, a apenas **13k coins** — já **valorizando**, sinal de procura crescente.
-
-- **Kees Smit (86, CAM)** da Eredivisie, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Lineth Beerensteyn (86, ST)** da GPFBL, a apenas **14k coins**
 
 
 ## Por que estas cartas?
