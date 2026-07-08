@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-08T19:27:05.000Z
+pubDatetime: 2026-07-08T22:27:05.000Z
 title: "Jogadores baratos de Holandeses no EA FC (08/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,22 +29,19 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Sepp van den Berg | 89 | CB | Premier League | 13k coins | -13.3% |
-| Dirk Kuyt | 88 | CAM | Eredivisie | 14k coins | -22.9% |
-| Wesley Sneijder | 88 | CAM | Serie A TIM | 14k coins | +12% |
-| Roy Makaay | 87 | ST | Bundesliga | 14k coins | +19.6% |
-| Dirk Kuyt | 86 | CAM | Eredivisie | 12k coins | +19.6% |
+| Sepp van den Berg | 89 | CB | Premier League | 13k coins | -12.1% |
+| Wesley Sneijder | 88 | CAM | Serie A TIM | 14k coins | +16% |
+| Jordan Teze | 87 | RB | Ligue 1 McDonald's | 15k coins | +3.3% |
+| Dirk Kuyt | 86 | CAM | Eredivisie | 12k coins | +15.6% |
 
 
 ## 📈 Destaques
 
 - **Sepp van den Berg (89, CB)** da Premier League, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Dirk Kuyt (88, CAM)** da Eredivisie, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Wesley Sneijder (88, CAM)** da Serie A TIM, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Wesley Sneijder (88, CAM)** da Serie A TIM, a apenas **14k coins**
-
-- **Roy Makaay (87, ST)** da Bundesliga, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
+- **Jordan Teze (87, RB)** da Ligue 1 McDonald's, a apenas **15k coins**
 
 - **Dirk Kuyt (86, CAM)** da Eredivisie, a apenas **12k coins** — já **valorizando**, sinal de procura crescente.
 
