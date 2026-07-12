@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-12T16:27:05.000Z
+pubDatetime: 2026-07-12T19:27:05.000Z
 title: "Jogadores baratos de Holandeses no EA FC (12/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,26 +29,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Sepp van den Berg | 89 | CB | Premier League | 12k coins | 0% |
-| Vivianne Miedema | 89 | ST | Barclays WSL | 14k coins | -30.6% |
+| Sepp van den Berg | 89 | CB | Premier League | 12k coins | -4% |
 | Wesley Sneijder | 88 | CAM | Serie A TIM | 13k coins | -3.6% |
-| Dirk Kuyt | 88 | CAM | Eredivisie | 14k coins | -29.1% |
-| Mats Deijl | 88 | RB | Eredivisie | 14k coins | -20% |
-| Roy Makaay | 87 | ST | Bundesliga | 13k coins | -23% |
-| Dirk Kuyt | 86 | CAM | Eredivisie | 12k coins | -4.2% |
+| Roy Makaay | 87 | ST | Bundesliga | 13k coins | -13.3% |
+| Dirk Kuyt | 86 | CAM | Eredivisie | 12k coins | +4.3% |
 
 
 ## 📈 Destaques
 
 - **Sepp van den Berg (89, CB)** da Premier League, a apenas **12k coins**
 
-- **Vivianne Miedema (89, ST)** da Barclays WSL, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **Wesley Sneijder (88, CAM)** da Serie A TIM, a apenas **13k coins**
 
-- **Dirk Kuyt (88, CAM)** da Eredivisie, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Roy Makaay (87, ST)** da Bundesliga, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Mats Deijl (88, RB)** da Eredivisie, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Dirk Kuyt (86, CAM)** da Eredivisie, a apenas **12k coins**
 
 
 ## Por que estas cartas?
