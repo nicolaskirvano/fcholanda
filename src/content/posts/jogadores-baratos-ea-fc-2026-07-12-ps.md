@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-12T10:27:05.000Z
+pubDatetime: 2026-07-12T13:27:05.000Z
 title: "Jogadores baratos de Holandeses no EA FC (12/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,26 +29,25 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Sepp van den Berg | 89 | CB | Premier League | 13k coins | +2% |
-| Wesley Sneijder | 88 | CAM | Serie A TIM | 13k coins | +1.9% |
-| Dirk Kuyt | 88 | CAM | Eredivisie | 15k coins | -20% |
-| Roy Makaay | 87 | ST | Bundesliga | 13k coins | -17.2% |
-| Noah Ohio | 87 | ST | LaLiga Hypermotion | 13k coins | -4.9% |
-| Dirk Kuyt | 86 | CAM | Eredivisie | 12k coins | -5.8% |
-| Kees Smit | 86 | CAM | Eredivisie | 15k coins | -9.2% |
+| Sepp van den Berg | 89 | CB | Premier League | 13k coins | +4% |
+| Wesley Sneijder | 88 | CAM | Serie A TIM | 14k coins | +7.8% |
+| Mats Deijl | 88 | RB | Eredivisie | 15k coins | -19.7% |
+| Roy Makaay | 87 | ST | Bundesliga | 13k coins | -25.8% |
+| Dirk Kuyt | 86 | CAM | Eredivisie | 12k coins | -9.6% |
+| Kees Smit | 86 | CAM | Eredivisie | 13k coins | -11.7% |
 
 
 ## 📈 Destaques
 
 - **Sepp van den Berg (89, CB)** da Premier League, a apenas **13k coins**
 
-- **Wesley Sneijder (88, CAM)** da Serie A TIM, a apenas **13k coins**
+- **Wesley Sneijder (88, CAM)** da Serie A TIM, a apenas **14k coins**
 
-- **Dirk Kuyt (88, CAM)** da Eredivisie, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Mats Deijl (88, RB)** da Eredivisie, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Roy Makaay (87, ST)** da Bundesliga, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Noah Ohio (87, ST)** da LaLiga Hypermotion, a apenas **13k coins**
+- **Dirk Kuyt (86, CAM)** da Eredivisie, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
