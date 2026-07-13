@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-13T13:27:06.000Z
+pubDatetime: 2026-07-13T16:27:05.000Z
 title: "Jogadores baratos de Holandeses no EA FC (13/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,10 +29,10 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Sepp van den Berg | 89 | CB | Premier League | 13k coins | +4% |
-| Wesley Sneijder | 88 | CAM | Serie A TIM | 12k coins | -7.1% |
-| Mats Deijl | 88 | RB | Eredivisie | 13k coins | -26.8% |
-| Roy Makaay | 87 | ST | Bundesliga | 12k coins | 0% |
+| Sepp van den Berg | 89 | CB | Premier League | 13k coins | +2% |
+| Wesley Sneijder | 88 | CAM | Serie A TIM | 13k coins | -5.6% |
+| Mats Deijl | 88 | RB | Eredivisie | 15k coins | -18.6% |
+| Roy Makaay | 87 | ST | Bundesliga | 12k coins | +8.9% |
 | Dirk Kuyt | 86 | CAM | Eredivisie | 12k coins | 0% |
 
 
@@ -40,9 +40,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Sepp van den Berg (89, CB)** da Premier League, a apenas **13k coins**
 
-- **Wesley Sneijder (88, CAM)** da Serie A TIM, a apenas **12k coins**
+- **Wesley Sneijder (88, CAM)** da Serie A TIM, a apenas **13k coins**
 
-- **Mats Deijl (88, RB)** da Eredivisie, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Mats Deijl (88, RB)** da Eredivisie, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Roy Makaay (87, ST)** da Bundesliga, a apenas **12k coins**
 
