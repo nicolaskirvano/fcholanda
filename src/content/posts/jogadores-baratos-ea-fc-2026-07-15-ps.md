@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-15T13:27:05.000Z
+pubDatetime: 2026-07-15T16:27:05.000Z
 title: "Jogadores baratos de Holandeses no EA FC (15/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,9 +29,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Sepp van den Berg | 89 | CB | Premier League | 14k coins | +5.9% |
-| Wesley Sneijder | 88 | CAM | Serie A TIM | 14k coins | -4.9% |
-| Roy Makaay | 87 | ST | Bundesliga | 12k coins | -7.7% |
+| Sepp van den Berg | 89 | CB | Premier League | 14k coins | +14% |
+| Wesley Sneijder | 88 | CAM | Serie A TIM | 14k coins | -1.7% |
+| Roy Makaay | 87 | ST | Bundesliga | 12k coins | -5.8% |
 | Dirk Kuyt | 86 | CAM | Eredivisie | 12k coins | +4.3% |
 
 
