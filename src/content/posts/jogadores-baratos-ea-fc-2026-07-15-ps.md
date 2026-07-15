@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-15T19:27:05.000Z
+pubDatetime: 2026-07-15T22:27:05.000Z
 title: "Jogadores baratos de Holandeses no EA FC (15/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,21 +29,24 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Sepp van den Berg | 89 | CB | Premier League | 14k coins | +10% |
-| Roy Makaay | 87 | ST | Bundesliga | 12k coins | -2% |
-| Luciano Valente | 87 | CAM | Eredivisie | 15k coins | +1.4% |
-| Dirk Kuyt | 86 | CAM | Eredivisie | 12k coins | +10.6% |
+| Sepp van den Berg | 89 | CB | Premier League | 14k coins | +22% |
+| Esmee Brugts | 88 | LB | Liga F | 12k coins | +4.1% |
+| Roy Makaay | 87 | ST | Bundesliga | 12k coins | -3.8% |
+| Dirk Kuyt | 86 | CAM | Eredivisie | 12k coins | +6.4% |
+| Lineth Beerensteyn | 86 | ST | GPFBL | 14k coins | -15.5% |
 
 
 ## 📈 Destaques
 
-- **Sepp van den Berg (89, CB)** da Premier League, a apenas **14k coins**
+- **Sepp van den Berg (89, CB)** da Premier League, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
+
+- **Esmee Brugts (88, LB)** da Liga F, a apenas **12k coins**
 
 - **Roy Makaay (87, ST)** da Bundesliga, a apenas **12k coins**
 
-- **Luciano Valente (87, CAM)** da Eredivisie, a apenas **15k coins**
-
 - **Dirk Kuyt (86, CAM)** da Eredivisie, a apenas **12k coins**
+
+- **Lineth Beerensteyn (86, ST)** da GPFBL, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
