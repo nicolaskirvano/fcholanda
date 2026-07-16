@@ -5,9 +5,9 @@ export default defineAstroPaperConfig({
     url: "https://fcholanda.pages.dev/",
     title: "Holanda FUT Market",
     description:
-      "Precos e mercado dos jogadores holandeses no EA FC Ultimate Team, todos os dias.",
+      "preços e mercado dos jogadores holandeses no EA FC Ultimate Team, todos os dias.",
     author: "Holanda FUT Market",
-    profile: "https://fcholanda.pages.dev/",
+    profile: "https://fcholanda.pages.dev/about/",
     publisher: {
       type: "Organization",
       name: "Holanda FUT Market",
