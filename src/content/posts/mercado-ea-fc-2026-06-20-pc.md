@@ -27,13 +27,11 @@ A mediana de 24h do recorte ficou em **-2,8%**: 10 destaques subiam e 10 caíam.
 *Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
 <!-- /historical-review:v1 -->
 
-## 📊 Como está o mercado agora
+## Dados preservados do snapshot
 
-O mercado de jogadores holandeses em PC apresenta um cenário de alta volatilidade e falta de direcionamento claro para a sessão de 20 de junho de 2026, caracterizado por um sentimento indefinido onde não há uma tendência dominante que guie os traders com segurança. Com um balanço quase equilibrado entre pressões de compra e venda, registramos 27 movimentos de alta contra 33 quedas, resultando em uma média negativa de -1.1% nas últimas 24 horas, o que indica uma leve preferência dos traders por realizar lucros ou cortar perdas do que por acumular ativos. Este ambiente de incerteza exige extrema cautela, pois a dispersão dos preços sugere que o mercado está reagindo pontualmente a eventos específicos ou rotatividade de elencos, sem uma narrativa macroeconômica forte sustentando os valores. Traders experientes devem evitar apostas cegas em momentum e focar em oportunidades de arbitragem ou compra em pânico, aproveitando a desordem para adquirir ativos de qualidade a preços descontados antes de uma possível estabilização. A chave para o sucesso hoje está na identificação de quais jogadores estão sendo subvalorizados pelo pânico generalizado e quais estão superaquecidos por especulação de curto prazo.
+As 2 tabelas abaixo preservam **20 registros** de **18 jogadores** observados em 20/06/2026 no PC. Valores repetidos permanecem no arquivo quando a mesma carta apareceu em recortes diferentes.
 
-> 🟢 **Maior alta:** Youri Baas (84) **+57%** · 🔴 **Maior baixa:** Ian Maatsen (89) **-49.4%**
-
-## 🟢 Maiores altas (24h)
+### Cotações e variações registradas
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
@@ -48,11 +46,7 @@ O mercado de jogadores holandeses em PC apresenta um cenário de alta volatilida
 | Georginio Wijnaldum | 84 | Brasileirão | 63k coins | +22.3% | +27.9% |
 | Esmee Brugts | 83 | Liga F | 29k coins | +16% | -3.3% |
 
-
-A liderança das altas é comandada por Youri Baas, que registrou um impressionante aumento de 57% em 24 horas, atingindo os 48k de coins, impulsionado por uma probabilidade de alta de 58% que atraiu especuladores de curto prazo. Seguido de perto por Wouter Burger, que subiu 47.4% para os 49k, com uma probabilidade similar de 57% de continuar subindo, indicando forte interesse em defensores de ligas secundárias como a Bundesliga. Jordan Teze também se destaca com alta de 36.4% para 30k, embora sua probabilidade de alta seja mais moderada em 48%, sugerindo que o movimento pode ser mais sensível a notícias de transferência do que a demanda orgânica de squads. No topo da tabela de valor absoluto, Frenkie de Jong registrou alta de 33.3% para 1.07M, mas a baixa probabilidade de alta de 18% alerta para uma possível saturação e correção iminente, tornando-o um ativo de risco elevado para novos entrantes. Joshua Zirkzee completou o grupo principal com alta de 31.6% para 25k, com probabilidade de 40%, enquanto Cody Gakpo subiu 28.6% para 180k com probabilidade de 51%, mostrando que estrelas da Premier League ainda possuem resiliência de preço mesmo em dias de mercado indefinido.
-
-
-## 🔴 Quem mais caiu (24h)
+### Cotações e variações registradas
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
@@ -67,38 +61,14 @@ A liderança das altas é comandada por Youri Baas, que registrou um impressiona
 | Johan Cruyff | 87 | Icons | 290k coins | -21.6% | -17.1% |
 | Wouter Burger | 87 | Bundesliga | 153k coins | -21.5% | -10% |
 
+## Como interpretar este arquivo
 
-O lado das quedas apresenta oportunidades de compra agressiva, lideradas por Ian Maatsen, que despencou 49.4% para 22k, apesar de manter uma alta probabilidade de alta de 66%, sugerindo um desequilíbrio temporário de oferta e demanda ideal para acumulação. Jurriën Timber caiu 45.6% para 22k com probabilidade de 56%, refletindo possivelmente vendas de pânico de traders que perderam paciência com a lateral, criando um fundo técnico interessante para entrada. Xavi Simons teve queda de 45.5% para 36k com probabilidade de 50%, indicando um ponto de inflexão onde a venda excessiva pode estar terminando e a estabilização se aproximando. Ruben Kluivert desceu 42.7% para 25k com probabilidade de 50%, enquanto Dennis Bergkamp, um Icone de 91, caiu 35.9% para 45k com baixa probabilidade de alta de 32%, sinalizando perda de interesse estrutural no ativo. Marco van Basten caiu 28.9% para 69k com probabilidade de 46%, mas o destaque negativo é Johan Cruyff, que despencou 22.7% para 850k com probabilidade de apenas 26%, indicando que o mercado está rejeitando fortemente o ativo mais caro do segmento, possivelmente devido a falta de utilidade competitiva ou excesso de supply.
-
-
-## 🎯 O que fazer hoje
-A estratégia recomendada para hoje é focar na compra agressiva de Ian Maatsen e Jurriën Timber, pois suas quedas severas combinadas com altas probabilidades de alta indicam correções técnicas de curto prazo que devem se reverter. Evite totalmente a compra de Johan Cruyff e Dennis Bergkamp, já que suas probabilidades de alta são baixas e as quedas sugerem perda de utilidade ou excesso de supply no mercado, o que pode levar a perdas maiores. Segure ativos como Cody Gakpo e Youri Baas apenas se você tiver ganhos não realizados significativos, pois a probabilidade de continuação da alta é incerta e o mercado geral está negativo. Considere realizar lucros parciais em Frenkie de Jong devido à sua alta de 33% mas probabilidade de apenas 18% de continuar subindo, o que é um sinal clássico de exaustão de compradores. A paciência é crucial, pois o sentimento indefinido do dia sugere que as melhores oportunidades surgirão na virada do dia, quando os traders de longo prazo entrarem para corrigir as distorções de preço criadas pelo pânico especulativo.
-
-
-## 📊 Nossa metodologia em 30 segundos
-Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de **centenas de milhoes de registros**. Removemos cotações irreais, comparamos o agora com a **média móvel** recente e medimos a volatilidade. Por isso o número que você lê vem com contexto: faixa, tendência e projeção.
-
-
-## ❓ Perguntas frequentes
-
-**Qual foi a maior alta do EA FC hoje (20/06/2026)?**
-Youri Baas (84, Eredivisie), com +57% em 24h, a 48k coins no PC.
-
-**E a maior queda do dia?**
-Ian Maatsen (89), -49.4% em 24h, a 22k coins.
-
-**Como estava o mercado do EA FC nesse dia?**
-Hoje o mercado está em dia indefinido — sem tendência dominante, com 27 cartas em alta contra 33 em queda (média -1.1%).
-
-**Posso confiar nos preços e previsões do FutQuant?**
-Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
-
-
-> 💡 Quer ver estes preços atualizando em tempo real, sem esperar o post de amanhã? O <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a> mostra cada carta ao vivo.
-
----
-
-*Preços de PC, referência de 20/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+- Os preços registrados iam de **22k coins** a **1.07M coins**, com mediana de **46k coins**.
+- A mediana das variações de 24h presentes nas tabelas foi **-2,8%**.
+- A mediana das variações de 7d presentes nas tabelas foi **-1,6%**.
+- Cada linha descreve o snapshot daquela publicação; ela não representa preço, liquidez ou tendência atual.
+- Probabilidades registradas pertencem ao modelo da data e expiram com a janela prevista; não são recomendação de compra.
+- Para uma decisão atual, confirme preço, volume, taxação, calendário de conteúdo e utilidade da carta no jogo.
 
 <!-- content-links:v2 -->
 ## Continue a análise
@@ -108,3 +78,7 @@ Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados co
 - [Momentum de Holandeses no EA FC em 16/07 — PC](/posts/melhores-investimentos-ea-fc-2026-07-16-pc/)
 - [Ver as análises mais recentes](/posts/)
 - [Entenda a metodologia e os limites dos dados](/about/)
+
+## Fonte e metodologia
+
+As tabelas são as evidências publicadas no artigo original. Esta revisão editorial mantém os valores observados, calcula apenas estatísticas descritivas sobre essas linhas e elimina instruções temporais que perderam a validade. Nenhuma cotação foi substituída por dado atual.

@@ -27,13 +27,11 @@ A mediana de 24h do recorte ficou em **-8,8%**: 10 destaques subiam e 10 caíam.
 *Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
 <!-- /historical-review:v1 -->
 
-## 📈 O mercado hoje, em resumo
+## Dados preservados do snapshot
 
-O mercado holandês no PC apresenta hoje um cenário de extrema volatilidade e predomínio de sentimento vendedor, onde a maioria absoluta das cartas recuou seus valores, refletindo uma liquidez cautelosa entre os traders. Com uma média negativa de 5.98% em 24 horas e um desbalanceamento claro de 52 quedas contra apenas 20 altas, o ambiente exige precisão cirúrgica nas operações. O investidor deve estar ciente de que a pressão de venda é o fator dominante, criando oportunidades de compra agressiva em ativos que sofrem quedas irracionais, mas também alertando para o risco de continuidade da baixa em ativos sem suporte fundamental. A análise detalhada revela que, apesar do clima geral de desvalorização, existem bolsões de resistência e alta seletiva que merecem atenção imediata. O trader experiente sabe que em dias como este, a paciência para esperar a estabilização de preços é tão crucial quanto a velocidade para executar operações em picos de pânico.
+As 2 tabelas abaixo preservam **20 registros** de **20 jogadores** observados em 19/06/2026 no PC. Valores repetidos permanecem no arquivo quando a mesma carta apareceu em recortes diferentes.
 
-> 🟢 **Maior alta:** Daley Blind (86) **+46.9%** · 🔴 **Maior baixa:** Wesley Sneijder (88) **-46.8%**
-
-## 🟢 Destaques de alta (24h)
+### Cotações e variações registradas
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
@@ -48,11 +46,7 @@ O mercado holandês no PC apresenta hoje um cenário de extrema volatilidade e p
 | Ian Maatsen | 89 | Premier League | 44k coins | +8.7% | +10.6% |
 | Youri Baas | 84 | Eredivisie | 30k coins | +6% | -25.3% |
 
-
-Entre as poucas altas significativas, Daley Blind se destaca com um impressionante aumento de 46.9% em 24 horas, atingindo 24k coins, embora a probabilidade de alta futura seja moderada em 35%, sugerindo cautela na entrada. Georginio Wijnaldum, da seleção do Brasileirão, subiu 42.5% para 28k coins, movido por uma demanda específica de ligas secundárias, com uma probabilidade de continuação da alta de 28%. Marco van Basten, ícone de 91 rating, registrou alta de 38.6% chegando a 97k coins, sendo o ativo mais seguro com 46% de probabilidade de alta, ideal para segurar. Steven Berghuis, da Eredivisie, aumentou 20.5% para 47k coins e apresenta a maior probabilidade de alta do grupo com 62%, indicando forte suporte de compra. Givairo Read também se valorizou 17.9% a 22k coins com 54% de chance de alta, enquanto Cody Gakpo subiu 16.4% a 32k coins, mostrando resiliência no mercado inglês.
-
-
-## 🔴 Maiores baixas (24h)
+### Cotações e variações registradas
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
@@ -67,38 +61,14 @@ Entre as poucas altas significativas, Daley Blind se destaca com um impressionan
 | Johan Cruyff | 93 | Icons | 390k coins | -25.4% | -19.6% |
 | Joël Drommel | 84 | Eredivisie | 32k coins | -23.7% | -22.3% |
 
+## Como interpretar este arquivo
 
-O lado das baixas é dominado por perdas severas, começando com Wesley Sneijder, que despencou 46.8% em 24 horas para 28k coins, um movimento drástico que sugere correção de sobreavaliação anterior. Romée Leuchter, da D1 Arkema, caiu 44.4% atingindo 100k coins, um ativo de nicho que perdeu liquidez rapidamente, com risco elevado de continuidade. Jeremie Frimpong sofreu queda de 40.5% para 122k coins, com baixa probabilidade de alta imediata de apenas 12%, indicando tendência de baixa estabelecida. Marten de Roon caiu 34.3% para 24k coins, mas possui 54% de probabilidade de alta, tornando-se um candidato interessante para compra de oportunidade. Robin Roefs despencou 31.8% para 34k coins, com alta probabilidade de recuperação de 55%, sugerindo fundo técnico próximo. Jordan Teze e Wouter Burger também caíram respectivamente 31.8% e 30.9%, ambos com probabilidades de alta superiores a 48%, indicando potencial de rebote.
-
-
-## 🎯 Conclusão do dia
-A estratégia do dia foca em comprar as quedas profundas de ativos com alta probabilidade de recuperação, como Marten de Roon, Robin Roefs e Wouter Burger, aguardando o rebote técnico. Deve-se segurar Marco van Basten e Steven Berghuis, que demonstram força relativa e alta probabilidade de valorização contínua no curto prazo. Evite-se a compra imediata de Wesley Sneijder e Jeremie Frimpong, pois suas probabilidades de alta são baixas, indicando que a queda pode se estender. Opere com margens apertadas nas altas de Daley Blind e Givairo Read, lucrando rápido antes da possível correção. O timing ideal é comprar nas últimas horas do dia, quando a pressão de venda tende a esgotar, e vender no início do próximo ciclo de mercado.
-
-
-## 🧪 De onde vêm estes números
-Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** coletadas em múltiplas fontes do mercado, limpamos **ruído e anomalias** e calculamos tendência com **médias móveis de 24h e 7 dias** mais suporte/resistência. O resultado é leitura de mercado, não palpite.
-
-
-## ❓ Perguntas frequentes
-
-**Qual foi a maior alta do EA FC hoje (19/06/2026)?**
-Daley Blind (86, LALIGA EA SPORTS), com +46.9% em 24h, a 24k coins no PC.
-
-**E a maior queda do dia?**
-Wesley Sneijder (88), -46.8% em 24h, a 28k coins.
-
-**O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 20 cartas em alta contra 52 em queda (média -5.98%).
-
-**Os dados de preço do FutQuant são confiáveis?**
-Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
-
-
-> 📲 Os preços e previsões deste post vêm do **NF Market**, o painel de mercado do EA FC. Acompanhe ao vivo e receba alertas de alta e queda em <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">nfmarket.com.br</a>.
-
----
-
-*Preços de PC, referência de 19/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+- Os preços registrados iam de **22k coins** a **2.29M coins**, com mediana de **32k coins**.
+- A mediana das variações de 24h presentes nas tabelas foi **-8,8%**.
+- A mediana das variações de 7d presentes nas tabelas foi **-4,4%**.
+- Cada linha descreve o snapshot daquela publicação; ela não representa preço, liquidez ou tendência atual.
+- Probabilidades registradas pertencem ao modelo da data e expiram com a janela prevista; não são recomendação de compra.
+- Para uma decisão atual, confirme preço, volume, taxação, calendário de conteúdo e utilidade da carta no jogo.
 
 <!-- content-links:v2 -->
 ## Continue a análise
@@ -108,3 +78,7 @@ Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e l
 - [Momentum de Holandeses no EA FC em 16/07 — PC](/posts/melhores-investimentos-ea-fc-2026-07-16-pc/)
 - [Ver as análises mais recentes](/posts/)
 - [Entenda a metodologia e os limites dos dados](/about/)
+
+## Fonte e metodologia
+
+As tabelas são as evidências publicadas no artigo original. Esta revisão editorial mantém os valores observados, calcula apenas estatísticas descritivas sobre essas linhas e elimina instruções temporais que perderam a validade. Nenhuma cotação foi substituída por dado atual.
