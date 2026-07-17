@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T17:20:07.000Z
+pubDatetime: 2026-07-17T19:27:10.000Z
 title: "Jogadores baratos EA FC: Holandeses em 17/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 5 opções:** 13.250 coins.
-- **Posição mais frequente:** ST, com 2 cartas.
-- **Faixa real:** 10.750 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 6 opções:** 13.292 coins.
+- **Posição mais frequente:** CAM, com 2 cartas.
+- **Faixa real:** 12.000 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,31 +40,32 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Sepp van den Berg | 89 | CB | Premier League | 14.000 coins | +5.8% |
-| Mats Deijl | 88 | RB | Eredivisie | 14.750 coins | -3.3% |
+| Sepp van den Berg | 89 | CB | Premier League | 14.000 coins | +7.8% |
+| Wesley Sneijder | 88 | CAM | Serie A TIM | 12.500 coins | +8.3% |
+| Esmee Brugts | 88 | LB | Liga F | 14.750 coins | +4.6% |
 | Roy Makaay | 87 | ST | Bundesliga | 12.000 coins | 0% |
-| Dirk Kuyt | 86 | CAM | Eredivisie | 10.750 coins | +8.7% |
-| Lineth Beerensteyn | 86 | ST | GPFBL | 14.750 coins | +19.6% |
+| Dirk Kuyt | 86 | CAM | Eredivisie | 12.500 coins | +2.2% |
+| Lineth Beerensteyn | 86 | ST | GPFBL | 14.000 coins | +11.8% |
 
 
 ## 📈 Destaques
 
 - **Sepp van den Berg (89, CB)** da Premier League, a apenas **14.000 coins**
 
-- **Mats Deijl (88, RB)** da Eredivisie, a apenas **14.750 coins**
+- **Wesley Sneijder (88, CAM)** da Serie A TIM, a apenas **12.500 coins**
+
+- **Esmee Brugts (88, LB)** da Liga F, a apenas **14.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Roy Makaay (87, ST)** da Bundesliga, a apenas **12.000 coins**
 
-- **Dirk Kuyt (86, CAM)** da Eredivisie, a apenas **10.750 coins**
-
-- **Lineth Beerensteyn (86, ST)** da GPFBL, a apenas **14.750 coins**
+- **Dirk Kuyt (86, CAM)** da Eredivisie, a apenas **12.500 coins**
 
 
 ## Como distribuir a banca
 
 - **Defesa:** Sepp van den Berg (89, CB) por 14.000 coins é a referência de rating deste recorte.
 
-- **Meio:** Dirk Kuyt (86, CAM) por 10.750 coins é a referência de rating deste recorte.
+- **Meio:** Wesley Sneijder (88, CAM) por 12.500 coins é a referência de rating deste recorte.
 
 - **Ataque:** Roy Makaay (87, ST) por 12.000 coins é a referência de rating deste recorte.
 
