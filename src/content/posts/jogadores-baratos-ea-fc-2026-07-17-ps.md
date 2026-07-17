@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T13:27:11.000Z
+pubDatetime: 2026-07-17T16:27:10.000Z
 title: "Jogadores baratos EA FC: Holandeses em 17/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 4 opções:** 13.188 coins.
+- **Preço médio das 4 opções:** 12.812 coins.
 - **Posição mais frequente:** CAM, com 2 cartas.
-- **Faixa real:** 11.750 a 14.500 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 11.750 a 13.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,30 +40,30 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Sepp van den Berg | 89 | CB | Premier League | 13.750 coins | 0% |
-| Roy Makaay | 87 | ST | Bundesliga | 12.750 coins | +8.5% |
-| Dirk Kuyt | 86 | CAM | Eredivisie | 11.750 coins | -2.1% |
-| Kees Smit | 86 | CAM | Eredivisie | 14.500 coins | -11.8% |
+| Sepp van den Berg | 89 | CB | Premier League | 13.750 coins | +5.8% |
+| Wesley Sneijder | 88 | CAM | Serie A TIM | 13.750 coins | +29.8% |
+| Roy Makaay | 87 | ST | Bundesliga | 12.000 coins | -2.1% |
+| Dirk Kuyt | 86 | CAM | Eredivisie | 11.750 coins | +6.5% |
 
 
 ## 📈 Destaques
 
 - **Sepp van den Berg (89, CB)** da Premier League, a apenas **13.750 coins**
 
-- **Roy Makaay (87, ST)** da Bundesliga, a apenas **12.750 coins**
+- **Wesley Sneijder (88, CAM)** da Serie A TIM, a apenas **13.750 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+
+- **Roy Makaay (87, ST)** da Bundesliga, a apenas **12.000 coins**
 
 - **Dirk Kuyt (86, CAM)** da Eredivisie, a apenas **11.750 coins**
-
-- **Kees Smit (86, CAM)** da Eredivisie, a apenas **14.500 coins**
 
 
 ## Como distribuir a banca
 
 - **Defesa:** Sepp van den Berg (89, CB) por 13.750 coins é a referência de rating deste recorte.
 
-- **Meio:** Dirk Kuyt (86, CAM) por 11.750 coins é a referência de rating deste recorte.
+- **Meio:** Wesley Sneijder (88, CAM) por 13.750 coins é a referência de rating deste recorte.
 
-- **Ataque:** Roy Makaay (87, ST) por 12.750 coins é a referência de rating deste recorte.
+- **Ataque:** Roy Makaay (87, ST) por 12.000 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
