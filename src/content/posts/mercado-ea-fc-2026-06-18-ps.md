@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Holanda FUT Market"
 pubDatetime: 2026-06-18T22:27:27.000Z
-title: "Holandeses no EA FC hoje (18/06/2026): mercado, altas, baixas e previsões — Console (PS)"
+title: "Holandeses no EA FC em 18/06: altas e baixas — PS"
 draft: false
 featured: true
 tags:
@@ -10,21 +10,24 @@ tags:
   - previsoes
   - altas-e-baixas
   - ps
-description: "Análise completa do mercado do EA FC Ultimate Team em 18/06/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (18/06/2026)?"
-    a: "Noa Lang (91, Trendyol Süper Lig), com +28.6% em 24h, a 24k coins no Console (PS)."
-  - q: "E a maior queda do dia?"
-    a: "Patrick van Aanholt (85), -44.5% em 24h, a 26k coins."
-  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Jurgen Ekkelenkamp (83) — 95% de probabilidade de alta, a 42k coins."
-  - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 28 cartas em alta contra 46 em queda (média -2.63%)."
-  - q: "De onde vêm os preços do FutQuant?"
-    a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
+description: "Snapshot histórico de 18/06/2026 no PS: Noa Lang liderou as altas e Patrick van Aanholt as baixas em Holandeses. Compare preços, variações, gráfico e riscos."
 ---
 
-## 📊 Resumo do mercado hoje
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 18/06/2026, Console (PS):** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+Nas 20 cartas destacadas nas tabelas, **Noa Lang** registrou o maior movimento de 24h (+28,6%), enquanto **Patrick van Aanholt** marcou o menor (-44,5%). A distância entre os extremos foi de **73,1 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **-2,2%**: 10 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Holandeses no EA FC em 18/06: altas e baixas — PS](/charts/mercado-ea-fc-2026-06-18-ps.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
+
+## 📊 Resumo do mercado naquele dia
 
 O mercado de holandeses no console PS encontra-se em um cenário de baixa consolidada, com 46 quedas contra apenas 28 altas nas ultimas 24 horas. A media de variacao foi de -2.63%, indicando que a pressao vendedora continua dominando o segmento e que traders devem estar atentos a oportunidades de compra em ativos descontados.
 
@@ -68,7 +71,7 @@ Virgil van Dijk lidera as altas com um salto de 27.7% para 2.74 milhoes de coins
 Patrick van Aanholt sofreu a maior queda do dia, despencando 44.5% para 26k coins, um movimento extremo que sugere venda massiva ou final de demanda. Wesley Sneijder e Ruben Kluivert tambem registraram quedas significativas de 21.5% e 21.3%, respectivamente, enquanto Donyell Malen caiu 20%, refletindo a tendencia de desvalorizacao em cartas de alto custo.
 
 
-## 🔮 O que o modelo prevê para as próximas 24h
+## 🔮 Previsão registrada naquele snapshot
 
 Onde o modelo vê **mais chance de subir** nas próximas 24h (sinal de alta, alta confiança):
 
@@ -84,7 +87,7 @@ Onde o modelo vê **mais chance de subir** nas próximas 24h (sinal de alta, alt
 | Kenneth Taylor | 84 | 35k coins | 43k coins | 95% |
 
 
-O modelo projeta altas probaveis para varios ativos, destacando Jurgen Ekkelenkamp, Jaap Stam, Robin van Persie e Jeremie Frimpong com 95% de probabilidade de alta. Outros nomes como Robin Roefs, Frank Rijkaard, Jurrien Timber e Kenneth Taylor tambem compoem a lista de ativos com forte potencial de valorizacao segundo a analise.
+Naquele snapshot, o modelo projetava altas probaveis para varios ativos, destacando Jurgen Ekkelenkamp, Jaap Stam, Robin van Persie e Jeremie Frimpong com 95% de probabilidade de alta. Outros nomes como Robin Roefs, Frank Rijkaard, Jurrien Timber e Kenneth Taylor tambem compoem a lista de ativos com forte potencial de valorizacao segundo a analise.
 
 
 ## ⚠️ Alerta de queda projetada
@@ -113,19 +116,19 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (18/06/2026)?**  
+**Qual foi a maior alta do EA FC hoje (18/06/2026)?**
 Noa Lang (91, Trendyol Süper Lig), com +28.6% em 24h, a 24k coins no Console (PS).
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Patrick van Aanholt (85), -44.5% em 24h, a 26k coins.
 
-**Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Jurgen Ekkelenkamp (83) — 95% de probabilidade de alta, a 42k coins.
+**Qual carta tinha maior probabilidade registrada nesse snapshot?**
+No snapshot histórico, Jurgen Ekkelenkamp (83) — 95% de probabilidade de alta, a 42k coins.
 
-**Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 28 cartas em alta contra 46 em queda (média -2.63%).
+**Como está o mercado do EA FC hoje?**
+Naquele dia, o mercado estava em baixa — predominam as quedas, com 28 cartas em alta contra 46 em queda (média -2.63%).
 
-**De onde vêm os preços do FutQuant?**  
+**De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
 
@@ -134,3 +137,12 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de Console (PS), referência de 18/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Momentum de Holandeses no EA FC em 18/06 — PS](/posts/melhores-investimentos-ea-fc-2026-06-18-ps/)
+- [este segmento no EA FC em 16/07: altas e baixas — PS](/posts/mercado-ea-fc-2026-07-16-ps/)
+- [Momentum de Holandeses no EA FC em 16/07 — PS](/posts/melhores-investimentos-ea-fc-2026-07-16-ps/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)
