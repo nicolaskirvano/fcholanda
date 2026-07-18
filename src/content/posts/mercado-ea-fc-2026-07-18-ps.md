@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T16:27:08.000Z
+pubDatetime: 2026-07-18T19:27:07.000Z
 title: "Mercado EA FC em 18/07: Holandeses — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 18/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (18/07/2026)?"
-    a: "Dominique Janssen (89, Barclays WSL), com +52.9% em 24h, a 29k coins no Console (PS)."
+    a: "Kenneth Taylor (84, Eredivisie), com +55.5% em 24h, a 28k coins no Console (PS)."
   - q: "E a maior queda do dia?"
     a: "Sherida Spitse (85), -21.5% em 24h, a 26k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em baixa — predominam as quedas, com 26 cartas em alta contra 41 em queda (média 0.82%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 33 cartas em alta contra 35 em queda (média 1.54%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **18/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **26 subiram** e **41 caíram**, com variação média de **0.82%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Em **18/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **33 subiram** e **35 caíram**, com variação média de **1.54%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Dominique Janssen (89) **+52.9%** · 🔴 **Maior baixa:** Sherida Spitse (85) **-21.5%**
+> 🟢 **Maior alta:** Kenneth Taylor (84) **+55.5%** · 🔴 **Maior baixa:** Sherida Spitse (85) **-21.5%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 18/07: Holandeses — Console (PS)](/charts/mercado-ea-fc-2026-07-18-ps.svg)
 
@@ -35,24 +35,24 @@ Em **18/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 74.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 38.8% entre as cartas que se moveram; o universo observado reúne 80 cartas.
-- **Concentração:** Premier League aparece em 5 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 77.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 48.5% entre as cartas que se moveram; o universo observado reúne 82 cartas.
+- **Concentração:** Premier League aparece em 9 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Dominique Janssen | 89 | Barclays WSL | 29k coins | +52.9% | +55.1% |
-| Ryan Gravenberch | 86 | Premier League | 53k coins | +47.2% | +17.8% |
-| Mats Deijl | 88 | Eredivisie | 21k coins | +32.2% | +36.8% |
-| Youri Baas | 84 | Eredivisie | 42k coins | +31.1% | +28.3% |
-| Quinten Timber | 85 | Eredivisie | 38k coins | +22% | +47.1% |
-| Mark Flekken | 84 | Bundesliga | 39k coins | +21.7% | -25.2% |
-| Georginio Wijnaldum | 87 | Brasileirão | 26k coins | +21.2% | +18.4% |
-| Noa Lang | 91 | Trendyol Süper Lig | 43k coins | +18% | +86.3% |
-| Joshua Zirkzee | 87 | Premier League | 31k coins | +14.7% | +67.1% |
-| Ruud van Nistelrooy | 89 | Icons | 82k coins | +13.1% | +21.5% |
+| Kenneth Taylor | 84 | Eredivisie | 28k coins | +55.5% | +58.3% |
+| Ryan Gravenberch | 86 | Premier League | 50k coins | +30.9% | +10.6% |
+| Johan Cruyff | 94 | Icons | 600k coins | +25.2% | +22.8% |
+| Jayden Oosterwolde | 87 | Trendyol Süper Lig | 100k coins | +25% | +73.3% |
+| Ian Maatsen | 89 | Premier League | 22k coins | +22.5% | +2.1% |
+| Dennis Bergkamp | 90 | Icons | 97k coins | +19% | +39.6% |
+| Jurriën Timber | 86 | Premier League | 39k coins | +16.4% | +2.6% |
+| Lynn Wilms | 86 | Barclays Women’s Super League | 42k coins | +16% | -1.1% |
+| Georginio Wijnaldum | 87 | Brasileirão | 23k coins | +14.5% | +9.2% |
+| Joël Drommel | 84 | Eredivisie | 40k coins | +13.2% | +8.2% |
 
 
 ### Análise das altas
@@ -61,11 +61,11 @@ Em **18/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Dominique Janssen (89)** subiu **+52.9%** em 24h, a **29k coins** (faixa do dia: 13.500–29k). Está +41% acima da média de 7 dias (aquecida).
+- **Kenneth Taylor (84)** subiu **+55.5%** em 24h, a **28k coins** (faixa do dia: 19.750–50k). Está -13% abaixo da média de 7 dias (descontada).
 
-- **Ryan Gravenberch (86)** subiu **+47.2%** em 24h, a **53k coins** (faixa do dia: 35k–65k). Está +13% acima da média de 7 dias (aquecida).
+- **Ryan Gravenberch (86)** subiu **+30.9%** em 24h, a **50k coins** (faixa do dia: 35k–65k). Está em linha com a média de 7 dias (+6%).
 
-- **Mats Deijl (88)** subiu **+32.2%** em 24h, a **21k coins** (faixa do dia: 14.750–23k). Está +24% acima da média de 7 dias (aquecida).
+- **Johan Cruyff (94)** subiu **+25.2%** em 24h, a **600k coins** (faixa do dia: 480k–850k). Está em linha com a média de 7 dias (+1%).
 
 
 ## 🔴 Destaques de queda (24h)
@@ -73,29 +73,29 @@ Em **18/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Sherida Spitse | 85 | Nederland Vrouwen Liga | 26k coins | -21.5% | -21.5% |
-| Jurriën Timber | 87 | Premier League | 25k coins | -19.9% | +9% |
-| Edwin van der Sar | 88 | Icons | 100k coins | -18.3% | -11.2% |
-| Johan Cruyff | 87 | Icons | 200k coins | -17.9% | -4.4% |
-| Xavi Simons | 91 | Premier League | 90k coins | -17.9% | +4.7% |
-| Cody Gakpo | 86 | Premier League | 35k coins | -17.4% | +12.1% |
-| Frank Rijkaard | 87 | Icons | 75k coins | -13.3% | +13.6% |
-| Johan Cruyff | 93 | Icons | 357k coins | -13.3% | +2.9% |
-| Daley Blind | 86 | LALIGA EA SPORTS | 28k coins | -13.1% | +36.1% |
-| Denzel Dumfries | 89 | Serie A TIM | 38k coins | -12.8% | +5.6% |
+| Micky van de Ven | 84 | Premier League | 323k coins | -18.7% | -23.4% |
+| Jaap Stam | 89 | Premier League | 1.30M coins | -18.4% | +4.3% |
+| Xavi Simons | 88 | Premier League | 24k coins | -16.9% | -10% |
+| Tijjani Reijnders | 87 | Premier League | 36k coins | -16.3% | -23% |
+| Frank Rijkaard | 87 | Icons | 75k coins | -15.4% | 0% |
+| Jurgen Ekkelenkamp | 83 | Serie A TIM | 39k coins | -11.1% | -9.4% |
+| Jurriën Timber | 87 | Premier League | 26k coins | -10.8% | +8.1% |
+| Micky van de Ven | 87 | Premier League | 700k coins | -10.7% | -30.6% |
+| Wouter Burger | 87 | Bundesliga | 49k coins | -9.7% | +41.7% |
 
 
 ### Análise das baixas
 
-- **Sherida Spitse (85)** caiu **-21.5%** em 24h, a **26k coins** (faixa do dia: 26k–32k). Está -17% abaixo da média de 7 dias (descontada).
+- **Sherida Spitse (85)** caiu **-21.5%** em 24h, a **26k coins** (faixa do dia: 26k–32k). Está -16% abaixo da média de 7 dias (descontada).
 
-- **Jurriën Timber (87)** caiu **-19.9%** em 24h, a **25k coins** (faixa do dia: 23k–36k). Está em linha com a média de 7 dias (-5%).
+- **Micky van de Ven (84)** caiu **-18.7%** em 24h, a **323k coins** (faixa do dia: 280k–360k). Está -24% abaixo da média de 7 dias (descontada).
 
-- **Edwin van der Sar (88)** caiu **-18.3%** em 24h, a **100k coins** (faixa do dia: 96k–141k). Está -15% abaixo da média de 7 dias (descontada).
+- **Jaap Stam (89)** caiu **-18.4%** em 24h, a **1.30M coins** (faixa do dia: 1.11M–1.73M). Está em linha com a média de 7 dias (-1%).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Dominique Janssen já avançou 52.9% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Kenneth Taylor já avançou 55.5% em 24h; espere nova cotação antes de entrar.
 
 - **Queda não é compra automática:** Sherida Spitse recuou -21.5%; confirme estabilização e liquidez.
 
@@ -109,13 +109,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (18/07/2026)?**
-Dominique Janssen (89, Barclays WSL), com +52.9% em 24h, a 29k coins no Console (PS).
+Kenneth Taylor (84, Eredivisie), com +55.5% em 24h, a 28k coins no Console (PS).
 
 **E a maior queda do dia?**
 Sherida Spitse (85), -21.5% em 24h, a 26k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em baixa — predominam as quedas, com 26 cartas em alta contra 41 em queda (média 0.82%).
+Hoje o mercado está em alta — predominam as valorizações, com 33 cartas em alta contra 35 em queda (média 1.54%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
@@ -130,7 +130,6 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 <!-- content-links:v1 -->
 ## Continue a análise
 
-- [Jogadores baratos EA FC: Holandeses em 18/07 — Console (PS)](/posts/jogadores-baratos-ea-fc-2026-07-18-ps/)
 - [Investimentos EA FC: Holandeses em 18/07 — Console (PS)](/posts/melhores-investimentos-ea-fc-2026-07-18-ps/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)

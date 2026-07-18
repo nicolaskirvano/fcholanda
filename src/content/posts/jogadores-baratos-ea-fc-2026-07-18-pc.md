@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T16:27:20.000Z
+pubDatetime: 2026-07-18T19:27:20.000Z
 title: "Jogadores baratos EA FC: Holandeses em 18/07 — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 18/07/2026 no PC, com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (18/07/2026)?"
-    a: "Sepp van den Berg (89, Premier League) aparece como melhor custo-benefício, a 14.000 coins no PC."
+    a: "Wesley Sneijder (88, Serie A TIM) aparece como melhor custo-benefício, a 13.500 coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **18/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Sepp van den Berg (89) por apenas 14.000 coins.
+> 💰 **Melhor pechincha:** Wesley Sneijder (88) por apenas 13.500 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Holandeses em 18/07 — PC](/charts/jogadores-baratos-ea-fc-2026-07-18-pc.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 4 opções:** 13.000 coins.
-- **Posição mais frequente:** CAM, com 2 cartas.
-- **Faixa real:** 11.750 a 14.250 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 4 opções:** 12.812 coins.
+- **Posição mais frequente:** CAM, com 3 cartas.
+- **Faixa real:** 11.500 a 14.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,28 +40,26 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Sepp van den Berg | 89 | CB | Premier League | 14.000 coins | +29.8% |
-| Roy Makaay | 87 | ST | Bundesliga | 12.000 coins | -4.2% |
-| Dirk Kuyt | 86 | CAM | Eredivisie | 11.750 coins | +2.2% |
+| Wesley Sneijder | 88 | CAM | Serie A TIM | 13.500 coins | +9.3% |
+| Roy Makaay | 87 | ST | Bundesliga | 12.000 coins | +27.7% |
+| Dirk Kuyt | 86 | CAM | Eredivisie | 11.500 coins | -2.1% |
 | Kees Smit | 86 | CAM | Eredivisie | 14.250 coins | -5% |
 
 
 ## 📈 Destaques
 
-- **Sepp van den Berg (89, CB)** da Premier League, a apenas **14.000 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **Wesley Sneijder (88, CAM)** da Serie A TIM, a apenas **13.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Roy Makaay (87, ST)** da Bundesliga, a apenas **12.000 coins**
+- **Roy Makaay (87, ST)** da Bundesliga, a apenas **12.000 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
-- **Dirk Kuyt (86, CAM)** da Eredivisie, a apenas **11.750 coins**
+- **Dirk Kuyt (86, CAM)** da Eredivisie, a apenas **11.500 coins**
 
 - **Kees Smit (86, CAM)** da Eredivisie, a apenas **14.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Sepp van den Berg (89, CB) por 14.000 coins é a referência de rating deste recorte.
-
-- **Meio:** Dirk Kuyt (86, CAM) por 11.750 coins é a referência de rating deste recorte.
+- **Meio:** Wesley Sneijder (88, CAM) por 13.500 coins é a referência de rating deste recorte.
 
 - **Ataque:** Roy Makaay (87, ST) por 12.000 coins é a referência de rating deste recorte.
 
@@ -82,7 +80,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (18/07/2026)?**  
-Sepp van den Berg (89, Premier League) aparece como melhor custo-benefício, a 14.000 coins no PC.
+Wesley Sneijder (88, Serie A TIM) aparece como melhor custo-benefício, a 13.500 coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
