@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T19:27:18.000Z
+pubDatetime: 2026-07-18T22:27:18.000Z
 title: "Investimentos EA FC: Holandeses em 18/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 18/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (18/07/2026) no EA FC?"
-    a: "Wouter Burger (87, Bundesliga) lidera, com +77.4% em 7 dias a 139k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Esmee Brugts (88, Liga F) lidera, com +50% em 7 dias a 28k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **18/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Wouter Burger (87) acumula **+77.4% em 7 dias** a 139k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Esmee Brugts (88) acumula **+50% em 7 dias** a 28k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Holandeses em 18/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-18-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **18/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+14.6% em 24h** e **+41.9% em 7 dias**.
-- **5 de 11 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+18.8% em 24h** e **+36.7% em 7 dias**.
+- **2 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Premier League** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,30 +43,24 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Wouter Burger | 87 | Bundesliga | 139k coins | +14.6% | +77.4% | Esticada |
-| Marco van Basten | 91 | Icons | 90k coins | +19.5% | +50.7% | Momentum moderado |
-| Georginio Wijnaldum | 87 | Brasileirão | 44k coins | +29.5% | +50% | Esticada |
-| Esmee Brugts | 88 | Liga F | 30k coins | +36.4% | +50% | Esticada |
-| Patrick Kluivert | 87 | Icons | 98k coins | +1% | +50% | Momentum moderado |
-| Dennis Bergkamp | 90 | Icons | 96k coins | +11.6% | +41.9% | Momentum moderado |
-| Cody Gakpo | 89 | Premier League | 237k coins | +39.2% | +25.3% | Esticada |
-| Wesley Sneijder | 89 | Serie A TIM | 117k coins | +1.7% | +18.8% | Entrada a observar |
-| Ryan Gravenberch | 87 | Premier League | 86k coins | +4.8% | +14.3% | Entrada a observar |
-| Tijjani Reijnders | 87 | Premier League | 84k coins | +20.6% | +8.3% | Esticada |
-| Tijjani Reijnders | 87 | Premier League | 119k coins | +1.7% | +6.2% | Entrada a observar |
+| Esmee Brugts | 88 | Liga F | 28k coins | +36.4% | +50% | Esticada |
+| Donyell Malen | 89 | Serie A TIM | 48k coins | +21.4% | +40.9% | Esticada |
+| Xavi Simons | 88 | Premier League | 43k coins | +2.5% | +36.7% | Momentum moderado |
+| Georginio Wijnaldum | 84 | Brasileirão | 60k coins | +18.6% | +19.8% | Momentum moderado |
+| Tijjani Reijnders | 87 | Premier League | 117k coins | +18.8% | +8.3% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Wouter Burger (87)** — 139k coins, **+77.4% em 7 dias** (+14.6% em 24h). Preço em linha com a média de 7 dias (+0%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Esmee Brugts (88)** — 28k coins, **+50% em 7 dias** (+36.4% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Marco van Basten (91)** — 90k coins, **+50.7% em 7 dias** (+19.5% em 24h). Preço em linha com a média de 7 dias (-3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Donyell Malen (89)** — 48k coins, **+40.9% em 7 dias** (+21.4% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Georginio Wijnaldum (87)** — 44k coins, **+50% em 7 dias** (+29.5% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Xavi Simons (88)** — 43k coins, **+36.7% em 7 dias** (+2.5% em 24h). Preço -11% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Esmee Brugts (88)** — 30k coins, **+50% em 7 dias** (+36.4% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Georginio Wijnaldum (84)** — 60k coins, **+19.8% em 7 dias** (+18.6% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Patrick Kluivert (87)** — 98k coins, **+50% em 7 dias** (+1% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Tijjani Reijnders (87)** — 117k coins, **+8.3% em 7 dias** (+18.8% em 24h). Preço -23% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -84,7 +78,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (18/07/2026) no EA FC?**  
-Wouter Burger (87, Bundesliga) lidera, com +77.4% em 7 dias a 139k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Esmee Brugts (88, Liga F) lidera, com +50% em 7 dias a 28k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
