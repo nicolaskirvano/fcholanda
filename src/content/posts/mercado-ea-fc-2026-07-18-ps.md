@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T10:27:07.000Z
+pubDatetime: 2026-07-18T13:27:07.000Z
 title: "Mercado EA FC em 18/07: Holandeses — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 18/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (18/07/2026)?"
-    a: "Kenneth Taylor (84, Eredivisie), com +38.1% em 24h, a 31k coins no Console (PS)."
+    a: "Mats Deijl (88, Eredivisie), com +21.5% em 24h, a 21k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Ryan Gravenberch (87), -34.8% em 24h, a 30k coins."
+    a: "Tijjani Reijnders (87), -41.6% em 24h, a 58k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está lateral — sem direção clara, com 31 cartas em alta contra 34 em queda (média -0.18%)."
+    a: "Hoje o mercado está em baixa — predominam as quedas, com 22 cartas em alta contra 46 em queda (média -3.94%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **18/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está **lateral** — sem direção clara: das cartas relevantes (80+ acima de 5k coins), **31 subiram** e **34 caíram**, com variação média de **-0.18%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Em **18/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **22 subiram** e **46 caíram**, com variação média de **-3.94%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Kenneth Taylor (84) **+38.1%** · 🔴 **Maior baixa:** Ryan Gravenberch (87) **-34.8%**
+> 🟢 **Maior alta:** Mats Deijl (88) **+21.5%** · 🔴 **Maior baixa:** Tijjani Reijnders (87) **-41.6%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 18/07: Holandeses — Console (PS)](/charts/mercado-ea-fc-2026-07-18-ps.svg)
 
@@ -35,24 +35,24 @@ Em **18/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 72.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 47.7% entre as cartas que se moveram; o universo observado reúne 79 cartas.
-- **Concentração:** Premier League aparece em 11 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 63.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 32.4% entre as cartas que se moveram; o universo observado reúne 83 cartas.
+- **Concentração:** Eredivisie aparece em 5 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Kenneth Taylor | 84 | Eredivisie | 31k coins | +38.1% | -3.3% |
-| Johan Cruyff | 94 | Icons | 750k coins | +30% | +43.4% |
-| Virgil van Dijk | 90 | Premier League | 1.30M coins | +29.2% | +28.2% |
-| Cody Gakpo | 86 | Premier League | 60k coins | +28.9% | +66.9% |
-| Jurriën Timber | 87 | Premier League | 34k coins | +23.7% | +21.2% |
-| Wouter Burger | 87 | Bundesliga | 85k coins | +21.4% | +146.2% |
-| Youri Baas | 84 | Eredivisie | 45k coins | +19.4% | +44.7% |
-| Virgil van Dijk | 91 | Premier League | 790k coins | +17.6% | -14.3% |
-| Jurriën Timber | 86 | Premier League | 41k coins | +14.6% | +17% |
-| Ronald Koeman | 91 | Icons | 106k coins | +13.8% | +26.1% |
+| Mats Deijl | 88 | Eredivisie | 21k coins | +21.5% | +33.9% |
+| Mark Flekken | 84 | Bundesliga | 40k coins | +21.2% | -17.1% |
+| Dennis Bergkamp | 90 | Icons | 88k coins | +20.1% | +20.1% |
+| Jurriën Timber | 87 | Premier League | 28k coins | +18.8% | +21.2% |
+| Youri Baas | 84 | Eredivisie | 44k coins | +14.2% | +34.1% |
+| Johan Cruyff | 94 | Icons | 523k coins | +14% | +23.6% |
+| Guus Til | 83 | Eredivisie | 40k coins | +11.3% | +9.7% |
+| Frank Rijkaard | 89 | Icons | 141k coins | +9.2% | +42% |
+| Romée Leuchter | 84 | D1 Arkema | 39k coins | +7.2% | -2% |
+| Jaap Stam | 91 | Eredivisie | 1.05M coins | +4.9% | +16.8% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Em **18/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Kenneth Taylor (84)** subiu **+38.1%** em 24h, a **31k coins** (faixa do dia: 19.750–31k). Está em linha com a média de 7 dias (-2%).
+- **Mats Deijl (88)** subiu **+21.5%** em 24h, a **21k coins** (faixa do dia: 13.500–23k). Está +22% acima da média de 7 dias (aquecida).
 
-- **Johan Cruyff (94)** subiu **+30%** em 24h, a **750k coins** (faixa do dia: 480k–850k). Está +27% acima da média de 7 dias (aquecida).
+- **Mark Flekken (84)** subiu **+21.2%** em 24h, a **40k coins** (faixa do dia: 31k–62k). Está -12% abaixo da média de 7 dias (descontada).
 
-- **Virgil van Dijk (90)** subiu **+29.2%** em 24h, a **1.30M coins** (faixa do dia: 988k–1.60M). Está em linha com a média de 7 dias (+2%).
+- **Dennis Bergkamp (90)** subiu **+20.1%** em 24h, a **88k coins** (faixa do dia: 76k–120k). Está +15% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Ryan Gravenberch | 87 | Premier League | 30k coins | -34.8% | +28.2% |
-| Cody Gakpo | 89 | Premier League | 123k coins | -34.4% | -13.5% |
-| Micky van de Ven | 84 | Premier League | 280k coins | -23.1% | -12.3% |
-| Jaap Stam | 89 | Premier League | 1.20M coins | -21.6% | -2% |
-| Lynn Wilms | 86 | Barclays Women’s Super League | 38k coins | -19% | -3.1% |
-| Jaap Stam | 87 | Premier League | 388k coins | -18.6% | -9.1% |
-| Robin van Persie | 88 | Icons | 76k coins | -17.5% | -5.5% |
-| Micky van de Ven | 87 | Premier League | 779k coins | -16.2% | -22.1% |
-| Jayden Oosterwolde | 87 | Trendyol Süper Lig | 126k coins | -13.8% | +56.2% |
-| Dennis Bergkamp | 91 | Icons | 100k coins | -13.6% | +36% |
+| Tijjani Reijnders | 87 | Premier League | 58k coins | -41.6% | +38.8% |
+| Ryan Gravenberch | 87 | Premier League | 36k coins | -41% | +16.1% |
+| Denzel Dumfries | 89 | Serie A TIM | 49k coins | -35.5% | +39.7% |
+| Denzel Dumfries | 86 | Serie A TIM | 30k coins | -33.3% | +19.5% |
+| Johan Cruyff | 87 | Icons | 195k coins | -29.1% | -3.9% |
+| Edwin van der Sar | 88 | Icons | 99k coins | -23.8% | -15.4% |
+| Micky van de Ven | 84 | Premier League | 340k coins | -20% | -14.3% |
+| Romée Leuchter | 90 | D1 Arkema | 104k coins | -19.3% | +15.9% |
+| Wout Weghorst | 85 | Eredivisie | 74k coins | -18.3% | -13.3% |
+| Tijjani Reijnders | 93 | Premier League | 180k coins | -17.7% | +24.8% |
 
 
 ### Análise das baixas
 
-- **Ryan Gravenberch (87)** caiu **-34.8%** em 24h, a **30k coins** (faixa do dia: 27k–61k). Está -37% abaixo da média de 7 dias (descontada).
+- **Tijjani Reijnders (87)** caiu **-41.6%** em 24h, a **58k coins** (faixa do dia: 44k–97k). Está em linha com a média de 7 dias (-7%).
 
-- **Cody Gakpo (89)** caiu **-34.4%** em 24h, a **123k coins** (faixa do dia: 123k–220k). Está -32% abaixo da média de 7 dias (descontada).
+- **Ryan Gravenberch (87)** caiu **-41%** em 24h, a **36k coins** (faixa do dia: 27k–45k). Está -24% abaixo da média de 7 dias (descontada).
 
-- **Micky van de Ven (84)** caiu **-23.1%** em 24h, a **280k coins** (faixa do dia: 280k–384k). Está -35% abaixo da média de 7 dias (descontada).
+- **Denzel Dumfries (89)** caiu **-35.5%** em 24h, a **49k coins** (faixa do dia: 36k–84k). Está em linha com a média de 7 dias (+3%).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Kenneth Taylor já avançou 38.1% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Mats Deijl já avançou 21.5% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Ryan Gravenberch recuou -34.8%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Tijjani Reijnders recuou -41.6%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (18/07/2026)?**
-Kenneth Taylor (84, Eredivisie), com +38.1% em 24h, a 31k coins no Console (PS).
+Mats Deijl (88, Eredivisie), com +21.5% em 24h, a 21k coins no Console (PS).
 
 **E a maior queda do dia?**
-Ryan Gravenberch (87), -34.8% em 24h, a 30k coins.
+Tijjani Reijnders (87), -41.6% em 24h, a 58k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está lateral — sem direção clara, com 31 cartas em alta contra 34 em queda (média -0.18%).
+Hoje o mercado está em baixa — predominam as quedas, com 22 cartas em alta contra 46 em queda (média -3.94%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T10:27:18.000Z
+pubDatetime: 2026-07-18T13:27:18.000Z
 title: "Investimentos EA FC: Holandeses em 18/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 18/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (18/07/2026) no EA FC?"
-    a: "Edwin van der Sar (88, Icons) lidera, com +87% em 7 dias a 220k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Daley Blind (86, LALIGA EA SPORTS) lidera, com +80.8% em 7 dias a 33k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **18/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Edwin van der Sar (88) acumula **+87% em 7 dias** a 220k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Daley Blind (86) acumula **+80.8% em 7 dias** a 33k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Holandeses em 18/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-18-pc.svg)
 
@@ -33,8 +33,8 @@ Esta lista de **18/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+13.0% em 24h** e **+37.8% em 7 dias**.
-- **4 de 7 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+5.8% em 24h** e **+20.0% em 7 dias**.
+- **3 de 7 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Premier League** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,26 +43,26 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Edwin van der Sar | 88 | Icons | 220k coins | +15.6% | +87% | Esticada |
-| Denzel Dumfries | 89 | Serie A TIM | 52k coins | +9.8% | +75.2% | Esticada |
-| Dirk Kuyt | 88 | Eredivisie | 35k coins | +35.9% | +42.9% | Esticada |
-| Noa Lang | 91 | Trendyol Süper Lig | 61k coins | +5.1% | +37.8% | Momentum moderado |
-| Dominique Janssen | 89 | Barclays WSL | 27k coins | +20.7% | +19.3% | Esticada |
-| Cody Gakpo | 86 | Premier League | 50k coins | +13% | +19% | Momentum moderado |
-| Sepp van den Berg | 89 | Premier League | 16.000 coins | +10.3% | +6.7% | Momentum moderado |
+| Daley Blind | 86 | LALIGA EA SPORTS | 33k coins | +4.8% | +80.8% | Esticada |
+| Marco van Basten | 91 | Icons | 113k coins | +15.6% | +65.5% | Esticada |
+| Denzel Dumfries | 89 | Serie A TIM | 46k coins | +5.8% | +56.2% | Momentum moderado |
+| Patrick van Aanholt | 85 | Eredivisie | 34k coins | +2.9% | +20% | Entrada a observar |
+| Tijjani Reijnders | 87 | Premier League | 87k coins | +24.1% | +16.7% | Esticada |
+| Sepp van den Berg | 89 | Premier League | 19.750 coins | +8.6% | +8.6% | Momentum moderado |
+| Lynn Wilms | 86 | Barclays Women’s Super League | 40k coins | +3.9% | +6% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Edwin van der Sar (88)** — 220k coins, **+87% em 7 dias** (+15.6% em 24h). Preço +48% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Daley Blind (86)** — 33k coins, **+80.8% em 7 dias** (+4.8% em 24h). Preço +50% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Denzel Dumfries (89)** — 52k coins, **+75.2% em 7 dias** (+9.8% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Marco van Basten (91)** — 113k coins, **+65.5% em 7 dias** (+15.6% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Dirk Kuyt (88)** — 35k coins, **+42.9% em 7 dias** (+35.9% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Denzel Dumfries (89)** — 46k coins, **+56.2% em 7 dias** (+5.8% em 24h). Preço em linha com a média de 7 dias (-1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Noa Lang (91)** — 61k coins, **+37.8% em 7 dias** (+5.1% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Patrick van Aanholt (85)** — 34k coins, **+20% em 7 dias** (+2.9% em 24h). Preço em linha com a média de 7 dias (-2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Dominique Janssen (89)** — 27k coins, **+19.3% em 7 dias** (+20.7% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Tijjani Reijnders (87)** — 87k coins, **+16.7% em 7 dias** (+24.1% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -80,7 +80,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (18/07/2026) no EA FC?**  
-Edwin van der Sar (88, Icons) lidera, com +87% em 7 dias a 220k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Daley Blind (86, LALIGA EA SPORTS) lidera, com +80.8% em 7 dias a 33k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
@@ -98,6 +98,7 @@ Várias vezes ao dia, junto com os preços do mercado do EA FC.
 <!-- content-links:v1 -->
 ## Continue a análise
 
+- [Jogadores baratos EA FC: Holandeses em 18/07 — PC](/posts/jogadores-baratos-ea-fc-2026-07-18-pc/)
 - [Mercado EA FC em 18/07: Holandeses — PC](/posts/mercado-ea-fc-2026-07-18-pc/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
