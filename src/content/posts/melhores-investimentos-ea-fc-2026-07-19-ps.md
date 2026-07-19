@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T16:27:10.000Z
+pubDatetime: 2026-07-19T19:27:09.000Z
 title: "Investimentos EA FC: Holandeses em 19/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 19/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (19/07/2026) no EA FC?"
-    a: "Jordan Teze (87, Ligue 1 McDonald's) lidera, com +56.9% em 7 dias a 20k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Tijjani Reijnders (87, Premier League) lidera, com +75% em 7 dias a 68k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **19/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Jordan Teze (87) acumula **+56.9% em 7 dias** a 20k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Tijjani Reijnders (87) acumula **+75% em 7 dias** a 68k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Holandeses em 19/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-19-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **19/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+22.1% em 24h** e **+19.0% em 7 dias**.
-- **4 de 8 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+18.6% em 24h** e **+24.1% em 7 dias**.
+- **6 de 13 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Premier League** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,27 +43,32 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Jordan Teze | 87 | Ligue 1 McDonald's | 20k coins | +3.4% | +56.9% | Momentum moderado |
-| Joshua Zirkzee | 87 | Premier League | 32k coins | +38.3% | +54.8% | Esticada |
-| Noah Ohio | 87 | LaLiga Hypermotion | 22k coins | +39.3% | +30% | Esticada |
-| Cody Gakpo | 86 | Premier League | 52k coins | +19.9% | +19.9% | Momentum moderado |
+| Tijjani Reijnders | 87 | Premier League | 68k coins | +18.6% | +75% | Esticada |
+| Ronald Koeman | 91 | Icons | 108k coins | +36.2% | +65.2% | Esticada |
+| Jaap Stam | 89 | Premier League | 139k coins | +20.9% | +58% | Esticada |
+| Dirk Kuyt | 88 | Eredivisie | 23k coins | +29.3% | +51.4% | Esticada |
+| Dennis Bergkamp | 90 | Icons | 107k coins | +3.5% | +48.2% | Momentum moderado |
+| Tijjani Reijnders | 93 | Premier League | 194k coins | +4.8% | +40.3% | Momentum moderado |
+| Frank Rijkaard | 87 | Icons | 88k coins | +19% | +24.1% | Momentum moderado |
 | Sherida Spitse | 85 | Nederland Vrouwen Liga | 32k coins | +27.5% | +18.2% | Esticada |
-| Denzel Dumfries | 86 | Serie A TIM | 27k coins | +24.4% | +16.7% | Esticada |
-| Roy Makaay | 89 | Bundesliga | 15.250 coins | +10.8% | +12.5% | Momentum moderado |
-| Robin van Persie | 88 | Icons | 97k coins | +12.1% | +9% | Momentum moderado |
+| Dennis Bergkamp | 93 | Icons | 229k coins | +2.7% | +14.4% | Entrada a observar |
+| Robin van Persie | 88 | Icons | 101k coins | +7.4% | +14% | Momentum moderado |
+| Ryan Gravenberch | 87 | Premier League | 44k coins | +35.7% | +10.5% | Esticada |
+| Denzel Dumfries | 89 | Serie A TIM | 39k coins | +5.4% | +9.3% | Momentum moderado |
+| Jurriën Timber | 87 | Premier League | 22k coins | +6.2% | +8.5% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Jordan Teze (87)** — 20k coins, **+56.9% em 7 dias** (+3.4% em 24h). Preço -13% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Tijjani Reijnders (87)** — 68k coins, **+75% em 7 dias** (+18.6% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Joshua Zirkzee (87)** — 32k coins, **+54.8% em 7 dias** (+38.3% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ronald Koeman (91)** — 108k coins, **+65.2% em 7 dias** (+36.2% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Noah Ohio (87)** — 22k coins, **+30% em 7 dias** (+39.3% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jaap Stam (89)** — 139k coins, **+58% em 7 dias** (+20.9% em 24h). Preço +35% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Cody Gakpo (86)** — 52k coins, **+19.9% em 7 dias** (+19.9% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Dirk Kuyt (88)** — 23k coins, **+51.4% em 7 dias** (+29.3% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Sherida Spitse (85)** — 32k coins, **+18.2% em 7 dias** (+27.5% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Dennis Bergkamp (90)** — 107k coins, **+48.2% em 7 dias** (+3.5% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -81,7 +86,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (19/07/2026) no EA FC?**  
-Jordan Teze (87, Ligue 1 McDonald's) lidera, com +56.9% em 7 dias a 20k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Tijjani Reijnders (87, Premier League) lidera, com +75% em 7 dias a 68k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
