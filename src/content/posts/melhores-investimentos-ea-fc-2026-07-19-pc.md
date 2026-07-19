@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T10:27:18.000Z
+pubDatetime: 2026-07-19T13:27:18.000Z
 title: "Investimentos EA FC: Holandeses em 19/07 — PC"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **19/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+18.1% em 24h** e **+17.9% em 7 dias**.
-- **7 de 14 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+22.6% em 24h** e **+35.3% em 7 dias**.
+- **10 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Premier League** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -44,32 +44,33 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Ryan Gravenberch | 93 | Premier League | 234k coins | +11.4% | +85.7% | Esticada |
-| Frank Rijkaard | 87 | Icons | 133k coins | +26.7% | +47% | Esticada |
-| Lynn Wilms | 86 | Barclays Women’s Super League | 47k coins | +17.5% | +39.3% | Momentum moderado |
-| Esmee Brugts | 88 | Liga F | 26k coins | +35.4% | +30.6% | Esticada |
-| Jaap Stam | 89 | Premier League | 150k coins | +5.6% | +25% | Momentum moderado |
-| Georginio Wijnaldum | 84 | Brasileirão | 60k coins | +22.4% | +22.4% | Esticada |
-| Jordan Teze | 87 | Ligue 1 McDonald's | 27k coins | +35% | +18.7% | Esticada |
-| Xavi Simons | 91 | Premier League | 110k coins | +12.2% | +17% | Momentum moderado |
-| Ryan Gravenberch | 86 | Premier League | 90k coins | +13% | +15.2% | Momentum moderado |
-| Givairo Read | 86 | Eredivisie | 22k coins | +22.7% | +15% | Esticada |
-| Janou Levels | 86 | GPFBL | 48k coins | +18.8% | +11.8% | Momentum moderado |
-| Wout Weghorst | 85 | Eredivisie | 82k coins | +23.5% | +7.9% | Esticada |
-| Frank Rijkaard | 89 | Icons | 140k coins | +7.7% | +7.7% | Momentum moderado |
-| Jeremie Frimpong | 86 | Premier League | 185k coins | +6.1% | +6.1% | Momentum moderado |
+| Dennis Bergkamp | 90 | Icons | 122k coins | +24% | +82.4% | Esticada |
+| Noa Lang | 91 | Trendyol Süper Lig | 65k coins | +22.6% | +81.8% | Esticada |
+| Denzel Dumfries | 89 | Serie A TIM | 65k coins | +33.3% | +61.5% | Esticada |
+| Melle Meulensteen | 84 | Eredivisie | 40k coins | +37.5% | +51.7% | Esticada |
+| Mats Deijl | 88 | Eredivisie | 23k coins | +24% | +45.3% | Esticada |
+| Roy Makaay | 87 | Bundesliga | 15.000 coins | +31.2% | +43.2% | Esticada |
+| Lynn Wilms | 86 | Barclays Women’s Super League | 47k coins | +22.1% | +35.3% | Esticada |
+| Donyell Malen | 89 | Serie A TIM | 44k coins | +35.1% | +29.2% | Esticada |
+| Dirk Kuyt | 88 | Eredivisie | 35k coins | +6.9% | +28.4% | Momentum moderado |
+| Frank Rijkaard | 87 | Icons | 121k coins | +29.5% | +26.9% | Esticada |
+| Denzel Dumfries | 86 | Serie A TIM | 32k coins | +10.2% | +17.6% | Momentum moderado |
+| Ryan Gravenberch | 86 | Premier League | 89k coins | +3.5% | +17% | Entrada a observar |
+| Jaap Stam | 89 | Premier League | 150k coins | +5.6% | +15.4% | Momentum moderado |
+| Georginio Wijnaldum | 84 | Brasileirão | 55k coins | +18.3% | +12.2% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Ryan Gravenberch (93)** — 234k coins, **+85.7% em 7 dias** (+11.4% em 24h). Preço em linha com a média de 7 dias (+2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ryan Gravenberch (93)** — 234k coins, **+85.7% em 7 dias** (+11.4% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Frank Rijkaard (87)** — 133k coins, **+47% em 7 dias** (+26.7% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Dennis Bergkamp (90)** — 122k coins, **+82.4% em 7 dias** (+24% em 24h). Preço +37% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Lynn Wilms (86)** — 47k coins, **+39.3% em 7 dias** (+17.5% em 24h). Preço em linha com a média de 7 dias (+8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Noa Lang (91)** — 65k coins, **+81.8% em 7 dias** (+22.6% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Esmee Brugts (88)** — 26k coins, **+30.6% em 7 dias** (+35.4% em 24h). Preço em linha com a média de 7 dias (-3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Denzel Dumfries (89)** — 65k coins, **+61.5% em 7 dias** (+33.3% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jaap Stam (89)** — 150k coins, **+25% em 7 dias** (+5.6% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Melle Meulensteen (84)** — 40k coins, **+51.7% em 7 dias** (+37.5% em 24h). Preço -14% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
