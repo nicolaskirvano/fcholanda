@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T10:27:18.000Z
+pubDatetime: 2026-07-20T13:27:18.000Z
 title: "Investimentos EA FC: Holandeses em 20/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 20/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (20/07/2026) no EA FC?"
-    a: "Robin van Persie (88, Icons) lidera, com +62% em 7 dias a 230k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Robin van Persie (88, Icons) lidera, com +50.7% em 7 dias a 207k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **20/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Robin van Persie (88) acumula **+62% em 7 dias** a 230k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Robin van Persie (88) acumula **+50.7% em 7 dias** a 207k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Holandeses em 20/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-20-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **20/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+16.8% em 24h** e **+29.5% em 7 dias**.
-- **3 de 8 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+11.1% em 24h** e **+32.1% em 7 dias**.
+- **3 de 9 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Premier League** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,27 +43,28 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Robin van Persie | 88 | Icons | 230k coins | +30.7% | +62% | Esticada |
-| Sepp van den Berg | 89 | Premier League | 21k coins | +27% | +42.9% | Esticada |
-| Jordan Teze | 87 | Ligue 1 McDonald's | 24k coins | +15.5% | +42.6% | Momentum moderado |
-| Wout Weghorst | 85 | Eredivisie | 85k coins | +4.3% | +31.8% | Momentum moderado |
-| Wesley Sneijder | 88 | Serie A TIM | 18.750 coins | +4.2% | +27.1% | Momentum moderado |
-| Ryan Gravenberch | 86 | Premier League | 92k coins | +2.2% | +26.7% | Momentum moderado |
-| Quinten Timber | 85 | Eredivisie | 49k coins | +18% | +26.3% | Momentum moderado |
-| Joshua Zirkzee | 87 | Premier League | 38k coins | +26.9% | +5.6% | Esticada |
+| Robin van Persie | 88 | Icons | 207k coins | +20.2% | +50.7% | Esticada |
+| Roy Makaay | 87 | Bundesliga | 19.500 coins | +30.2% | +49.1% | Esticada |
+| Sepp van den Berg | 89 | Premier League | 15.000 coins | +22.7% | +42.1% | Esticada |
+| Quinten Timber | 85 | Eredivisie | 49k coins | +7.7% | +32.2% | Momentum moderado |
+| Denzel Dumfries | 86 | Serie A TIM | 35k coins | +11.1% | +32.1% | Momentum moderado |
+| Wout Weghorst | 85 | Eredivisie | 85k coins | +6.2% | +31.8% | Momentum moderado |
+| Ryan Gravenberch | 86 | Premier League | 92k coins | +3.4% | +29.4% | Momentum moderado |
+| Cody Gakpo | 86 | Premier League | 49k coins | +18.9% | +18.2% | Momentum moderado |
+| Xavi Simons | 91 | Premier League | 110k coins | +9.3% | +8.7% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Robin van Persie (88)** — 230k coins, **+62% em 7 dias** (+30.7% em 24h). Preço +45% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Robin van Persie (88)** — 207k coins, **+50.7% em 7 dias** (+20.2% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Sepp van den Berg (89)** — 21k coins, **+42.9% em 7 dias** (+27% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Roy Makaay (87)** — 19.500 coins, **+49.1% em 7 dias** (+30.2% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jordan Teze (87)** — 24k coins, **+42.6% em 7 dias** (+15.5% em 24h). Preço em linha com a média de 7 dias (-1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Sepp van den Berg (89)** — 15.000 coins, **+42.1% em 7 dias** (+22.7% em 24h). Preço em linha com a média de 7 dias (-6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Wout Weghorst (85)** — 85k coins, **+31.8% em 7 dias** (+4.3% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Quinten Timber (85)** — 49k coins, **+32.2% em 7 dias** (+7.7% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Wesley Sneijder (88)** — 18.750 coins, **+27.1% em 7 dias** (+4.2% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Denzel Dumfries (86)** — 35k coins, **+32.1% em 7 dias** (+11.1% em 24h). Preço -11% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -90,7 +91,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (20/07/2026) no EA FC?**  
-Robin van Persie (88, Icons) lidera, com +62% em 7 dias a 230k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Robin van Persie (88, Icons) lidera, com +50.7% em 7 dias a 207k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

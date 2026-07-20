@@ -6,20 +6,20 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Robin van Persie</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+62.0%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Sepp van den Berg</text>
-<rect x="285" y="153" width="332" height="28" rx="7" fill="#22c55e"/>
-<text x="627" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+42.9%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jordan Teze</text>
-<rect x="285" y="211" width="330" height="28" rx="7" fill="#22c55e"/>
-<text x="625" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+42.6%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Wout Weghorst</text>
-<rect x="285" y="269" width="246" height="28" rx="7" fill="#22c55e"/>
-<text x="541" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+31.8%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Wesley Sneijder</text>
-<rect x="285" y="327" width="210" height="28" rx="7" fill="#22c55e"/>
-<text x="505" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+27.1%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ryan Gravenberch</text>
-<rect x="285" y="385" width="207" height="28" rx="7" fill="#22c55e"/>
-<text x="502" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+26.7%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+50.7%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Roy Makaay</text>
+<rect x="285" y="153" width="465" height="28" rx="7" fill="#22c55e"/>
+<text x="760" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+49.1%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Sepp van den Berg</text>
+<rect x="285" y="211" width="399" height="28" rx="7" fill="#22c55e"/>
+<text x="694" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+42.1%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Quinten Timber</text>
+<rect x="285" y="269" width="305" height="28" rx="7" fill="#22c55e"/>
+<text x="600" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+32.2%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Denzel Dumfries</text>
+<rect x="285" y="327" width="304" height="28" rx="7" fill="#22c55e"/>
+<text x="599" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+32.1%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Wout Weghorst</text>
+<rect x="285" y="385" width="301" height="28" rx="7" fill="#22c55e"/>
+<text x="596" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+31.8%</text>
 </svg>
