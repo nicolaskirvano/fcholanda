@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T22:27:18.000Z
+pubDatetime: 2026-07-22T01:27:18.000Z
 title: "Investimentos EA FC: Holandeses em 21/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 21/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (21/07/2026) no EA FC?"
-    a: "Quinten Timber (85, Eredivisie) lidera, com +52.4% em 7 dias a 53k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Denzel Dumfries (86, Serie A TIM) lidera, com +69.1% em 7 dias a 100k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **21/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Quinten Timber (85) acumula **+52.4% em 7 dias** a 53k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Denzel Dumfries (86) acumula **+69.1% em 7 dias** a 100k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Holandeses em 21/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-21-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **21/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+14.2% em 24h** e **+25.4% em 7 dias**.
-- **2 de 6 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Eredivisie** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+20.1% em 24h** e **+21.0% em 7 dias**.
+- **6 de 11 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Premier League** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,25 +43,30 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Quinten Timber | 85 | Eredivisie | 53k coins | +7.4% | +52.4% | Momentum moderado |
-| Frank Rijkaard | 87 | Icons | 106k coins | +18.6% | +47.5% | Momentum moderado |
-| Steven Berghuis | 86 | Eredivisie | 42k coins | +9.7% | +28% | Momentum moderado |
-| Mark Flekken | 84 | Bundesliga | 47k coins | +9.9% | +22.7% | Momentum moderado |
-| Youri Baas | 84 | Eredivisie | 45k coins | +22.5% | +14.2% | Esticada |
-| Wesley Sneijder | 88 | Serie A TIM | 18.000 coins | +38.2% | +11.8% | Esticada |
+| Denzel Dumfries | 86 | Serie A TIM | 100k coins | +38.6% | +69.1% | Esticada |
+| Tijjani Reijnders | 87 | Premier League | 119k coins | +36% | +39.2% | Esticada |
+| Denzel Dumfries | 89 | Serie A TIM | 60k coins | +28% | +39.1% | Esticada |
+| Patrick van Aanholt | 85 | Eredivisie | 47k coins | +38% | +26% | Esticada |
+| Frank Rijkaard | 87 | Icons | 99k coins | +25.9% | +24.4% | Esticada |
+| Jaap Stam | 89 | Premier League | 150k coins | +9.5% | +21% | Momentum moderado |
+| Mark Flekken | 84 | Bundesliga | 45k coins | +12.8% | +20.1% | Momentum moderado |
+| Jurriën Timber | 86 | Premier League | 55k coins | +10.6% | +13.4% | Momentum moderado |
+| Romée Leuchter | 84 | D1 Arkema | 45k coins | +2.6% | +12.4% | Entrada a observar |
+| Youri Baas | 84 | Eredivisie | 45k coins | +20.1% | +10.5% | Esticada |
+| Crysencio Summerville | 86 | Premier League | 52k coins | +17.5% | +7.2% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Quinten Timber (85)** — 53k coins, **+52.4% em 7 dias** (+7.4% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Denzel Dumfries (86)** — 100k coins, **+69.1% em 7 dias** (+38.6% em 24h). Preço +147% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Frank Rijkaard (87)** — 106k coins, **+47.5% em 7 dias** (+18.6% em 24h). Preço em linha com a média de 7 dias (-6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Tijjani Reijnders (87)** — 119k coins, **+39.2% em 7 dias** (+36% em 24h). Preço +43% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Steven Berghuis (86)** — 42k coins, **+28% em 7 dias** (+9.7% em 24h). Preço em linha com a média de 7 dias (-2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Denzel Dumfries (89)** — 60k coins, **+39.1% em 7 dias** (+28% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mark Flekken (84)** — 47k coins, **+22.7% em 7 dias** (+9.9% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Patrick van Aanholt (85)** — 47k coins, **+26% em 7 dias** (+38% em 24h). Preço +37% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Youri Baas (84)** — 45k coins, **+14.2% em 7 dias** (+22.5% em 24h). Preço +8% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Frank Rijkaard (87)** — 99k coins, **+24.4% em 7 dias** (+25.9% em 24h). Preço -13% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -79,7 +84,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (21/07/2026) no EA FC?**  
-Quinten Timber (85, Eredivisie) lidera, com +52.4% em 7 dias a 53k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Denzel Dumfries (86, Serie A TIM) lidera, com +69.1% em 7 dias a 100k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
