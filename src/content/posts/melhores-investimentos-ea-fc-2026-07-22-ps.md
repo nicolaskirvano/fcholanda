@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T16:27:09.000Z
+pubDatetime: 2026-07-22T19:27:09.000Z
 title: "Investimentos EA FC: Holandeses em 22/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 22/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (22/07/2026) no EA FC?"
-    a: "Noa Lang (91, Trendyol Süper Lig) lidera, com +27.3% em 7 dias a 64k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Patrick van Aanholt (85, Eredivisie) lidera, com +28.3% em 7 dias a 24k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **22/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Noa Lang (91) acumula **+27.3% em 7 dias** a 64k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Patrick van Aanholt (85) acumula **+28.3% em 7 dias** a 24k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Holandeses em 22/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-22-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **22/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+22.7% em 24h** e **+20.0% em 7 dias**.
-- **3 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Trendyol Süper Lig** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+9.1% em 24h** e **+12.5% em 7 dias**.
+- **1 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Icons** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,24 +43,24 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Noa Lang | 91 | Trendyol Süper Lig | 64k coins | +36.6% | +27.3% | Esticada |
-| Jaap Stam | 89 | Premier League | 116k coins | +14.3% | +25% | Momentum moderado |
-| Lynn Wilms | 86 | Barclays Women’s Super League | 55k coins | +22.7% | +20% | Esticada |
-| Robin van Persie | 88 | Icons | 90k coins | +19.9% | +15% | Momentum moderado |
-| Mark Flekken | 84 | Bundesliga | 44k coins | +30.1% | +12% | Esticada |
+| Patrick van Aanholt | 85 | Eredivisie | 24k coins | +6.3% | +28.3% | Momentum moderado |
+| Marco van Basten | 91 | Icons | 115k coins | +25% | +27.5% | Esticada |
+| Jaap Stam | 89 | Premier League | 100k coins | +9.1% | +12.5% | Momentum moderado |
+| Jurriën Timber | 86 | Premier League | 35k coins | +1.9% | +6.8% | Entrada a observar |
+| Dennis Bergkamp | 90 | Icons | 84k coins | +10.5% | +5.6% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Noa Lang (91)** — 64k coins, **+27.3% em 7 dias** (+36.6% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Patrick van Aanholt (85)** — 24k coins, **+28.3% em 7 dias** (+6.3% em 24h). Preço -17% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jaap Stam (89)** — 116k coins, **+25% em 7 dias** (+14.3% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Marco van Basten (91)** — 115k coins, **+27.5% em 7 dias** (+25% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Lynn Wilms (86)** — 55k coins, **+20% em 7 dias** (+22.7% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jaap Stam (89)** — 100k coins, **+12.5% em 7 dias** (+9.1% em 24h). Preço -11% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Robin van Persie (88)** — 90k coins, **+15% em 7 dias** (+19.9% em 24h). Preço em linha com a média de 7 dias (-7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jurriën Timber (86)** — 35k coins, **+6.8% em 7 dias** (+1.9% em 24h). Preço -9% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mark Flekken (84)** — 44k coins, **+12% em 7 dias** (+30.1% em 24h). Preço em linha com a média de 7 dias (-4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Dennis Bergkamp (90)** — 84k coins, **+5.6% em 7 dias** (+10.5% em 24h). Preço em linha com a média de 7 dias (-5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -78,7 +78,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (22/07/2026) no EA FC?**  
-Noa Lang (91, Trendyol Süper Lig) lidera, com +27.3% em 7 dias a 64k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Patrick van Aanholt (85, Eredivisie) lidera, com +28.3% em 7 dias a 24k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

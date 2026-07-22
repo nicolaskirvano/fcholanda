@@ -4,19 +4,19 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 7 dias</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Noa Lang</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Patrick van Aanholt</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+27.3%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jaap Stam</text>
-<rect x="285" y="153" width="440" height="28" rx="7" fill="#22c55e"/>
-<text x="735" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+25.0%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Lynn Wilms</text>
-<rect x="285" y="211" width="352" height="28" rx="7" fill="#22c55e"/>
-<text x="647" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+20.0%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Robin van Persie</text>
-<rect x="285" y="269" width="264" height="28" rx="7" fill="#22c55e"/>
-<text x="559" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+15.0%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Mark Flekken</text>
-<rect x="285" y="327" width="211" height="28" rx="7" fill="#22c55e"/>
-<text x="506" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+12.0%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+28.3%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Marco van Basten</text>
+<rect x="285" y="153" width="466" height="28" rx="7" fill="#22c55e"/>
+<text x="761" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+27.5%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jaap Stam</text>
+<rect x="285" y="211" width="212" height="28" rx="7" fill="#22c55e"/>
+<text x="507" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+12.5%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jurriën Timber</text>
+<rect x="285" y="269" width="115" height="28" rx="7" fill="#22c55e"/>
+<text x="410" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+6.8%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Dennis Bergkamp</text>
+<rect x="285" y="327" width="95" height="28" rx="7" fill="#22c55e"/>
+<text x="390" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+5.6%</text>
 </svg>
