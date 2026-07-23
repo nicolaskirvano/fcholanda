@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T19:27:17.000Z
+pubDatetime: 2026-07-23T22:27:17.000Z
 title: "Mercado EA FC em 23/07: Holandeses — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 23/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (23/07/2026)?"
-    a: "Donyell Malen (89, Serie A TIM), com +50.9% em 24h, a 43k coins no PC."
+    a: "Romée Leuchter (84, D1 Arkema), com +46.6% em 24h, a 50k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Denzel Dumfries (86), -40.8% em 24h, a 54k coins."
+    a: "Romée Leuchter (90), -30.8% em 24h, a 150k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 26 cartas em alta contra 29 em queda (média 3.56%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 29 cartas em alta contra 29 em queda (média 4.11%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Em **23/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **aquecido** — as altas dominam o dia: das cartas relevantes (80+ acima de 5k coins), **26 subiram** e **29 caíram**, com variação média de **3.56%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Em **23/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **aquecido** — as altas dominam o dia: das cartas relevantes (80+ acima de 5k coins), **29 subiram** e **29 caíram**, com variação média de **4.11%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Donyell Malen (89) **+50.9%** · 🔴 **Maior baixa:** Denzel Dumfries (86) **-40.8%**
+> 🟢 **Maior alta:** Romée Leuchter (84) **+46.6%** · 🔴 **Maior baixa:** Romée Leuchter (90) **-30.8%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 23/07: Holandeses — PC](/charts/mercado-ea-fc-2026-07-23-pc.svg)
 
@@ -35,24 +35,24 @@ Em **23/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **aqueci
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 91.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 47.3% entre as cartas que se moveram; o universo observado reúne 72 cartas.
-- **Concentração:** Premier League aparece em 6 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 77.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 50.0% entre as cartas que se moveram; o universo observado reúne 77 cartas.
+- **Concentração:** Premier League aparece em 8 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Donyell Malen | 89 | Serie A TIM | 43k coins | +50.9% | +16.2% |
-| Wouter Burger | 83 | Bundesliga | 50k coins | +42.9% | 0% |
-| Robin van Persie | 88 | Icons | 186k coins | +42.1% | +32.7% |
-| Jaap Stam | 87 | Premier League | 850k coins | +39.6% | +8.8% |
-| Vivianne Miedema | 89 | Barclays WSL | 28k coins | +36.9% | -42.5% |
+| Romée Leuchter | 84 | D1 Arkema | 50k coins | +46.6% | -2.5% |
+| Jurriën Timber | 86 | Premier League | 50k coins | +41.1% | +19.9% |
+| Daley Blind | 86 | LALIGA EA SPORTS | 26k coins | +39.7% | +10.9% |
+| Dennis Bergkamp | 90 | Icons | 165k coins | +36.4% | +107.5% |
+| Jaap Stam | 87 | Premier League | 805k coins | +34.2% | +3.1% |
 | Tijjani Reijnders | 93 | Premier League | 397k coins | +32.3% | -16.4% |
-| Romée Leuchter | 84 | D1 Arkema | 48k coins | +29.7% | +37.1% |
-| Ryan Gravenberch | 93 | Premier League | 315k coins | +28% | +60% |
-| Frank Rijkaard | 89 | Icons | 129k coins | +25.2% | -4.4% |
-| Jurriën Timber | 87 | Premier League | 32k coins | +23.4% | -13.2% |
+| Ruud van Nistelrooy | 89 | Icons | 78k coins | +22.2% | +22.2% |
+| Jurriën Timber | 87 | Premier League | 28k coins | +19.1% | -26.3% |
+| Dennis Bergkamp | 91 | Icons | 90k coins | +18.3% | +0.6% |
+| Guus Til | 83 | Eredivisie | 38k coins | +18.1% | +0.7% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Em **23/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **aqueci
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Donyell Malen (89)** subiu **+50.9%** em 24h, a **43k coins** (faixa do dia: 28k–68k). Está em linha com a média de 7 dias (+4%).
+- **Romée Leuchter (84)** subiu **+46.6%** em 24h, a **50k coins** (faixa do dia: 30k–50k). Está +15% acima da média de 7 dias (aquecida).
 
-- **Wouter Burger (83)** subiu **+42.9%** em 24h, a **50k coins** (faixa do dia: 35k–50k). Está em linha com a média de 7 dias (+5%).
+- **Jurriën Timber (86)** subiu **+41.1%** em 24h, a **50k coins** (faixa do dia: 35k–52k). Está em linha com a média de 7 dias (+0%).
 
-- **Robin van Persie (88)** subiu **+42.1%** em 24h, a **186k coins** (faixa do dia: 175k–260k). Está em linha com a média de 7 dias (+7%).
+- **Daley Blind (86)** subiu **+39.7%** em 24h, a **26k coins** (faixa do dia: 17.000–26k). Está em linha com a média de 7 dias (+7%).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Denzel Dumfries | 86 | Serie A TIM | 54k coins | -40.8% | +52.4% |
-| Wouter Burger | 87 | Bundesliga | 107k coins | -38% | -39.7% |
-| Patrick Kluivert | 87 | Icons | 66k coins | -34.7% | -35.3% |
-| Ruud Gullit | 93 | Icons | 7M coins | -30% | -26.3% |
-| Dominique Janssen | 89 | Barclays WSL | 22k coins | -29.5% | -7% |
-| Micky van de Ven | 87 | Premier League | 1.47M coins | -24.6% | -24.9% |
-| Joshua Zirkzee | 87 | Premier League | 28k coins | -24.5% | +1.8% |
-| Marten de Roon | 85 | Serie A TIM | 21k coins | -21.4% | -42.1% |
-| Roy Makaay | 89 | Bundesliga | 21k coins | -20.7% | -24.1% |
-| Daley Blind | 86 | LALIGA EA SPORTS | 26k coins | -20% | -13% |
+| Romée Leuchter | 90 | D1 Arkema | 150k coins | -30.8% | -47.6% |
+| Dominique Janssen | 89 | Barclays WSL | 25k coins | -28.8% | -6% |
+| Melle Meulensteen | 84 | Eredivisie | 49k coins | -27.1% | -20.5% |
+| Georginio Wijnaldum | 84 | Brasileirão | 46k coins | -22.5% | -5.1% |
+| Ryan Gravenberch | 87 | Premier League | 68k coins | -19.5% | -29.5% |
+| Wesley Sneijder | 89 | Serie A TIM | 105k coins | -17.3% | -18% |
+| Micky van de Ven | 87 | Premier League | 1.47M coins | -12% | -25% |
+| Johan Cruyff | 93 | Icons | 324k coins | -11.6% | -40.5% |
+| Ryan Gravenberch | 93 | Premier League | 275k coins | -11.3% | +29% |
+| Zian Flemming | 80 | Premier League | 45k coins | -10.5% | -10.1% |
 
 
 ### Análise das baixas
 
-- **Denzel Dumfries (86)** caiu **-40.8%** em 24h, a **54k coins** (faixa do dia: 37k–90k). Está +18% acima da média de 7 dias (aquecida).
+- **Romée Leuchter (90)** caiu **-30.8%** em 24h, a **150k coins** (faixa do dia: 104k–170k). Está -12% abaixo da média de 7 dias (descontada).
 
-- **Wouter Burger (87)** caiu **-38%** em 24h, a **107k coins** (faixa do dia: 101k–179k). Está -23% abaixo da média de 7 dias (descontada).
+- **Dominique Janssen (89)** caiu **-28.8%** em 24h, a **25k coins** (faixa do dia: 21k–38k). Está em linha com a média de 7 dias (-2%).
 
-- **Patrick Kluivert (87)** caiu **-34.7%** em 24h, a **66k coins** (faixa do dia: 66k–100k). Está -31% abaixo da média de 7 dias (descontada).
+- **Melle Meulensteen (84)** caiu **-27.1%** em 24h, a **49k coins** (faixa do dia: 40k–54k). Está +9% acima da média de 7 dias (aquecida).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Donyell Malen já avançou 50.9% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Romée Leuchter já avançou 46.6% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Denzel Dumfries recuou -40.8%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Romée Leuchter recuou -30.8%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (23/07/2026)?**
-Donyell Malen (89, Serie A TIM), com +50.9% em 24h, a 43k coins no PC.
+Romée Leuchter (84, D1 Arkema), com +46.6% em 24h, a 50k coins no PC.
 
 **E a maior queda do dia?**
-Denzel Dumfries (86), -40.8% em 24h, a 54k coins.
+Romée Leuchter (90), -30.8% em 24h, a 150k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 26 cartas em alta contra 29 em queda (média 3.56%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 29 cartas em alta contra 29 em queda (média 4.11%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
