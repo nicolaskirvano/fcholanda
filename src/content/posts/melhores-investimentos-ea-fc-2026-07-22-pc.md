@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T22:27:18.000Z
+pubDatetime: 2026-07-23T01:27:18.000Z
 title: "Investimentos EA FC: Holandeses em 22/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 22/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (22/07/2026) no EA FC?"
-    a: "Dominique Janssen (89, Barclays WSL) lidera, com +49.5% em 7 dias a 33k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Jeremie Frimpong (86, Premier League) lidera, com +32.2% em 7 dias a 226k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **22/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Dominique Janssen (89) acumula **+49.5% em 7 dias** a 33k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Jeremie Frimpong (86) acumula **+32.2% em 7 dias** a 226k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Holandeses em 22/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-22-pc.svg)
 
@@ -33,8 +33,8 @@ Esta lista de **22/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+11.1% em 24h** e **+26.8% em 7 dias**.
-- **2 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+16.9% em 24h** e **+27.1% em 7 dias**.
+- **2 de 4 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Premier League** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,24 +43,21 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Dominique Janssen | 89 | Barclays WSL | 33k coins | +1.5% | +49.5% | Momentum moderado |
-| Cody Gakpo | 86 | Premier League | 48k coins | +29.3% | +29.3% | Esticada |
-| Daley Blind | 86 | LALIGA EA SPORTS | 22k coins | +2.3% | +26.8% | Momentum moderado |
-| Marco van Basten | 91 | Icons | 97k coins | +28.6% | +17.9% | Esticada |
-| Sepp van den Berg | 89 | Premier League | 17.500 coins | +11.1% | +7.7% | Momentum moderado |
+| Jeremie Frimpong | 86 | Premier League | 226k coins | +10.2% | +32.2% | Momentum moderado |
+| Cody Gakpo | 86 | Premier League | 46k coins | +28.4% | +29.3% | Esticada |
+| Georginio Wijnaldum | 84 | Brasileirão | 62k coins | +9.1% | +25% | Momentum moderado |
+| Noa Lang | 91 | Trendyol Süper Lig | 68k coins | +23.6% | +11.5% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Dominique Janssen (89)** — 33k coins, **+49.5% em 7 dias** (+1.5% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jeremie Frimpong (86)** — 226k coins, **+32.2% em 7 dias** (+10.2% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Cody Gakpo (86)** — 48k coins, **+29.3% em 7 dias** (+29.3% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Cody Gakpo (86)** — 46k coins, **+29.3% em 7 dias** (+28.4% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Daley Blind (86)** — 22k coins, **+26.8% em 7 dias** (+2.3% em 24h). Preço em linha com a média de 7 dias (-7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Georginio Wijnaldum (84)** — 62k coins, **+25% em 7 dias** (+9.1% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Marco van Basten (91)** — 97k coins, **+17.9% em 7 dias** (+28.6% em 24h). Preço em linha com a média de 7 dias (-7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Sepp van den Berg (89)** — 17.500 coins, **+7.7% em 7 dias** (+11.1% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Noa Lang (91)** — 68k coins, **+11.5% em 7 dias** (+23.6% em 24h). Preço +8% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -78,7 +75,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (22/07/2026) no EA FC?**  
-Dominique Janssen (89, Barclays WSL) lidera, com +49.5% em 7 dias a 33k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Jeremie Frimpong (86, Premier League) lidera, com +32.2% em 7 dias a 226k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
