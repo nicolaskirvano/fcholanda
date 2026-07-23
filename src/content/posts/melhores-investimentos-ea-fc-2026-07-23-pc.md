@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T16:27:18.000Z
+pubDatetime: 2026-07-23T19:27:18.000Z
 title: "Investimentos EA FC: Holandeses em 23/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 23/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (23/07/2026) no EA FC?"
-    a: "Tijjani Reijnders (87, Premier League) lidera, com +39% em 7 dias a 96k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Romée Leuchter (84, D1 Arkema) lidera, com +37.1% em 7 dias a 48k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **23/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Tijjani Reijnders (87) acumula **+39% em 7 dias** a 96k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Romée Leuchter (84) acumula **+37.1% em 7 dias** a 48k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Holandeses em 23/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-23-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **23/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+17.5% em 24h** e **+21.2% em 7 dias**.
-- **3 de 8 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+12.5% em 24h** e **+24.0% em 7 dias**.
+- **1 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Premier League** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,27 +43,24 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Tijjani Reijnders | 87 | Premier League | 96k coins | +16.7% | +39% | Momentum moderado |
-| Georginio Wijnaldum | 87 | Brasileirão | 42k coins | +20% | +32.3% | Esticada |
-| Romée Leuchter | 84 | D1 Arkema | 43k coins | +13.2% | +22.1% | Momentum moderado |
-| Frank Rijkaard | 87 | Icons | 138k coins | +38.7% | +21.3% | Esticada |
-| Crysencio Summerville | 86 | Premier League | 60k coins | +12.1% | +21.2% | Momentum moderado |
-| Dominique Janssen | 89 | Barclays WSL | 24k coins | +36.4% | +20% | Esticada |
-| Jurriën Timber | 86 | Premier League | 40k coins | +18.4% | +8.4% | Momentum moderado |
-| Youri Baas | 84 | Eredivisie | 48k coins | +2.4% | +6.9% | Entrada a observar |
+| Romée Leuchter | 84 | D1 Arkema | 48k coins | +29.7% | +37.1% | Esticada |
+| Tijjani Reijnders | 87 | Premier League | 88k coins | +12.5% | +27.7% | Momentum moderado |
+| Jaap Stam | 89 | Premier League | 150k coins | +7.1% | +24% | Momentum moderado |
+| Edwin van der Sar | 88 | Icons | 175k coins | +15.1% | +22.8% | Momentum moderado |
+| Georginio Wijnaldum | 87 | Brasileirão | 39k coins | +5.7% | +16.5% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Tijjani Reijnders (87)** — 96k coins, **+39% em 7 dias** (+16.7% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Romée Leuchter (84)** — 48k coins, **+37.1% em 7 dias** (+29.7% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Georginio Wijnaldum (87)** — 42k coins, **+32.3% em 7 dias** (+20% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Tijjani Reijnders (87)** — 88k coins, **+27.7% em 7 dias** (+12.5% em 24h). Preço em linha com a média de 7 dias (+2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Romée Leuchter (84)** — 43k coins, **+22.1% em 7 dias** (+13.2% em 24h). Preço em linha com a média de 7 dias (-0%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jaap Stam (89)** — 150k coins, **+24% em 7 dias** (+7.1% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Frank Rijkaard (87)** — 138k coins, **+21.3% em 7 dias** (+38.7% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Edwin van der Sar (88)** — 175k coins, **+22.8% em 7 dias** (+15.1% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Crysencio Summerville (86)** — 60k coins, **+21.2% em 7 dias** (+12.1% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Georginio Wijnaldum (87)** — 39k coins, **+16.5% em 7 dias** (+5.7% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -81,7 +78,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (23/07/2026) no EA FC?**  
-Tijjani Reijnders (87, Premier League) lidera, com +39% em 7 dias a 96k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Romée Leuchter (84, D1 Arkema) lidera, com +37.1% em 7 dias a 48k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
