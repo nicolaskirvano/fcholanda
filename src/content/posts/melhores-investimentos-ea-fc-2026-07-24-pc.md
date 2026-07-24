@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-24T13:27:20.000Z
+pubDatetime: 2026-07-24T16:27:18.000Z
 title: "Investimentos EA FC: Holandeses em 24/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 24/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (24/07/2026) no EA FC?"
-    a: "Noah Ohio (87, LaLiga Hypermotion) lidera, com +39.5% em 7 dias a 28k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Dirk Kuyt (86, Eredivisie) lidera, com +57.4% em 7 dias a 18.500 coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **24/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Noah Ohio (87) acumula **+39.5% em 7 dias** a 28k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Dirk Kuyt (86) acumula **+57.4% em 7 dias** a 18.500 coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Holandeses em 24/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-24-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **24/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+26.1% em 24h** e **+15.5% em 7 dias**.
-- **4 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+16.1% em 24h** e **+30.6% em 7 dias**.
+- **1 de 6 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Eredivisie** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,24 +43,25 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Noah Ohio | 87 | LaLiga Hypermotion | 28k coins | +27% | +39.5% | Esticada |
-| Noa Lang | 91 | Trendyol Süper Lig | 89k coins | +23.8% | +36.4% | Esticada |
-| Ryan Gravenberch | 86 | Premier League | 80k coins | +26.1% | +15.5% | Esticada |
-| Jeremie Frimpong | 86 | Premier League | 118k coins | +17.6% | +11.5% | Momentum moderado |
-| Wout Weghorst | 85 | Eredivisie | 80k coins | +30.1% | +8.8% | Esticada |
+| Dirk Kuyt | 86 | Eredivisie | 18.500 coins | +19.4% | +57.4% | Momentum moderado |
+| Noa Lang | 91 | Trendyol Süper Lig | 88k coins | +17.2% | +47.5% | Momentum moderado |
+| Noah Ohio | 87 | LaLiga Hypermotion | 27k coins | +22.5% | +31.3% | Esticada |
+| Luciano Valente | 87 | Eredivisie | 22k coins | +5.1% | +30% | Momentum moderado |
+| Marco van Basten | 91 | Icons | 116k coins | +14.9% | +13.7% | Momentum moderado |
+| Mark Flekken | 84 | Bundesliga | 48k coins | +10.5% | +12.4% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Noah Ohio (87)** — 28k coins, **+39.5% em 7 dias** (+27% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Dirk Kuyt (86)** — 18.500 coins, **+57.4% em 7 dias** (+19.4% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Noa Lang (91)** — 89k coins, **+36.4% em 7 dias** (+23.8% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Noa Lang (91)** — 88k coins, **+47.5% em 7 dias** (+17.2% em 24h). Preço +35% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ryan Gravenberch (86)** — 80k coins, **+15.5% em 7 dias** (+26.1% em 24h). Preço em linha com a média de 7 dias (-4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Noah Ohio (87)** — 27k coins, **+31.3% em 7 dias** (+22.5% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jeremie Frimpong (86)** — 118k coins, **+11.5% em 7 dias** (+17.6% em 24h). Preço -33% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Luciano Valente (87)** — 22k coins, **+30% em 7 dias** (+5.1% em 24h). Preço em linha com a média de 7 dias (-5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Wout Weghorst (85)** — 80k coins, **+8.8% em 7 dias** (+30.1% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Marco van Basten (91)** — 116k coins, **+13.7% em 7 dias** (+14.9% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -78,7 +79,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (24/07/2026) no EA FC?**  
-Noah Ohio (87, LaLiga Hypermotion) lidera, com +39.5% em 7 dias a 28k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Dirk Kuyt (86, Eredivisie) lidera, com +57.4% em 7 dias a 18.500 coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
