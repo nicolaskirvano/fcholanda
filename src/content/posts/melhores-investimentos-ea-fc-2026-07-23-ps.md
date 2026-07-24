@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T22:27:09.000Z
+pubDatetime: 2026-07-24T01:27:09.000Z
 title: "Investimentos EA FC: Holandeses em 23/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 23/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (23/07/2026) no EA FC?"
-    a: "Sherida Spitse (85, Nederland Vrouwen Liga) lidera, com +85.7% em 7 dias a 32k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Marco van Basten (91, Icons) lidera, com +41.1% em 7 dias a 127k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **23/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Sherida Spitse (85) acumula **+85.7% em 7 dias** a 32k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Marco van Basten (91) acumula **+41.1% em 7 dias** a 127k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Holandeses em 23/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-23-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **23/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+12.4% em 24h** e **+20.1% em 7 dias**.
-- **2 de 8 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+15.9% em 24h** e **+17.9% em 7 dias**.
+- **2 de 4 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Icons** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,27 +43,21 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Sherida Spitse | 85 | Nederland Vrouwen Liga | 32k coins | +4% | +85.7% | Esticada |
-| Ryan Gravenberch | 86 | Premier League | 50k coins | +14.4% | +27.6% | Momentum moderado |
-| Marco van Basten | 91 | Icons | 110k coins | +7.8% | +23.6% | Momentum moderado |
-| Crysencio Summerville | 86 | Premier League | 65k coins | +19.6% | +23.1% | Momentum moderado |
-| Tijjani Reijnders | 87 | Premier League | 50k coins | +12.8% | +17.1% | Momentum moderado |
-| Joël Drommel | 84 | Eredivisie | 43k coins | +4.2% | +11.5% | Entrada a observar |
+| Marco van Basten | 91 | Icons | 127k coins | +8.5% | +41.1% | Momentum moderado |
+| Crysencio Summerville | 86 | Premier League | 57k coins | +7.3% | +18% | Momentum moderado |
+| Ruben Kluivert | 86 | Ligue 1 McDonald's | 22k coins | +31.4% | +17.7% | Esticada |
 | Danilho Doekhi | 84 | Bundesliga | 48k coins | +23.4% | +10.5% | Esticada |
-| Wesley Sneijder | 88 | Serie A TIM | 15.000 coins | +12% | +7.7% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Sherida Spitse (85)** — 32k coins, **+85.7% em 7 dias** (+4% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Marco van Basten (91)** — 127k coins, **+41.1% em 7 dias** (+8.5% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ryan Gravenberch (86)** — 50k coins, **+27.6% em 7 dias** (+14.4% em 24h). Preço em linha com a média de 7 dias (+2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Crysencio Summerville (86)** — 57k coins, **+18% em 7 dias** (+7.3% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Marco van Basten (91)** — 110k coins, **+23.6% em 7 dias** (+7.8% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ruben Kluivert (86)** — 22k coins, **+17.7% em 7 dias** (+31.4% em 24h). Preço em linha com a média de 7 dias (-8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Crysencio Summerville (86)** — 65k coins, **+23.1% em 7 dias** (+19.6% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Tijjani Reijnders (87)** — 50k coins, **+17.1% em 7 dias** (+12.8% em 24h). Preço em linha com a média de 7 dias (-4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Danilho Doekhi (84)** — 48k coins, **+10.5% em 7 dias** (+23.4% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -81,7 +75,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (23/07/2026) no EA FC?**  
-Sherida Spitse (85, Nederland Vrouwen Liga) lidera, com +85.7% em 7 dias a 32k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Marco van Basten (91, Icons) lidera, com +41.1% em 7 dias a 127k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

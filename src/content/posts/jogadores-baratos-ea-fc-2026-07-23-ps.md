@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T22:27:10.000Z
+pubDatetime: 2026-07-24T01:27:10.000Z
 title: "Jogadores baratos EA FC: Holandeses em 23/07 — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 23/07/2026 no Console (PS), com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (23/07/2026)?"
-    a: "Roy Makaay (87, Bundesliga) aparece como melhor custo-benefício, a 12.500 coins no Console (PS)."
+    a: "Sepp van den Berg (89, Premier League) aparece como melhor custo-benefício, a 14.000 coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **23/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Roy Makaay (87) por apenas 12.500 coins.
+> 💰 **Melhor pechincha:** Sepp van den Berg (89) por apenas 14.000 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Holandeses em 23/07 — Console (PS)](/charts/jogadores-baratos-ea-fc-2026-07-23-ps.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 5 opções:** 13.150 coins.
-- **Posição mais frequente:** ST, com 2 cartas.
-- **Faixa real:** 12.500 a 13.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 6 opções:** 13.792 coins.
+- **Posição mais frequente:** CAM, com 3 cartas.
+- **Faixa real:** 11.500 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,33 +40,34 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Roy Makaay | 87 | ST | Bundesliga | 12.500 coins | +2% |
-| Georginio Wijnaldum | 87 | CM | Brasileirão | 13.500 coins | -5.6% |
-| Dirk Kuyt | 86 | CAM | Eredivisie | 12.750 coins | +4.2% |
-| Daley Blind | 86 | CB | LALIGA EA SPORTS | 13.250 coins | -3.9% |
-| Lineth Beerensteyn | 86 | ST | GPFBL | 13.750 coins | +25% |
+| Sepp van den Berg | 89 | CB | Premier League | 14.000 coins | -1.8% |
+| Dirk Kuyt | 88 | CAM | Eredivisie | 14.250 coins | +5.1% |
+| Wesley Sneijder | 88 | CAM | Serie A TIM | 14.750 coins | +22.9% |
+| Roy Makaay | 87 | ST | Bundesliga | 11.500 coins | -9.8% |
+| Noah Ohio | 87 | ST | LaLiga Hypermotion | 14.750 coins | -3.3% |
+| Dirk Kuyt | 86 | CAM | Eredivisie | 13.500 coins | -4.1% |
 
 
 ## 📈 Destaques
 
-- **Roy Makaay (87, ST)** da Bundesliga, a apenas **12.500 coins**
+- **Sepp van den Berg (89, CB)** da Premier League, a apenas **14.000 coins**
 
-- **Georginio Wijnaldum (87, CM)** da Brasileirão, a apenas **13.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Dirk Kuyt (88, CAM)** da Eredivisie, a apenas **14.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Dirk Kuyt (86, CAM)** da Eredivisie, a apenas **12.750 coins**
+- **Wesley Sneijder (88, CAM)** da Serie A TIM, a apenas **14.750 coins** A alta de 24h pede uma nova checagem antes da compra.
 
-- **Daley Blind (86, CB)** da LALIGA EA SPORTS, a apenas **13.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Roy Makaay (87, ST)** da Bundesliga, a apenas **11.500 coins**
 
-- **Lineth Beerensteyn (86, ST)** da GPFBL, a apenas **13.750 coins** A alta de 24h pede uma nova checagem antes da compra.
+- **Noah Ohio (87, ST)** da LaLiga Hypermotion, a apenas **14.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Daley Blind (86, CB) por 13.250 coins é a referência de rating deste recorte.
+- **Defesa:** Sepp van den Berg (89, CB) por 14.000 coins é a referência de rating deste recorte.
 
-- **Meio:** Georginio Wijnaldum (87, CM) por 13.500 coins é a referência de rating deste recorte.
+- **Meio:** Dirk Kuyt (88, CAM) por 14.250 coins é a referência de rating deste recorte.
 
-- **Ataque:** Roy Makaay (87, ST) por 12.500 coins é a referência de rating deste recorte.
+- **Ataque:** Roy Makaay (87, ST) por 11.500 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -85,7 +86,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (23/07/2026)?**  
-Roy Makaay (87, Bundesliga) aparece como melhor custo-benefício, a 12.500 coins no Console (PS).
+Sepp van den Berg (89, Premier League) aparece como melhor custo-benefício, a 14.000 coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
