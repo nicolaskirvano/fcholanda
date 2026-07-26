@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T19:27:09.000Z
+pubDatetime: 2026-07-26T22:27:12.000Z
 title: "Investimentos EA FC: Holandeses em 26/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 26/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (26/07/2026) no EA FC?"
-    a: "Daley Blind (86, LALIGA EA SPORTS) lidera, com +27.5% em 7 dias a 29k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Robin van Persie (88, Icons) lidera, com +32.7% em 7 dias a 130k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **26/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Daley Blind (86) acumula **+27.5% em 7 dias** a 29k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Robin van Persie (88) acumula **+32.7% em 7 dias** a 130k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Holandeses em 26/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-26-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **26/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+27.7% em 24h** e **+20.0% em 7 dias**.
-- **3 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **LALIGA EA SPORTS** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+16.1% em 24h** e **+23.9% em 7 dias**.
+- **3 de 6 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Icons** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,24 +43,25 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Daley Blind | 86 | LALIGA EA SPORTS | 29k coins | +30.3% | +27.5% | Esticada |
-| Roy Makaay | 87 | Bundesliga | 15.500 coins | +27.7% | +25% | Esticada |
-| Melle Meulensteen | 84 | Eredivisie | 39k coins | +5.3% | +20% | Momentum moderado |
-| Jurriën Timber | 86 | Premier League | 45k coins | +4.4% | +12.1% | Entrada a observar |
-| Ruben Kluivert | 86 | Ligue 1 McDonald's | 25k coins | +32% | +5.3% | Esticada |
+| Robin van Persie | 88 | Icons | 130k coins | +21.5% | +32.7% | Esticada |
+| Georginio Wijnaldum | 84 | Brasileirão | 60k coins | +4.3% | +29.7% | Momentum moderado |
+| Roy Makaay | 87 | Bundesliga | 15.500 coins | +33.3% | +25% | Esticada |
+| Dirk Kuyt | 86 | Eredivisie | 15.000 coins | +34.1% | +22.9% | Esticada |
+| Jurriën Timber | 86 | Premier League | 40k coins | +10.7% | +18.1% | Momentum moderado |
+| Romée Leuchter | 84 | D1 Arkema | 45k coins | +10% | +15.8% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Daley Blind (86)** — 29k coins, **+27.5% em 7 dias** (+30.3% em 24h). Preço +42% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Robin van Persie (88)** — 130k coins, **+32.7% em 7 dias** (+21.5% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Roy Makaay (87)** — 15.500 coins, **+25% em 7 dias** (+27.7% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Georginio Wijnaldum (84)** — 60k coins, **+29.7% em 7 dias** (+4.3% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Melle Meulensteen (84)** — 39k coins, **+20% em 7 dias** (+5.3% em 24h). Preço em linha com a média de 7 dias (-6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Roy Makaay (87)** — 15.500 coins, **+25% em 7 dias** (+33.3% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jurriën Timber (86)** — 45k coins, **+12.1% em 7 dias** (+4.4% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Dirk Kuyt (86)** — 15.000 coins, **+22.9% em 7 dias** (+34.1% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ruben Kluivert (86)** — 25k coins, **+5.3% em 7 dias** (+32% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jurriën Timber (86)** — 40k coins, **+18.1% em 7 dias** (+10.7% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -78,7 +79,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (26/07/2026) no EA FC?**  
-Daley Blind (86, LALIGA EA SPORTS) lidera, com +27.5% em 7 dias a 29k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Robin van Persie (88, Icons) lidera, com +32.7% em 7 dias a 130k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
