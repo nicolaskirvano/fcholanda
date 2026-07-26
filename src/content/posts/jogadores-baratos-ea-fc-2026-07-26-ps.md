@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T13:27:11.000Z
+pubDatetime: 2026-07-26T16:27:11.000Z
 title: "Jogadores baratos EA FC: Holandeses em 26/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 10 opções:** 9.845 coins.
-- **Posição mais frequente:** ST, com 5 cartas.
-- **Faixa real:** 1.500 a 14.500 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 11 opções:** 12.250 coins.
+- **Posição mais frequente:** ST, com 4 cartas.
+- **Faixa real:** 11.000 a 14.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -43,13 +43,14 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Dennis Bergkamp | 91 | ST | Icons | 11.750 coins | 0% |
 | Xavi Simons | 91 | CAM | Premier League | 12.000 coins | 0% |
 | Roy Makaay | 89 | ST | Bundesliga | 11.250 coins | 0% |
-| Sepp van den Berg | 89 | CB | Premier League | 11.250 coins | 0% |
 | Donyell Malen | 89 | ST | Serie A TIM | 11.250 coins | 0% |
-| Vivianne Miedema | 89 | ST | Barclays WSL | 14.500 coins | -10.4% |
+| Dominique Janssen | 89 | CDM | Barclays WSL | 14.500 coins | +19.6% |
+| Mats Deijl | 88 | RB | Eredivisie | 11.000 coins | -6.9% |
 | Esmee Brugts | 88 | LB | Liga F | 11.000 coins | 0% |
-| Marten de Roon | 85 | CM | Serie A TIM | 12.250 coins | +5.9% |
-| Xavi Simons | 84 | CAM | Premier League | 1.500 coins | +36.4% |
-| Loïs Openda | 83 | ST | Serie A TIM | 1.700 coins | +25% |
+| Wesley Sneijder | 88 | CAM | Serie A TIM | 12.750 coins | +1.6% |
+| Roy Makaay | 87 | ST | Bundesliga | 12.750 coins | -3.8% |
+| Wouter Burger | 87 | CDM | Bundesliga | 14.000 coins | +21.7% |
+| Dirk Kuyt | 86 | CAM | Eredivisie | 12.500 coins | +8.2% |
 
 
 ## 📈 Destaques
@@ -60,14 +61,14 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Roy Makaay (89, ST)** da Bundesliga, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Sepp van den Berg (89, CB)** da Premier League, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **Donyell Malen (89, ST)** da Serie A TIM, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Dominique Janssen (89, CDM)** da Barclays WSL, a apenas **14.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Sepp van den Berg (89, CB) por 11.250 coins é a referência de rating deste recorte.
+- **Defesa:** Mats Deijl (88, RB) por 11.000 coins é a referência de rating deste recorte.
 
 - **Meio:** Xavi Simons (91, CAM) por 12.000 coins é a referência de rating deste recorte.
 
@@ -108,6 +109,7 @@ Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados c
 <!-- content-links:v1 -->
 ## Continue a análise
 
+- [Investimentos EA FC: Holandeses em 26/07 — Console (PS)](/posts/melhores-investimentos-ea-fc-2026-07-26-ps/)
 - [Mercado EA FC em 26/07: Holandeses — Console (PS)](/posts/mercado-ea-fc-2026-07-26-ps/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
