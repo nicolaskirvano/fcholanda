@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T22:27:11.000Z
+pubDatetime: 2026-07-26T01:27:12.000Z
 title: "Jogadores baratos EA FC: Holandeses em 25/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 9 opções:** 10.628 coins.
-- **Posição mais frequente:** ST, com 5 cartas.
-- **Faixa real:** 1.900 a 13.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 10 opções:** 11.925 coins.
+- **Posição mais frequente:** ST, com 3 cartas.
+- **Faixa real:** 11.000 a 14.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -44,11 +44,12 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Xavi Simons | 91 | CAM | Premier League | 12.000 coins | 0% |
 | Roy Makaay | 89 | ST | Bundesliga | 11.250 coins | 0% |
 | Donyell Malen | 89 | ST | Serie A TIM | 11.250 coins | 0% |
-| Sepp van den Berg | 89 | CB | Premier League | 13.750 coins | -1.8% |
+| Dominique Janssen | 89 | CDM | Barclays WSL | 14.250 coins | -5% |
 | Esmee Brugts | 88 | LB | Liga F | 11.000 coins | 0% |
-| Jordan Teze | 87 | RB | Ligue 1 McDonald's | 11.000 coins | +36.4% |
-| Lineth Beerensteyn | 86 | ST | GPFBL | 11.750 coins | 0% |
-| Loïs Openda | 83 | ST | Serie A TIM | 1.900 coins | +5.3% |
+| Wesley Sneijder | 88 | CAM | Serie A TIM | 12.000 coins | -3.6% |
+| Mats Deijl | 88 | RB | Eredivisie | 12.500 coins | -5.8% |
+| Dirk Kuyt | 86 | CAM | Eredivisie | 11.000 coins | -13.7% |
+| Marten de Roon | 85 | CM | Serie A TIM | 12.250 coins | 0% |
 
 
 ## 📈 Destaques
@@ -61,12 +62,12 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Donyell Malen (89, ST)** da Serie A TIM, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Sepp van den Berg (89, CB)** da Premier League, a apenas **13.750 coins**
+- **Dominique Janssen (89, CDM)** da Barclays WSL, a apenas **14.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Sepp van den Berg (89, CB) por 13.750 coins é a referência de rating deste recorte.
+- **Defesa:** Esmee Brugts (88, LB) por 11.000 coins é a referência de rating deste recorte.
 
 - **Meio:** Xavi Simons (91, CAM) por 12.000 coins é a referência de rating deste recorte.
 

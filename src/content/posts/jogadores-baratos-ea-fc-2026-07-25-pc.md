@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T22:27:20.000Z
+pubDatetime: 2026-07-26T01:27:22.000Z
 title: "Jogadores baratos EA FC: Holandeses em 25/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 8 opções:** 11.625 coins.
+- **Preço médio das 9 opções:** 12.111 coins.
 - **Posição mais frequente:** ST, com 4 cartas.
-- **Faixa real:** 11.000 a 13.250 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 10.750 a 14.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -41,33 +41,34 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
 | Dennis Bergkamp | 91 | ST | Icons | 11.500 coins | 0% |
-| Xavi Simons | 91 | CAM | Premier League | 11.500 coins | 0% |
+| Xavi Simons | 91 | CAM | Premier League | 12.000 coins | 0% |
 | Roy Makaay | 89 | ST | Bundesliga | 11.250 coins | 0% |
 | Donyell Malen | 89 | ST | Serie A TIM | 11.250 coins | 0% |
-| Sepp van den Berg | 89 | CB | Premier League | 13.250 coins | -14.3% |
+| Sepp van den Berg | 89 | CB | Premier League | 13.500 coins | -3.6% |
 | Esmee Brugts | 88 | LB | Liga F | 11.000 coins | 0% |
-| Roy Makaay | 87 | ST | Bundesliga | 11.000 coins | +2.3% |
-| Dirk Kuyt | 86 | CAM | Eredivisie | 12.250 coins | -7.5% |
+| Jordan Teze | 87 | RB | Ligue 1 McDonald's | 14.000 coins | -11.8% |
+| Dirk Kuyt | 86 | CAM | Eredivisie | 10.750 coins | -2.2% |
+| Lineth Beerensteyn | 86 | ST | GPFBL | 13.750 coins | +11.3% |
 
 
 ## 📈 Destaques
 
 - **Dennis Bergkamp (91, ST)** da Icons, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Xavi Simons (91, CAM)** da Premier League, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Xavi Simons (91, CAM)** da Premier League, a apenas **12.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Roy Makaay (89, ST)** da Bundesliga, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Donyell Malen (89, ST)** da Serie A TIM, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Sepp van den Berg (89, CB)** da Premier League, a apenas **13.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Sepp van den Berg (89, CB)** da Premier League, a apenas **13.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Sepp van den Berg (89, CB) por 13.250 coins é a referência de rating deste recorte.
+- **Defesa:** Sepp van den Berg (89, CB) por 13.500 coins é a referência de rating deste recorte.
 
-- **Meio:** Xavi Simons (91, CAM) por 11.500 coins é a referência de rating deste recorte.
+- **Meio:** Xavi Simons (91, CAM) por 12.000 coins é a referência de rating deste recorte.
 
 - **Ataque:** Dennis Bergkamp (91, ST) por 11.500 coins é a referência de rating deste recorte.
 
