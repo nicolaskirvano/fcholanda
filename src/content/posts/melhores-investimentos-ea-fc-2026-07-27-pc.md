@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T13:27:19.000Z
+pubDatetime: 2026-07-27T16:27:20.000Z
 title: "Investimentos EA FC: Holandeses em 27/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 27/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (27/07/2026) no EA FC?"
-    a: "Kenneth Taylor (84, Eredivisie) lidera, com +50.8% em 7 dias a 22k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Youri Baas (84, Eredivisie) lidera, com +25.8% em 7 dias a 43k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **27/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Kenneth Taylor (84) acumula **+50.8% em 7 dias** a 22k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Youri Baas (84) acumula **+25.8% em 7 dias** a 43k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Holandeses em 27/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-27-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **27/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+9.7% em 24h** e **+20.8% em 7 dias**.
-- **2 de 6 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Eredivisie** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+26.1% em 24h** e **+13.6% em 7 dias**.
+- **3 de 4 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Eredivisie** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,25 +43,21 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Kenneth Taylor | 84 | Eredivisie | 22k coins | +3.5% | +50.8% | Momentum moderado |
-| Youri Baas | 84 | Eredivisie | 43k coins | +11.1% | +24.2% | Momentum moderado |
-| Mark Flekken | 84 | Bundesliga | 48k coins | +26.7% | +21.8% | Esticada |
-| Ronald Koeman | 91 | Icons | 244k coins | +2.5% | +19.7% | Entrada a observar |
-| Frank Rijkaard | 89 | Icons | 130k coins | +8.3% | +18.2% | Momentum moderado |
-| Ryan Gravenberch | 87 | Premier League | 74k coins | +23.3% | +12.1% | Esticada |
+| Youri Baas | 84 | Eredivisie | 43k coins | +16.6% | +25.8% | Momentum moderado |
+| Mark Flekken | 84 | Bundesliga | 48k coins | +26.7% | +15.9% | Esticada |
+| Ryan Gravenberch | 87 | Premier League | 84k coins | +29.8% | +11.3% | Esticada |
+| Marco van Basten | 91 | Icons | 100k coins | +25.6% | +9.6% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Kenneth Taylor (84)** — 22k coins, **+50.8% em 7 dias** (+3.5% em 24h). Preço -15% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Youri Baas (84)** — 43k coins, **+25.8% em 7 dias** (+16.6% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Youri Baas (84)** — 43k coins, **+24.2% em 7 dias** (+11.1% em 24h). Preço em linha com a média de 7 dias (+2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mark Flekken (84)** — 48k coins, **+15.9% em 7 dias** (+26.7% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mark Flekken (84)** — 48k coins, **+21.8% em 7 dias** (+26.7% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ryan Gravenberch (87)** — 84k coins, **+11.3% em 7 dias** (+29.8% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ronald Koeman (91)** — 244k coins, **+19.7% em 7 dias** (+2.5% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Frank Rijkaard (89)** — 130k coins, **+18.2% em 7 dias** (+8.3% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Marco van Basten (91)** — 100k coins, **+9.6% em 7 dias** (+25.6% em 24h). Preço em linha com a média de 7 dias (-1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -79,7 +75,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (27/07/2026) no EA FC?**  
-Kenneth Taylor (84, Eredivisie) lidera, com +50.8% em 7 dias a 22k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Youri Baas (84, Eredivisie) lidera, com +25.8% em 7 dias a 43k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
