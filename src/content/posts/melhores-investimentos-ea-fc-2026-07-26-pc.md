@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T22:27:22.000Z
+pubDatetime: 2026-07-27T01:27:20.000Z
 title: "Investimentos EA FC: Holandeses em 26/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 26/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (26/07/2026) no EA FC?"
-    a: "Robin Roefs (87, Premier League) lidera, com +46.7% em 7 dias a 37k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Joël Drommel (84, Eredivisie) lidera, com +27.7% em 7 dias a 47k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **26/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Robin Roefs (87) acumula **+46.7% em 7 dias** a 37k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Joël Drommel (84) acumula **+27.7% em 7 dias** a 47k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Holandeses em 26/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-26-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **26/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+16.2% em 24h** e **+13.2% em 7 dias**.
+- A mediana é de **+3.4% em 24h** e **+20.6% em 7 dias**.
 - **1 de 4 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- **Eredivisie** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,21 +43,21 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Robin Roefs | 87 | Premier League | 37k coins | +33.9% | +46.7% | Esticada |
-| Tijjani Reijnders | 87 | Premier League | 130k coins | +1% | +13.5% | Entrada a observar |
-| Frank Rijkaard | 89 | Icons | 120k coins | +13.8% | +12.9% | Momentum moderado |
-| Crysencio Summerville | 86 | Premier League | 40k coins | +18.6% | +6.4% | Momentum moderado |
+| Joël Drommel | 84 | Eredivisie | 47k coins | +1.1% | +27.7% | Momentum moderado |
+| Wesley Sneijder | 89 | Serie A TIM | 128k coins | +2.4% | +20.8% | Entrada a observar |
+| Georginio Wijnaldum | 84 | Brasileirão | 65k coins | +23.8% | +20.4% | Esticada |
+| Tijjani Reijnders | 87 | Premier League | 96k coins | +4.4% | +7.3% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Robin Roefs (87)** — 37k coins, **+46.7% em 7 dias** (+33.9% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Joël Drommel (84)** — 47k coins, **+27.7% em 7 dias** (+1.1% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Tijjani Reijnders (87)** — 130k coins, **+13.5% em 7 dias** (+1% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Wesley Sneijder (89)** — 128k coins, **+20.8% em 7 dias** (+2.4% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Frank Rijkaard (89)** — 120k coins, **+12.9% em 7 dias** (+13.8% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Georginio Wijnaldum (84)** — 65k coins, **+20.4% em 7 dias** (+23.8% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Crysencio Summerville (86)** — 40k coins, **+6.4% em 7 dias** (+18.6% em 24h). Preço -19% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Tijjani Reijnders (87)** — 96k coins, **+7.3% em 7 dias** (+4.4% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -75,7 +75,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (26/07/2026) no EA FC?**  
-Robin Roefs (87, Premier League) lidera, com +46.7% em 7 dias a 37k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Joël Drommel (84, Eredivisie) lidera, com +27.7% em 7 dias a 47k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
