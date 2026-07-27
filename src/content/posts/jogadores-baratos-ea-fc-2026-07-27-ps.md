@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T16:27:12.000Z
+pubDatetime: 2026-07-27T19:27:17.000Z
 title: "Jogadores baratos EA FC: Holandeses em 27/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 13 opções:** 11.558 coins.
-- **Posição mais frequente:** ST, com 4 cartas.
-- **Faixa real:** 1.500 a 14.250 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 11 opções:** 11.205 coins.
+- **Posição mais frequente:** ST, com 5 cartas.
+- **Faixa real:** 1.500 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -41,38 +41,36 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
 | Dennis Bergkamp | 91 | ST | Icons | 11.500 coins | -2.1% |
-| Xavi Simons | 91 | CAM | Premier League | 12.500 coins | +4.2% |
 | Roy Makaay | 89 | ST | Bundesliga | 11.250 coins | 0% |
 | Donyell Malen | 89 | ST | Serie A TIM | 11.250 coins | 0% |
-| Dominique Janssen | 89 | CDM | Barclays WSL | 13.500 coins | -3.6% |
+| Vivianne Miedema | 89 | ST | Barclays WSL | 11.250 coins | -4.3% |
+| Dominique Janssen | 89 | CDM | Barclays WSL | 12.500 coins | -3.7% |
 | Esmee Brugts | 88 | LB | Liga F | 11.000 coins | 0% |
-| Mats Deijl | 88 | RB | Eredivisie | 13.750 coins | +2% |
-| Wesley Sneijder | 88 | CAM | Serie A TIM | 14.250 coins | -7.8% |
-| Jordan Teze | 87 | RB | Ligue 1 McDonald's | 11.000 coins | +36.4% |
-| Jurriën Timber | 87 | RB | Premier League | 13.250 coins | -9.2% |
-| Dirk Kuyt | 86 | CAM | Eredivisie | 12.000 coins | -11.1% |
-| Marten de Roon | 85 | CM | Serie A TIM | 13.500 coins | +9.6% |
-| Loïs Openda | 83 | ST | Serie A TIM | 1.500 coins | -5.9% |
+| Dirk Kuyt | 88 | CAM | Eredivisie | 13.000 coins | +3.8% |
+| Georginio Wijnaldum | 87 | CM | Brasileirão | 12.750 coins | -9.1% |
+| Kees Smit | 86 | CAM | Eredivisie | 12.500 coins | -4.2% |
+| Dirk Kuyt | 86 | CAM | Eredivisie | 14.750 coins | +3.5% |
+| Loïs Openda | 83 | ST | Serie A TIM | 1.500 coins | -6.2% |
 
 
 ## 📈 Destaques
 
 - **Dennis Bergkamp (91, ST)** da Icons, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Xavi Simons (91, CAM)** da Premier League, a apenas **12.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **Roy Makaay (89, ST)** da Bundesliga, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Donyell Malen (89, ST)** da Serie A TIM, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Dominique Janssen (89, CDM)** da Barclays WSL, a apenas **13.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Vivianne Miedema (89, ST)** da Barclays WSL, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Dominique Janssen (89, CDM)** da Barclays WSL, a apenas **12.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
 
 - **Defesa:** Esmee Brugts (88, LB) por 11.000 coins é a referência de rating deste recorte.
 
-- **Meio:** Xavi Simons (91, CAM) por 12.500 coins é a referência de rating deste recorte.
+- **Meio:** Dominique Janssen (89, CDM) por 12.500 coins é a referência de rating deste recorte.
 
 - **Ataque:** Dennis Bergkamp (91, ST) por 11.500 coins é a referência de rating deste recorte.
 
