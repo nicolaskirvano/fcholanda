@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T22:27:11.000Z
+pubDatetime: 2026-07-28T01:27:10.000Z
 title: "Jogadores baratos EA FC: Holandeses em 27/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 12 opções:** 12.438 coins.
+- **Preço médio das 12 opções:** 11.542 coins.
 - **Posição mais frequente:** ST, com 5 cartas.
-- **Faixa real:** 11.000 a 14.250 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 1.500 a 14.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -41,35 +41,35 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
 | Dennis Bergkamp | 91 | ST | Icons | 11.500 coins | -2.1% |
-| Xavi Simons | 91 | CAM | Premier League | 13.750 coins | +25% |
+| Xavi Simons | 91 | CAM | Premier League | 13.750 coins | +16.7% |
 | Roy Makaay | 89 | ST | Bundesliga | 11.250 coins | 0% |
 | Donyell Malen | 89 | ST | Serie A TIM | 11.250 coins | 0% |
-| Vivianne Miedema | 89 | ST | Barclays WSL | 11.250 coins | -8.2% |
-| Sepp van den Berg | 89 | CB | Premier League | 12.750 coins | +3.6% |
+| Dominique Janssen | 89 | CDM | Barclays WSL | 12.750 coins | -11.7% |
 | Esmee Brugts | 88 | LB | Liga F | 11.000 coins | 0% |
-| Wesley Sneijder | 88 | CAM | Serie A TIM | 14.250 coins | +16.7% |
-| Noah Ohio | 87 | ST | LaLiga Hypermotion | 12.000 coins | +13.6% |
-| Jordan Teze | 87 | RB | Ligue 1 McDonald's | 14.000 coins | +18.4% |
-| Kees Smit | 86 | CAM | Eredivisie | 12.500 coins | +4.2% |
-| Dirk Kuyt | 86 | CAM | Eredivisie | 13.750 coins | -5.1% |
+| Wesley Sneijder | 88 | CAM | Serie A TIM | 13.000 coins | +9.3% |
+| Xavi Simons | 88 | CAM | Premier League | 13.250 coins | +19.3% |
+| Noah Ohio | 87 | ST | LaLiga Hypermotion | 12.750 coins | +15.9% |
+| Roy Makaay | 87 | ST | Bundesliga | 14.000 coins | -9.7% |
+| Dirk Kuyt | 86 | CAM | Eredivisie | 12.500 coins | -3.6% |
+| Xavi Simons | 84 | CAM | Premier League | 1.500 coins | 0% |
 
 
 ## 📈 Destaques
 
 - **Dennis Bergkamp (91, ST)** da Icons, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Xavi Simons (91, CAM)** da Premier League, a apenas **13.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato. A alta de 24h pede uma nova checagem antes da compra.
+- **Xavi Simons (91, CAM)** da Premier League, a apenas **13.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Roy Makaay (89, ST)** da Bundesliga, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Donyell Malen (89, ST)** da Serie A TIM, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Vivianne Miedema (89, ST)** da Barclays WSL, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Dominique Janssen (89, CDM)** da Barclays WSL, a apenas **12.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Sepp van den Berg (89, CB) por 12.750 coins é a referência de rating deste recorte.
+- **Defesa:** Esmee Brugts (88, LB) por 11.000 coins é a referência de rating deste recorte.
 
 - **Meio:** Xavi Simons (91, CAM) por 13.750 coins é a referência de rating deste recorte.
 
@@ -110,7 +110,6 @@ Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados c
 <!-- content-links:v1 -->
 ## Continue a análise
 
-- [Investimentos EA FC: Holandeses em 27/07 — Console (PS)](/posts/melhores-investimentos-ea-fc-2026-07-27-ps/)
 - [Mercado EA FC em 27/07: Holandeses — Console (PS)](/posts/mercado-ea-fc-2026-07-27-ps/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T22:27:20.000Z
+pubDatetime: 2026-07-28T01:27:19.000Z
 title: "Jogadores baratos EA FC: Holandeses em 27/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 7 opções:** 11.893 coins.
-- **Posição mais frequente:** ST, com 4 cartas.
-- **Faixa real:** 11.000 a 14.000 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 10 opções:** 11.850 coins.
+- **Posição mais frequente:** ST, com 5 cartas.
+- **Faixa real:** 11.000 a 14.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -41,17 +41,22 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
 | Dennis Bergkamp | 91 | ST | Icons | 11.500 coins | 0% |
+| Xavi Simons | 91 | CAM | Premier League | 13.000 coins | +20.8% |
 | Roy Makaay | 89 | ST | Bundesliga | 11.250 coins | 0% |
 | Donyell Malen | 89 | ST | Serie A TIM | 11.250 coins | 0% |
 | Esmee Brugts | 88 | LB | Liga F | 11.000 coins | 0% |
-| Roy Makaay | 87 | ST | Bundesliga | 13.250 coins | +10.4% |
+| Noah Ohio | 87 | ST | LaLiga Hypermotion | 11.000 coins | -6.4% |
+| Roy Makaay | 87 | ST | Bundesliga | 12.750 coins | 0% |
 | Dirk Kuyt | 86 | CAM | Eredivisie | 11.000 coins | +2.3% |
-| Kees Smit | 86 | CAM | Eredivisie | 14.000 coins | -14% |
+| Givairo Read | 86 | RB | Eredivisie | 11.500 coins | -9.8% |
+| Kees Smit | 86 | CAM | Eredivisie | 14.250 coins | -10.9% |
 
 
 ## 📈 Destaques
 
 - **Dennis Bergkamp (91, ST)** da Icons, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Xavi Simons (91, CAM)** da Premier League, a apenas **13.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato. A alta de 24h pede uma nova checagem antes da compra.
 
 - **Roy Makaay (89, ST)** da Bundesliga, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
@@ -59,14 +64,12 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Esmee Brugts (88, LB)** da Liga F, a apenas **11.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Roy Makaay (87, ST)** da Bundesliga, a apenas **13.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 
 ## Como distribuir a banca
 
 - **Defesa:** Esmee Brugts (88, LB) por 11.000 coins é a referência de rating deste recorte.
 
-- **Meio:** Dirk Kuyt (86, CAM) por 11.000 coins é a referência de rating deste recorte.
+- **Meio:** Xavi Simons (91, CAM) por 13.000 coins é a referência de rating deste recorte.
 
 - **Ataque:** Dennis Bergkamp (91, ST) por 11.500 coins é a referência de rating deste recorte.
 
@@ -105,6 +108,7 @@ Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados c
 <!-- content-links:v1 -->
 ## Continue a análise
 
+- [Investimentos EA FC: Holandeses em 27/07 — PC](/posts/melhores-investimentos-ea-fc-2026-07-27-pc/)
 - [Mercado EA FC em 27/07: Holandeses — PC](/posts/mercado-ea-fc-2026-07-27-pc/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
