@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-29T19:27:26.000Z
+pubDatetime: 2026-07-29T22:27:21.000Z
 title: "Jogadores baratos EA FC: Holandeses em 29/07 — PC"
 draft: false
 featured: false
@@ -30,7 +30,7 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 8 opções:** 12.219 coins.
+- **Preço médio das 7 opções:** 11.929 coins.
 - **Posição mais frequente:** ST, com 4 cartas.
 - **Faixa real:** 11.000 a 14.750 coins; nenhuma carta custa 15 mil.
 
@@ -43,11 +43,10 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Dennis Bergkamp | 91 | ST | Icons | 11.500 coins | 0% |
 | Roy Makaay | 89 | ST | Bundesliga | 11.250 coins | 0% |
 | Donyell Malen | 89 | ST | Serie A TIM | 11.250 coins | 0% |
-| Sepp van den Berg | 89 | CB | Premier League | 13.000 coins | -5.2% |
 | Esmee Brugts | 88 | LB | Liga F | 11.000 coins | 0% |
-| Roy Makaay | 87 | ST | Bundesliga | 14.750 coins | +21.2% |
-| Dirk Kuyt | 86 | CAM | Eredivisie | 11.750 coins | +6.8% |
-| Kees Smit | 86 | CAM | Eredivisie | 13.250 coins | -7% |
+| Roy Makaay | 87 | ST | Bundesliga | 14.750 coins | +13.5% |
+| Dirk Kuyt | 86 | CAM | Eredivisie | 11.000 coins | +11.4% |
+| Kees Smit | 86 | CAM | Eredivisie | 12.750 coins | -5.3% |
 
 
 ## 📈 Destaques
@@ -58,16 +57,16 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Donyell Malen (89, ST)** da Serie A TIM, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Sepp van den Berg (89, CB)** da Premier League, a apenas **13.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **Esmee Brugts (88, LB)** da Liga F, a apenas **11.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Roy Makaay (87, ST)** da Bundesliga, a apenas **14.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Sepp van den Berg (89, CB) por 13.000 coins é a referência de rating deste recorte.
+- **Defesa:** Esmee Brugts (88, LB) por 11.000 coins é a referência de rating deste recorte.
 
-- **Meio:** Dirk Kuyt (86, CAM) por 11.750 coins é a referência de rating deste recorte.
+- **Meio:** Dirk Kuyt (86, CAM) por 11.000 coins é a referência de rating deste recorte.
 
 - **Ataque:** Dennis Bergkamp (91, ST) por 11.500 coins é a referência de rating deste recorte.
 
