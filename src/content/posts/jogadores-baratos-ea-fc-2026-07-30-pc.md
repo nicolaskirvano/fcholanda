@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T10:27:23.000Z
+pubDatetime: 2026-07-30T13:27:21.000Z
 title: "Jogadores baratos EA FC: Holandeses em 30/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 7 opções:** 12.071 coins.
-- **Posição mais frequente:** ST, com 3 cartas.
-- **Faixa real:** 11.000 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 10 opções:** 11.900 coins.
+- **Posição mais frequente:** CAM, com 5 cartas.
+- **Faixa real:** 11.000 a 13.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -41,32 +41,35 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
 | Dennis Bergkamp | 91 | ST | Icons | 11.500 coins | 0% |
+| Xavi Simons | 91 | CAM | Premier League | 11.500 coins | -3% |
 | Roy Makaay | 89 | ST | Bundesliga | 11.250 coins | 0% |
 | Donyell Malen | 89 | ST | Serie A TIM | 11.250 coins | 0% |
+| Wesley Sneijder | 88 | CAM | Serie A TIM | 11.000 coins | -2.2% |
 | Esmee Brugts | 88 | LB | Liga F | 11.000 coins | 0% |
-| Luciano Valente | 87 | CAM | Eredivisie | 14.750 coins | +27.1% |
-| Dirk Kuyt | 86 | CAM | Eredivisie | 11.250 coins | +2.3% |
-| Kees Smit | 86 | CAM | Eredivisie | 13.500 coins | -5.3% |
+| Roy Makaay | 87 | ST | Bundesliga | 13.000 coins | 0% |
+| Luciano Valente | 87 | CAM | Eredivisie | 13.500 coins | +23.9% |
+| Dirk Kuyt | 86 | CAM | Eredivisie | 11.500 coins | +2.2% |
+| Kees Smit | 86 | CAM | Eredivisie | 13.500 coins | +3.8% |
 
 
 ## 📈 Destaques
 
 - **Dennis Bergkamp (91, ST)** da Icons, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
+- **Xavi Simons (91, CAM)** da Premier League, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
 - **Roy Makaay (89, ST)** da Bundesliga, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Donyell Malen (89, ST)** da Serie A TIM, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Esmee Brugts (88, LB)** da Liga F, a apenas **11.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Luciano Valente (87, CAM)** da Eredivisie, a apenas **14.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato. A alta de 24h pede uma nova checagem antes da compra.
+- **Wesley Sneijder (88, CAM)** da Serie A TIM, a apenas **11.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
 
 - **Defesa:** Esmee Brugts (88, LB) por 11.000 coins é a referência de rating deste recorte.
 
-- **Meio:** Luciano Valente (87, CAM) por 14.750 coins é a referência de rating deste recorte.
+- **Meio:** Xavi Simons (91, CAM) por 11.500 coins é a referência de rating deste recorte.
 
 - **Ataque:** Dennis Bergkamp (91, ST) por 11.500 coins é a referência de rating deste recorte.
 
