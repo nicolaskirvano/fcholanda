@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T16:27:21.000Z
+pubDatetime: 2026-07-30T19:27:19.000Z
 title: "Investimentos EA FC: Holandeses em 30/07 — PC"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **30/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+17.1% em 24h** e **+19.8% em 7 dias**.
-- **2 de 4 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Serie A TIM** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+10.1% em 24h** e **+21.5% em 7 dias**.
+- **2 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Premier League** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -44,8 +44,9 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Janou Levels | 86 | GPFBL | 48k coins | +21% | +26.7% | Esticada |
-| Marten de Roon | 85 | Serie A TIM | 20k coins | +13.6% | +23.5% | Momentum moderado |
-| Denzel Dumfries | 89 | Serie A TIM | 51k coins | +8.3% | +16.1% | Momentum moderado |
+| Robin van Persie | 88 | Icons | 142k coins | +1.5% | +24.4% | Entrada a observar |
+| Cody Gakpo | 86 | Premier League | 48k coins | +3.1% | +21.5% | Entrada a observar |
+| Jurriën Timber | 86 | Premier League | 48k coins | +10.1% | +16.6% | Momentum moderado |
 | Cody Gakpo | 89 | Premier League | 200k coins | +20.5% | +5.3% | Esticada |
 
 
@@ -53,9 +54,11 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 - **Janou Levels (86)** — 48k coins, **+26.7% em 7 dias** (+21% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Marten de Roon (85)** — 20k coins, **+23.5% em 7 dias** (+13.6% em 24h). Preço em linha com a média de 7 dias (-5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Robin van Persie (88)** — 142k coins, **+24.4% em 7 dias** (+1.5% em 24h). Preço em linha com a média de 7 dias (-7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Denzel Dumfries (89)** — 51k coins, **+16.1% em 7 dias** (+8.3% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Cody Gakpo (86)** — 48k coins, **+21.5% em 7 dias** (+3.1% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Jurriën Timber (86)** — 48k coins, **+16.6% em 7 dias** (+10.1% em 24h). Preço em linha com a média de 7 dias (-3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Cody Gakpo (89)** — 200k coins, **+5.3% em 7 dias** (+20.5% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
