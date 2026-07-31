@@ -6,20 +6,20 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Micky van de Ven</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+59.1%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Frank Rijkaard</text>
-<rect x="285" y="153" width="399" height="28" rx="7" fill="#22c55e"/>
-<text x="694" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+49.1%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jeremie Frimpong</text>
-<rect x="285" y="211" width="343" height="28" rx="7" fill="#22c55e"/>
-<text x="638" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+42.2%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jurriën Timber</text>
-<rect x="285" y="269" width="293" height="28" rx="7" fill="#22c55e"/>
-<text x="588" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+36.1%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jaap Stam</text>
-<rect x="285" y="327" width="270" height="28" rx="7" fill="#22c55e"/>
-<text x="565" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+33.3%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Edwin van der Sar</text>
-<rect x="285" y="385" width="177" height="28" rx="7" fill="#22c55e"/>
-<text x="472" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+21.8%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+59.3%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jeremie Frimpong</text>
+<rect x="285" y="153" width="372" height="28" rx="7" fill="#22c55e"/>
+<text x="667" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+45.9%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Frank Rijkaard</text>
+<rect x="285" y="211" width="308" height="28" rx="7" fill="#22c55e"/>
+<text x="603" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+38.1%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Janou Levels</text>
+<rect x="285" y="269" width="170" height="28" rx="7" fill="#22c55e"/>
+<text x="465" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+21.0%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Lineth Beerensteyn</text>
+<rect x="285" y="327" width="141" height="28" rx="7" fill="#22c55e"/>
+<text x="436" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+17.4%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Romée Leuchter</text>
+<rect x="285" y="385" width="138" height="28" rx="7" fill="#22c55e"/>
+<text x="433" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+17.0%</text>
 </svg>

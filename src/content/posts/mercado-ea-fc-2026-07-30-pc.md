@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T22:27:19.000Z
+pubDatetime: 2026-07-31T01:27:17.000Z
 title: "Mercado EA FC em 30/07: Holandeses — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 30/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (30/07/2026)?"
-    a: "Micky van de Ven (90, Premier League), com +59.1% em 24h, a 1.90M coins no PC."
+    a: "Micky van de Ven (90, Premier League), com +59.3% em 24h, a 1.90M coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Virgil van Dijk (95), -42.9% em 24h, a 582k coins."
+    a: "Patrick Kluivert (87), -46.3% em 24h, a 66k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em baixa — predominam as quedas, com 21 cartas em alta contra 35 em queda (média -2.6%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 21 cartas em alta contra 32 em queda (média 2.46%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-O mercado do **EA FC** abre **30/07/2026** no PC com mercado **em baixa** — predominam as quedas: **21 cartas subiram** e **35 caíram** (80+ acima de 5k coins), variação média de **-2.6%** em 24 horas. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+O mercado do **EA FC** abre **30/07/2026** no PC com mercado **em alta** — predominam as valorizações: **21 cartas subiram** e **32 caíram** (80+ acima de 5k coins), variação média de **2.46%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Micky van de Ven (90) **+59.1%** · 🔴 **Maior baixa:** Virgil van Dijk (95) **-42.9%**
+> 🟢 **Maior alta:** Micky van de Ven (90) **+59.3%** · 🔴 **Maior baixa:** Patrick Kluivert (87) **-46.3%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 30/07: Holandeses — PC](/charts/mercado-ea-fc-2026-07-30-pc.svg)
 
@@ -35,24 +35,24 @@ O mercado do **EA FC** abre **30/07/2026** no PC com mercado **em baixa** — pr
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 102.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 37.5% entre as cartas que se moveram; o universo observado reúne 80 cartas.
-- **Concentração:** Premier League aparece em 10 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 105.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 39.6% entre as cartas que se moveram; o universo observado reúne 78 cartas.
+- **Concentração:** Premier League aparece em 8 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Micky van de Ven | 90 | Premier League | 1.90M coins | +59.1% | -5% |
-| Frank Rijkaard | 89 | Icons | 170k coins | +49.1% | +45.3% |
-| Jeremie Frimpong | 86 | Premier League | 150k coins | +42.2% | -7.2% |
-| Jurriën Timber | 87 | Premier League | 24k coins | +36.1% | -12.5% |
-| Jaap Stam | 89 | Premier League | 172k coins | +33.3% | -1.3% |
-| Edwin van der Sar | 88 | Icons | 179k coins | +21.8% | +18.5% |
-| Janou Levels | 86 | GPFBL | 48k coins | +21% | +6.7% |
-| Romée Leuchter | 84 | D1 Arkema | 50k coins | +17% | +2.6% |
-| Georginio Wijnaldum | 87 | Brasileirão | 29k coins | +15% | -31.5% |
+| Micky van de Ven | 90 | Premier League | 1.90M coins | +59.3% | -5% |
+| Jeremie Frimpong | 86 | Premier League | 159k coins | +45.9% | -14.5% |
+| Frank Rijkaard | 87 | Icons | 135k coins | +38.1% | -1.4% |
+| Janou Levels | 86 | GPFBL | 48k coins | +21% | +4.4% |
+| Lineth Beerensteyn | 86 | GPFBL | 26k coins | +17.4% | +40.3% |
+| Romée Leuchter | 84 | D1 Arkema | 50k coins | +17% | +0.5% |
+| Steven Berghuis | 86 | Eredivisie | 40k coins | +14.3% | -33.3% |
 | Virgil van Dijk | 91 | Premier League | 1.20M coins | +11.6% | +0.1% |
+| Zian Flemming | 80 | Premier League | 50k coins | +10% | -1% |
+| Ruben Kluivert | 86 | Ligue 1 McDonald's | 28k coins | +8.9% | +14.6% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ O mercado do **EA FC** abre **30/07/2026** no PC com mercado **em baixa** — pr
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Micky van de Ven (90)** subiu **+59.1%** em 24h, a **1.90M coins** (faixa do dia: 1.09M–1.90M). Está -15% abaixo da média de 7 dias (descontada).
+- **Micky van de Ven (90)** subiu **+59.3%** em 24h, a **1.90M coins** (faixa do dia: 1.09M–1.90M). Está -15% abaixo da média de 7 dias (descontada).
 
-- **Frank Rijkaard (89)** subiu **+49.1%** em 24h, a **170k coins** (faixa do dia: 114k–170k). Está +37% acima da média de 7 dias (aquecida).
+- **Jeremie Frimpong (86)** subiu **+45.9%** em 24h, a **159k coins** (faixa do dia: 91k–229k). Está +16% acima da média de 7 dias (aquecida).
 
-- **Jeremie Frimpong (86)** subiu **+42.2%** em 24h, a **150k coins** (faixa do dia: 91k–229k). Está +9% acima da média de 7 dias (aquecida).
+- **Frank Rijkaard (87)** subiu **+38.1%** em 24h, a **135k coins** (faixa do dia: 76k–137k). Está +12% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
+| Patrick Kluivert | 87 | Icons | 66k coins | -46.3% | 0% |
 | Virgil van Dijk | 95 | Premier League | 582k coins | -42.9% | -27.2% |
-| Ian Maatsen | 89 | Premier League | 38k coins | -38.8% | +2.5% |
+| Xavi Simons | 88 | Premier League | 39k coins | -38.5% | -23.1% |
 | Georginio Wijnaldum | 84 | Brasileirão | 26k coins | -36.2% | -45.2% |
-| Xavi Simons | 88 | Premier League | 40k coins | -35.8% | -16.5% |
-| Johan Cruyff | 94 | Icons | 622k coins | -33.8% | -22.2% |
-| Ryan Gravenberch | 93 | Premier League | 270k coins | -27.8% | -26.2% |
-| Dennis Bergkamp | 93 | Icons | 193k coins | -20.6% | -35% |
-| Dennis Bergkamp | 90 | Icons | 123k coins | -19.1% | -9.6% |
-| Dominique Janssen | 89 | Barclays WSL | 31k coins | -19% | +26.7% |
-| Tijjani Reijnders | 93 | Premier League | 475k coins | -18.3% | -3% |
+| Frenkie de Jong | 89 | LALIGA EA SPORTS | 449k coins | -36% | -76% |
+| Johan Cruyff | 94 | Icons | 622k coins | -33.5% | -22.2% |
+| Micky van de Ven | 87 | Premier League | 1.60M coins | -33.3% | +1.4% |
+| Ryan Gravenberch | 93 | Premier League | 192k coins | -31.1% | -31.1% |
+| Ruud Gullit | 93 | Icons | 5.50M coins | -21.4% | -21.4% |
+| Wesley Sneijder | 89 | Serie A TIM | 55k coins | -19.7% | -49.5% |
 
 
 ### Análise das baixas
 
+- **Patrick Kluivert (87)** caiu **-46.3%** em 24h, a **66k coins** (faixa do dia: 66k–132k). Está -27% abaixo da média de 7 dias (descontada).
+
 - **Virgil van Dijk (95)** caiu **-42.9%** em 24h, a **582k coins** (faixa do dia: 582k–1.02M). Está -29% abaixo da média de 7 dias (descontada).
 
-- **Ian Maatsen (89)** caiu **-38.8%** em 24h, a **38k coins** (faixa do dia: 19.500–40k). Está +74% acima da média de 7 dias (aquecida).
-
-- **Georginio Wijnaldum (84)** caiu **-36.2%** em 24h, a **26k coins** (faixa do dia: 26k–40k). Está -44% abaixo da média de 7 dias (descontada).
+- **Xavi Simons (88)** caiu **-38.5%** em 24h, a **39k coins** (faixa do dia: 32k–65k). Está em linha com a média de 7 dias (+6%).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Micky van de Ven já avançou 59.1% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Micky van de Ven já avançou 59.3% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Virgil van Dijk recuou -42.9%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Patrick Kluivert recuou -46.3%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -119,13 +119,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (30/07/2026)?**
-Micky van de Ven (90, Premier League), com +59.1% em 24h, a 1.90M coins no PC.
+Micky van de Ven (90, Premier League), com +59.3% em 24h, a 1.90M coins no PC.
 
 **E a maior queda do dia?**
-Virgil van Dijk (95), -42.9% em 24h, a 582k coins.
+Patrick Kluivert (87), -46.3% em 24h, a 66k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em baixa — predominam as quedas, com 21 cartas em alta contra 35 em queda (média -2.6%).
+Hoje o mercado está em alta — predominam as valorizações, com 21 cartas em alta contra 32 em queda (média 2.46%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

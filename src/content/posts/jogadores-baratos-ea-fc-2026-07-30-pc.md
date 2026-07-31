@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T22:27:22.000Z
+pubDatetime: 2026-07-31T01:27:20.000Z
 title: "Jogadores baratos EA FC: Holandeses em 30/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 6 opções:** 11.417 coins.
+- **Preço médio das 6 opções:** 11.250 coins.
 - **Posição mais frequente:** ST, com 3 cartas.
-- **Faixa real:** 10.750 a 12.750 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 10.750 a 11.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -44,8 +44,8 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Roy Makaay | 89 | ST | Bundesliga | 11.250 coins | 0% |
 | Donyell Malen | 89 | ST | Serie A TIM | 11.250 coins | 0% |
 | Esmee Brugts | 88 | LB | Liga F | 11.000 coins | 0% |
-| Dirk Kuyt | 86 | CAM | Eredivisie | 10.750 coins | -8.5% |
-| Kees Smit | 86 | CAM | Eredivisie | 12.750 coins | 0% |
+| Dirk Kuyt | 86 | CAM | Eredivisie | 10.750 coins | -12.2% |
+| Kees Smit | 86 | CAM | Eredivisie | 11.750 coins | -13% |
 
 
 ## 📈 Destaques

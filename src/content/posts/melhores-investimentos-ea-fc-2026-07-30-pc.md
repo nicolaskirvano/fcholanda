@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T22:27:20.000Z
+pubDatetime: 2026-07-31T01:27:19.000Z
 title: "Investimentos EA FC: Holandeses em 30/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 30/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (30/07/2026) no EA FC?"
-    a: "Tijjani Reijnders (87, Premier League) lidera, com +45.9% em 7 dias a 116k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Lineth Beerensteyn (86, GPFBL) lidera, com +40.3% em 7 dias a 26k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **30/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Tijjani Reijnders (87) acumula **+45.9% em 7 dias** a 116k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Lineth Beerensteyn (86) acumula **+40.3% em 7 dias** a 26k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Holandeses em 30/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-30-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **30/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+8.9% em 24h** e **+18.4% em 7 dias**.
-- **2 de 7 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+6.8% em 24h** e **+22.9% em 7 dias**.
+- **0 de 4 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **GPFBL** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,26 +43,21 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Tijjani Reijnders | 87 | Premier League | 116k coins | +10.5% | +45.9% | Momentum moderado |
-| Cody Gakpo | 86 | Premier League | 50k coins | +4.2% | +22.7% | Entrada a observar |
-| Edwin van der Sar | 88 | Icons | 179k coins | +21.8% | +18.5% | Esticada |
-| Jayden Oosterwolde | 87 | Trendyol Süper Lig | 200k coins | +7.1% | +18.4% | Momentum moderado |
-| Daley Blind | 86 | LALIGA EA SPORTS | 25k coins | +6.7% | +13.1% | Momentum moderado |
-| Ruben Kluivert | 86 | Ligue 1 McDonald's | 28k coins | +8.9% | +10% | Momentum moderado |
-| Janou Levels | 86 | GPFBL | 48k coins | +21% | +6.7% | Esticada |
+| Lineth Beerensteyn | 86 | GPFBL | 26k coins | +17.4% | +40.3% | Momentum moderado |
+| Givairo Read | 86 | Eredivisie | 26k coins | +4.8% | +31% | Momentum moderado |
+| Dominique Janssen | 89 | Barclays WSL | 28k coins | +3.6% | +14.9% | Entrada a observar |
+| Ruben Kluivert | 86 | Ligue 1 McDonald's | 28k coins | +8.9% | +14.6% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Tijjani Reijnders (87)** — 116k coins, **+45.9% em 7 dias** (+10.5% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lineth Beerensteyn (86)** — 26k coins, **+40.3% em 7 dias** (+17.4% em 24h). Preço +41% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Cody Gakpo (86)** — 50k coins, **+22.7% em 7 dias** (+4.2% em 24h). Preço +8% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Givairo Read (86)** — 26k coins, **+31% em 7 dias** (+4.8% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Edwin van der Sar (88)** — 179k coins, **+18.5% em 7 dias** (+21.8% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Dominique Janssen (89)** — 28k coins, **+14.9% em 7 dias** (+3.6% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jayden Oosterwolde (87)** — 200k coins, **+18.4% em 7 dias** (+7.1% em 24h). Preço +47% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Daley Blind (86)** — 25k coins, **+13.1% em 7 dias** (+6.7% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ruben Kluivert (86)** — 28k coins, **+14.6% em 7 dias** (+8.9% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -90,7 +85,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (30/07/2026) no EA FC?**  
-Tijjani Reijnders (87, Premier League) lidera, com +45.9% em 7 dias a 116k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Lineth Beerensteyn (86, GPFBL) lidera, com +40.3% em 7 dias a 26k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
