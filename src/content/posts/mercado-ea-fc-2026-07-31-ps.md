@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T19:27:08.000Z
+pubDatetime: 2026-07-31T22:27:09.000Z
 title: "Mercado EA FC em 31/07: Holandeses — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 31/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (31/07/2026)?"
-    a: "Steven Berghuis (86, Eredivisie), com +52% em 24h, a 48k coins no Console (PS)."
+    a: "Luciano Valente (87, Eredivisie), com +58.1% em 24h, a 24k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Wesley Sneijder (89), -40.3% em 24h, a 45k coins."
+    a: "Wesley Sneijder (89), -37.8% em 24h, a 42k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está de lado — altas e quedas se equilibram, com 20 cartas em alta contra 21 em queda (média -0.53%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 23 cartas em alta contra 23 em queda (média 1.6%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Resumo de **31/07/2026** no Console (PS): mercado **de lado** — altas e quedas se equilibram. **20 valorizações** contra **21 quedas** entre as cartas relevantes, com média de **-0.53%** nas últimas 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Resumo de **31/07/2026** no Console (PS): clima **comprador** — a maioria das cartas subiu. **23 valorizações** contra **23 quedas** entre as cartas relevantes, com média de **1.6%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Steven Berghuis (86) **+52%** · 🔴 **Maior baixa:** Wesley Sneijder (89) **-40.3%**
+> 🟢 **Maior alta:** Luciano Valente (87) **+58.1%** · 🔴 **Maior baixa:** Wesley Sneijder (89) **-37.8%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 31/07: Holandeses — Console (PS)](/charts/mercado-ea-fc-2026-07-31-ps.svg)
 
@@ -35,24 +35,24 @@ Resumo de **31/07/2026** no Console (PS): mercado **de lado** — altas e quedas
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 92.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 48.8% entre as cartas que se moveram; o universo observado reúne 64 cartas.
-- **Concentração:** Premier League aparece em 9 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 95.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 50.0% entre as cartas que se moveram; o universo observado reúne 72 cartas.
+- **Concentração:** Icons aparece em 6 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Steven Berghuis | 86 | Eredivisie | 48k coins | +52% | +27.5% |
-| Johan Cruyff | 87 | Icons | 166k coins | +50% | +81.8% |
-| Virgil van Dijk | 95 | Premier League | 780k coins | +29.1% | +50.7% |
-| Daley Blind | 86 | LALIGA EA SPORTS | 44k coins | +27.5% | +89.2% |
-| Virgil van Dijk | 90 | Premier League | 989k coins | +18% | -0.9% |
-| Zian Flemming | 80 | Premier League | 50k coins | +11.7% | +1% |
-| Youri Baas | 84 | Eredivisie | 50k coins | +11.7% | +34.6% |
-| Ruud Gullit | 90 | Icons | 1.45M coins | +11.5% | +11.3% |
-| Robin Roefs | 87 | Premier League | 40k coins | +9.3% | +53% |
-| Mark Flekken | 84 | Bundesliga | 59k coins | +9.2% | +36.8% |
+| Luciano Valente | 87 | Eredivisie | 24k coins | +58.1% | +53.1% |
+| Ruud Gullit | 93 | Icons | 5M coins | +54.5% | +5.5% |
+| Ryan Gravenberch | 87 | Premier League | 47k coins | +45.7% | +76.2% |
+| Virgil van Dijk | 95 | Premier League | 730k coins | +31% | +54.8% |
+| Johan Cruyff | 94 | Icons | 624k coins | +17.7% | +35.9% |
+| Daley Blind | 86 | LALIGA EA SPORTS | 38k coins | +16.7% | +50.5% |
+| Frank Rijkaard | 89 | Icons | 112k coins | +14.3% | +55.6% |
+| Givairo Read | 86 | Eredivisie | 51k coins | +10.1% | +205.9% |
+| Dennis Bergkamp | 90 | Icons | 80k coins | +9.7% | -3.4% |
+| Micky van de Ven | 90 | Premier League | 1M coins | +5.8% | +60.8% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Resumo de **31/07/2026** no Console (PS): mercado **de lado** — altas e quedas
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Steven Berghuis (86)** subiu **+52%** em 24h, a **48k coins** (faixa do dia: 26k–66k). Está +15% acima da média de 7 dias (aquecida).
+- **Luciano Valente (87)** subiu **+58.1%** em 24h, a **24k coins** (faixa do dia: 14.250–34k). Está +10% acima da média de 7 dias (aquecida).
 
-- **Johan Cruyff (87)** subiu **+50%** em 24h, a **166k coins** (faixa do dia: 106k–190k). Está +38% acima da média de 7 dias (aquecida).
+- **Ruud Gullit (93)** subiu **+54.5%** em 24h, a **5M coins** (faixa do dia: 3.02M–8M). Está +17% acima da média de 7 dias (aquecida).
 
-- **Virgil van Dijk (95)** subiu **+29.1%** em 24h, a **780k coins** (faixa do dia: 573k–870k). Está +14% acima da média de 7 dias (aquecida).
+- **Ryan Gravenberch (87)** subiu **+45.7%** em 24h, a **47k coins** (faixa do dia: 28k–66k). Está +19% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Wesley Sneijder | 89 | Serie A TIM | 45k coins | -40.3% | -7.3% |
-| Givairo Read | 86 | Eredivisie | 32k coins | -30% | +95.6% |
-| Tijjani Reijnders | 87 | Premier League | 48k coins | -25.4% | -19.4% |
-| Johan Cruyff | 94 | Icons | 455k coins | -18% | +0.2% |
-| Cody Gakpo | 86 | Premier League | 52k coins | -16.7% | +7.1% |
-| Kenneth Taylor | 84 | Eredivisie | 25k coins | -13% | +6.4% |
-| Virgil van Dijk | 91 | Premier League | 527k coins | -11.1% | +2.4% |
-| Frank Rijkaard | 87 | Icons | 76k coins | -10.1% | 0% |
-| Jurriën Timber | 86 | Premier League | 45k coins | -9.5% | +12.5% |
-| Micky van de Ven | 84 | Premier League | 320k coins | -8.2% | +36.7% |
+| Wesley Sneijder | 89 | Serie A TIM | 42k coins | -37.8% | -5.3% |
+| Crysencio Summerville | 86 | Premier League | 47k coins | -31.8% | -0.5% |
+| Ronald Koeman | 91 | Icons | 90k coins | -27.7% | +75.7% |
+| Jayden Oosterwolde | 87 | Trendyol Süper Lig | 68k coins | -15% | +113.7% |
+| Mark Flekken | 84 | Bundesliga | 47k coins | -14.5% | -8.7% |
+| Quinten Timber | 85 | Eredivisie | 28k coins | -13.7% | +13% |
+| Micky van de Ven | 84 | Premier League | 334k coins | -13.5% | +39.2% |
+| Robin van Persie | 88 | Icons | 106k coins | -11.5% | +21.2% |
+| Kenneth Taylor | 84 | Eredivisie | 32k coins | -10.6% | +35.1% |
+| Georginio Wijnaldum | 84 | Brasileirão | 60k coins | -10% | -8.5% |
 
 
 ### Análise das baixas
 
-- **Wesley Sneijder (89)** caiu **-40.3%** em 24h, a **45k coins** (faixa do dia: 38k–72k). Está -25% abaixo da média de 7 dias (descontada).
+- **Wesley Sneijder (89)** caiu **-37.8%** em 24h, a **42k coins** (faixa do dia: 38k–69k). Está -29% abaixo da média de 7 dias (descontada).
 
-- **Givairo Read (86)** caiu **-30%** em 24h, a **32k coins** (faixa do dia: 32k–53k). Está em linha com a média de 7 dias (+3%).
+- **Crysencio Summerville (86)** caiu **-31.8%** em 24h, a **47k coins** (faixa do dia: 45k–85k). Está -19% abaixo da média de 7 dias (descontada).
 
-- **Tijjani Reijnders (87)** caiu **-25.4%** em 24h, a **48k coins** (faixa do dia: 46k–70k). Está -11% abaixo da média de 7 dias (descontada).
+- **Ronald Koeman (91)** caiu **-27.7%** em 24h, a **90k coins** (faixa do dia: 90k–168k). Está -19% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Steven Berghuis já avançou 52% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Luciano Valente já avançou 58.1% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Wesley Sneijder recuou -40.3%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Wesley Sneijder recuou -37.8%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (31/07/2026)?**
-Steven Berghuis (86, Eredivisie), com +52% em 24h, a 48k coins no Console (PS).
+Luciano Valente (87, Eredivisie), com +58.1% em 24h, a 24k coins no Console (PS).
 
 **E a maior queda do dia?**
-Wesley Sneijder (89), -40.3% em 24h, a 45k coins.
+Wesley Sneijder (89), -37.8% em 24h, a 42k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está de lado — altas e quedas se equilibram, com 20 cartas em alta contra 21 em queda (média -0.53%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 23 cartas em alta contra 23 em queda (média 1.6%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.

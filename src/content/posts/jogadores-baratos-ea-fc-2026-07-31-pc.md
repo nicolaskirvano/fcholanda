@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T19:27:20.000Z
+pubDatetime: 2026-07-31T22:27:21.000Z
 title: "Jogadores baratos EA FC: Holandeses em 31/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 12 opções:** 10.942 coins.
-- **Posição mais frequente:** CAM, com 6 cartas.
-- **Faixa real:** 1.800 a 14.250 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 9 opções:** 11.556 coins.
+- **Posição mais frequente:** CAM, com 4 cartas.
+- **Faixa real:** 11.000 a 13.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -42,16 +42,13 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | --- | --- | --- | --- | --- | --- |
 | Wesley Sneijder | 93 | CAM | Serie A TIM | 11.750 coins | 0% |
 | Dennis Bergkamp | 91 | ST | Icons | 11.500 coins | 0% |
-| Xavi Simons | 91 | CAM | Premier League | 14.250 coins | -3.4% |
+| Xavi Simons | 91 | CAM | Premier League | 13.250 coins | +9.1% |
 | Jaap Stam | 89 | CB | Premier League | 11.250 coins | 0% |
 | Roy Makaay | 89 | ST | Bundesliga | 11.250 coins | 0% |
 | Donyell Malen | 89 | ST | Serie A TIM | 11.250 coins | 0% |
-| Vivianne Miedema | 89 | ST | Barclays WSL | 11.500 coins | +11.1% |
 | Esmee Brugts | 88 | LB | Liga F | 11.000 coins | 0% |
-| Luciano Valente | 87 | CAM | Eredivisie | 12.500 coins | -7.9% |
 | Kees Smit | 86 | CAM | Eredivisie | 11.000 coins | -13.7% |
-| Dirk Kuyt | 86 | CAM | Eredivisie | 12.250 coins | +14% |
-| Xavi Simons | 84 | CAM | Premier League | 1.800 coins | +12.5% |
+| Dirk Kuyt | 86 | CAM | Eredivisie | 11.750 coins | +14% |
 
 
 ## 📈 Destaques
@@ -60,7 +57,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Dennis Bergkamp (91, ST)** da Icons, a apenas **11.500 coins**
 
-- **Xavi Simons (91, CAM)** da Premier League, a apenas **14.250 coins**
+- **Xavi Simons (91, CAM)** da Premier League, a apenas **13.250 coins** — já **valorizando**, sinal de procura crescente.
 
 - **Jaap Stam (89, CB)** da Premier League, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
