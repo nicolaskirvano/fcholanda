@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T10:27:10.000Z
+pubDatetime: 2026-07-31T13:27:11.000Z
 title: "Jogadores baratos EA FC: Holandeses em 31/07 — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 31/07/2026 no Console (PS), com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (31/07/2026)?"
-    a: "Dennis Bergkamp (91, Icons) aparece como melhor custo-benefício, a 11.500 coins no Console (PS)."
+    a: "Wesley Sneijder (93, Serie A TIM) aparece como melhor custo-benefício, a 11.750 coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **31/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Dennis Bergkamp (91) por apenas 11.500 coins.
+> 💰 **Melhor pechincha:** Wesley Sneijder (93) por apenas 11.750 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Holandeses em 31/07 — Console (PS)](/charts/jogadores-baratos-ea-fc-2026-07-31-ps.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 9 opções:** 12.111 coins.
-- **Posição mais frequente:** ST, com 5 cartas.
-- **Faixa real:** 11.000 a 14.250 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 11 opções:** 12.159 coins.
+- **Posição mais frequente:** ST, com 6 cartas.
+- **Faixa real:** 11.000 a 14.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,18 +40,22 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
+| Wesley Sneijder | 93 | CAM | Serie A TIM | 11.750 coins | 0% |
 | Dennis Bergkamp | 91 | ST | Icons | 11.500 coins | 0% |
 | Roy Makaay | 89 | ST | Bundesliga | 11.250 coins | 0% |
 | Donyell Malen | 89 | ST | Serie A TIM | 11.250 coins | 0% |
-| Vivianne Miedema | 89 | ST | Barclays WSL | 11.250 coins | -6.2% |
-| Sepp van den Berg | 89 | CB | Premier League | 12.000 coins | -11.1% |
+| Vivianne Miedema | 89 | ST | Barclays WSL | 11.250 coins | -10% |
 | Esmee Brugts | 88 | LB | Liga F | 11.000 coins | 0% |
-| Wesley Sneijder | 88 | CAM | Serie A TIM | 13.750 coins | +38% |
-| Roy Makaay | 87 | ST | Bundesliga | 14.250 coins | +38.6% |
-| Dirk Kuyt | 86 | CAM | Eredivisie | 12.750 coins | -12% |
+| Mats Deijl | 88 | RB | Eredivisie | 14.000 coins | 0% |
+| Noah Ohio | 87 | ST | LaLiga Hypermotion | 12.500 coins | -3.8% |
+| Kees Smit | 86 | CAM | Eredivisie | 12.500 coins | -11.7% |
+| Lineth Beerensteyn | 86 | ST | GPFBL | 13.000 coins | -5.2% |
+| Dirk Kuyt | 86 | CAM | Eredivisie | 13.750 coins | -5.4% |
 
 
 ## 📈 Destaques
+
+- **Wesley Sneijder (93, CAM)** da Serie A TIM, a apenas **11.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Dennis Bergkamp (91, ST)** da Icons, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
@@ -61,14 +65,12 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Vivianne Miedema (89, ST)** da Barclays WSL, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Sepp van den Berg (89, CB)** da Premier League, a apenas **12.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 
 ## Como distribuir a banca
 
-- **Defesa:** Sepp van den Berg (89, CB) por 12.000 coins é a referência de rating deste recorte.
+- **Defesa:** Esmee Brugts (88, LB) por 11.000 coins é a referência de rating deste recorte.
 
-- **Meio:** Wesley Sneijder (88, CAM) por 13.750 coins é a referência de rating deste recorte.
+- **Meio:** Wesley Sneijder (93, CAM) por 11.750 coins é a referência de rating deste recorte.
 
 - **Ataque:** Dennis Bergkamp (91, ST) por 11.500 coins é a referência de rating deste recorte.
 
@@ -89,7 +91,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (31/07/2026)?**  
-Dennis Bergkamp (91, Icons) aparece como melhor custo-benefício, a 11.500 coins no Console (PS).
+Wesley Sneijder (93, Serie A TIM) aparece como melhor custo-benefício, a 11.750 coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
