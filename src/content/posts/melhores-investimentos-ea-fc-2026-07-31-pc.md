@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T16:27:18.000Z
+pubDatetime: 2026-07-31T19:27:18.000Z
 title: "Investimentos EA FC: Holandeses em 31/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 31/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (31/07/2026) no EA FC?"
-    a: "Dennis Bergkamp (90, Icons) lidera, com +72.4% em 7 dias a 149k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Lineth Beerensteyn (86, GPFBL) lidera, com +71.1% em 7 dias a 32k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **31/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Dennis Bergkamp (90) acumula **+72.4% em 7 dias** a 149k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Lineth Beerensteyn (86) acumula **+71.1% em 7 dias** a 32k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Holandeses em 31/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-31-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **31/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+3.2% em 24h** e **+43.2% em 7 dias**.
-- **3 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Icons** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+8.3% em 24h** e **+37.2% em 7 dias**.
+- **3 de 6 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Premier League** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,24 +43,25 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Dennis Bergkamp | 90 | Icons | 149k coins | +11.1% | +72.4% | Esticada |
-| Lineth Beerensteyn | 86 | GPFBL | 32k coins | +3.2% | +62.5% | Esticada |
-| Roy Makaay | 87 | Bundesliga | 15.750 coins | +28.6% | +43.2% | Esticada |
-| Daley Blind | 86 | LALIGA EA SPORTS | 30k coins | +1.7% | +26.3% | Momentum moderado |
-| Ian Maatsen | 89 | Premier League | 24k coins | +2% | +13.6% | Entrada a observar |
+| Lineth Beerensteyn | 86 | GPFBL | 32k coins | +3.2% | +71.1% | Esticada |
+| Roy Makaay | 87 | Bundesliga | 15.750 coins | +34% | +43.2% | Esticada |
+| Daley Blind | 86 | LALIGA EA SPORTS | 30k coins | +3.4% | +37.9% | Momentum moderado |
+| Ruben Kluivert | 86 | Ligue 1 McDonald's | 29k coins | +5.5% | +36.5% | Momentum moderado |
+| Jurriën Timber | 86 | Premier League | 54k coins | +11.2% | +18.5% | Momentum moderado |
+| Jeremie Frimpong | 86 | Premier League | 207k coins | +33.5% | +8.4% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Dennis Bergkamp (90)** — 149k coins, **+72.4% em 7 dias** (+11.1% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lineth Beerensteyn (86)** — 32k coins, **+71.1% em 7 dias** (+3.2% em 24h). Preço +65% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Lineth Beerensteyn (86)** — 32k coins, **+62.5% em 7 dias** (+3.2% em 24h). Preço +67% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Roy Makaay (87)** — 15.750 coins, **+43.2% em 7 dias** (+34% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Roy Makaay (87)** — 15.750 coins, **+43.2% em 7 dias** (+28.6% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Daley Blind (86)** — 30k coins, **+37.9% em 7 dias** (+3.4% em 24h). Preço +54% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Daley Blind (86)** — 30k coins, **+26.3% em 7 dias** (+1.7% em 24h). Preço +54% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ruben Kluivert (86)** — 29k coins, **+36.5% em 7 dias** (+5.5% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ian Maatsen (89)** — 24k coins, **+13.6% em 7 dias** (+2% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jurriën Timber (86)** — 54k coins, **+18.5% em 7 dias** (+11.2% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -78,7 +79,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (31/07/2026) no EA FC?**  
-Dennis Bergkamp (90, Icons) lidera, com +72.4% em 7 dias a 149k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Lineth Beerensteyn (86, GPFBL) lidera, com +71.1% em 7 dias a 32k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
