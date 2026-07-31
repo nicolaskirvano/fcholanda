@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T13:27:11.000Z
+pubDatetime: 2026-07-31T16:27:10.000Z
 title: "Jogadores baratos EA FC: Holandeses em 31/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 11 opções:** 12.159 coins.
-- **Posição mais frequente:** ST, com 6 cartas.
-- **Faixa real:** 11.000 a 14.000 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 10 opções:** 10.855 coins.
+- **Posição mais frequente:** ST, com 5 cartas.
+- **Faixa real:** 1.800 a 14.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -44,13 +44,12 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Dennis Bergkamp | 91 | ST | Icons | 11.500 coins | 0% |
 | Roy Makaay | 89 | ST | Bundesliga | 11.250 coins | 0% |
 | Donyell Malen | 89 | ST | Serie A TIM | 11.250 coins | 0% |
-| Vivianne Miedema | 89 | ST | Barclays WSL | 11.250 coins | -10% |
+| Vivianne Miedema | 89 | ST | Barclays WSL | 11.250 coins | -11.8% |
+| Dominique Janssen | 89 | CDM | Barclays WSL | 13.250 coins | -8.2% |
 | Esmee Brugts | 88 | LB | Liga F | 11.000 coins | 0% |
-| Mats Deijl | 88 | RB | Eredivisie | 14.000 coins | 0% |
-| Noah Ohio | 87 | ST | LaLiga Hypermotion | 12.500 coins | -3.8% |
-| Kees Smit | 86 | CAM | Eredivisie | 12.500 coins | -11.7% |
-| Lineth Beerensteyn | 86 | ST | GPFBL | 13.000 coins | -5.2% |
-| Dirk Kuyt | 86 | CAM | Eredivisie | 13.750 coins | -5.4% |
+| Lineth Beerensteyn | 86 | ST | GPFBL | 11.250 coins | -9.4% |
+| Dirk Kuyt | 86 | CAM | Eredivisie | 14.250 coins | -10% |
+| Xavi Simons | 84 | CAM | Premier League | 1.800 coins | +13% |
 
 
 ## 📈 Destaques

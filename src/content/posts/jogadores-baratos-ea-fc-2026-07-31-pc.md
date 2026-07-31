@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T13:27:20.000Z
+pubDatetime: 2026-07-31T16:27:20.000Z
 title: "Jogadores baratos EA FC: Holandeses em 31/07 — PC"
 draft: false
 featured: false
@@ -30,8 +30,8 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 11 opções:** 11.773 coins.
-- **Posição mais frequente:** CAM, com 6 cartas.
+- **Preço médio das 11 opções:** 12.227 coins.
+- **Posição mais frequente:** CAM, com 4 cartas.
 - **Faixa real:** 11.000 a 14.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
@@ -42,15 +42,15 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | --- | --- | --- | --- | --- | --- |
 | Wesley Sneijder | 93 | CAM | Serie A TIM | 11.750 coins | 0% |
 | Dennis Bergkamp | 91 | ST | Icons | 11.500 coins | 0% |
-| Xavi Simons | 91 | CAM | Premier League | 12.750 coins | -15% |
+| Xavi Simons | 91 | CAM | Premier League | 14.000 coins | -11.9% |
 | Jaap Stam | 89 | CB | Premier League | 11.250 coins | 0% |
 | Roy Makaay | 89 | ST | Bundesliga | 11.250 coins | 0% |
 | Donyell Malen | 89 | ST | Serie A TIM | 11.250 coins | 0% |
-| Dirk Kuyt | 88 | CAM | Eredivisie | 11.000 coins | -12% |
+| Vivianne Miedema | 89 | ST | Barclays WSL | 14.500 coins | -10.1% |
 | Esmee Brugts | 88 | LB | Liga F | 11.000 coins | 0% |
-| Luciano Valente | 87 | CAM | Eredivisie | 14.500 coins | +12.3% |
+| Wesley Sneijder | 88 | CAM | Serie A TIM | 13.000 coins | +27.3% |
 | Dirk Kuyt | 86 | CAM | Eredivisie | 11.500 coins | 0% |
-| Kees Smit | 86 | CAM | Eredivisie | 11.750 coins | -13% |
+| Givairo Read | 86 | RB | Eredivisie | 13.500 coins | -3.3% |
 
 
 ## 📈 Destaques
@@ -59,7 +59,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Dennis Bergkamp (91, ST)** da Icons, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Xavi Simons (91, CAM)** da Premier League, a apenas **12.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Xavi Simons (91, CAM)** da Premier League, a apenas **14.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Jaap Stam (89, CB)** da Premier League, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
