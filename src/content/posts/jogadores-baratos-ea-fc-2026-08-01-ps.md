@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T13:27:10.000Z
+pubDatetime: 2026-08-01T16:27:10.000Z
 title: "Jogadores baratos EA FC: Holandeses em 01/08 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 10 opções:** 12.450 coins.
-- **Posição mais frequente:** CAM, com 4 cartas.
-- **Faixa real:** 11.000 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 12 opções:** 12.667 coins.
+- **Posição mais frequente:** ST, com 5 cartas.
+- **Faixa real:** 11.000 a 14.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -42,14 +42,16 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | --- | --- | --- | --- | --- | --- |
 | Wesley Sneijder | 93 | CAM | Serie A TIM | 11.750 coins | 0% |
 | Dennis Bergkamp | 91 | ST | Icons | 11.500 coins | 0% |
-| Xavi Simons | 91 | CAM | Premier League | 14.750 coins | +12% |
 | Roy Makaay | 89 | ST | Bundesliga | 11.250 coins | 0% |
 | Donyell Malen | 89 | ST | Serie A TIM | 11.250 coins | 0% |
-| Vivianne Miedema | 89 | ST | Barclays WSL | 13.250 coins | +2.2% |
-| Sepp van den Berg | 89 | CB | Premier League | 13.500 coins | +14.6% |
+| Sepp van den Berg | 89 | CB | Premier League | 13.000 coins | +4.2% |
+| Dominique Janssen | 89 | CDM | Barclays WSL | 14.000 coins | 0% |
 | Esmee Brugts | 88 | LB | Liga F | 11.000 coins | 0% |
-| Dirk Kuyt | 86 | CAM | Eredivisie | 12.750 coins | -9.3% |
-| Kees Smit | 86 | CAM | Eredivisie | 13.500 coins | +18.8% |
+| Jurriën Timber | 87 | RB | Premier League | 13.250 coins | -8.2% |
+| Roy Makaay | 87 | ST | Bundesliga | 14.000 coins | -6.7% |
+| Lineth Beerensteyn | 86 | ST | GPFBL | 12.500 coins | 0% |
+| Dirk Kuyt | 86 | CAM | Eredivisie | 14.250 coins | 0% |
+| Kees Smit | 86 | CAM | Eredivisie | 14.250 coins | +17.8% |
 
 
 ## 📈 Destaques
@@ -58,16 +60,16 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Dennis Bergkamp (91, ST)** da Icons, a apenas **11.500 coins**
 
-- **Xavi Simons (91, CAM)** da Premier League, a apenas **14.750 coins** — já **valorizando**, sinal de procura crescente.
-
 - **Roy Makaay (89, ST)** da Bundesliga, a apenas **11.250 coins**
 
 - **Donyell Malen (89, ST)** da Serie A TIM, a apenas **11.250 coins**
 
+- **Sepp van den Berg (89, CB)** da Premier League, a apenas **13.000 coins**
+
 
 ## Como distribuir a banca
 
-- **Defesa:** Sepp van den Berg (89, CB) por 13.500 coins é a referência de rating deste recorte.
+- **Defesa:** Sepp van den Berg (89, CB) por 13.000 coins é a referência de rating deste recorte.
 
 - **Meio:** Wesley Sneijder (93, CAM) por 11.750 coins é a referência de rating deste recorte.
 
