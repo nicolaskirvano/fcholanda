@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T10:27:09.000Z
+pubDatetime: 2026-08-01T13:27:09.000Z
 title: "Investimentos EA FC: Holandeses em 01/08 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 01/08/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (01/08/2026) no EA FC?"
-    a: "Crysencio Summerville (86, Premier League) lidera, com +77.1% em 7 dias a 85k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Joshua Zirkzee (87, Premier League) lidera, com +66.7% em 7 dias a 34k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **01/08/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Crysencio Summerville (86) acumula **+77.1% em 7 dias** a 85k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Joshua Zirkzee (87) acumula **+66.7% em 7 dias** a 34k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Holandeses em 01/08 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-08-01-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **01/08/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+20.6% em 24h** e **+37.2% em 7 dias**.
-- **3 de 6 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+18.0% em 24h** e **+40.5% em 7 dias**.
+- **5 de 9 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Premier League** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,25 +43,28 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Crysencio Summerville | 86 | Premier League | 85k coins | +25% | +77.1% | Esticada |
-| Tijjani Reijnders | 93 | Premier League | 169k coins | +25% | +47.8% | Esticada |
-| Wout Weghorst | 85 | Eredivisie | 104k coins | +25.9% | +42.7% | Esticada |
-| Dirk Kuyt | 88 | Eredivisie | 24k coins | +16.3% | +31.6% | Momentum moderado |
-| Georginio Wijnaldum | 87 | Brasileirão | 20k coins | +12.7% | +27% | Momentum moderado |
-| Xavi Simons | 91 | Premier League | 15.000 coins | +10% | +14.6% | Momentum moderado |
+| Joshua Zirkzee | 87 | Premier League | 34k coins | +25% | +66.7% | Esticada |
+| Marten de Roon | 85 | Serie A TIM | 20k coins | +15.3% | +62.7% | Esticada |
+| Tijjani Reijnders | 93 | Premier League | 162k coins | +29.5% | +52.7% | Esticada |
+| Johan Cruyff | 87 | Icons | 160k coins | +5.3% | +52.4% | Momentum moderado |
+| Cody Gakpo | 86 | Premier League | 60k coins | +18% | +40.5% | Momentum moderado |
+| Edwin van der Sar | 88 | Icons | 165k coins | +3.1% | +33.1% | Momentum moderado |
+| Luciano Valente | 87 | Eredivisie | 17.250 coins | +1.4% | +30.9% | Momentum moderado |
+| Joël Drommel | 84 | Eredivisie | 47k coins | +20% | +25% | Esticada |
+| Ian Maatsen | 89 | Premier League | 24k coins | +37.9% | +15.9% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Crysencio Summerville (86)** — 85k coins, **+77.1% em 7 dias** (+25% em 24h). Preço +42% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Joshua Zirkzee (87)** — 34k coins, **+66.7% em 7 dias** (+25% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Tijjani Reijnders (93)** — 169k coins, **+47.8% em 7 dias** (+25% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Marten de Roon (85)** — 20k coins, **+62.7% em 7 dias** (+15.3% em 24h). Preço em linha com a média de 7 dias (+8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Wout Weghorst (85)** — 104k coins, **+42.7% em 7 dias** (+25.9% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Tijjani Reijnders (93)** — 162k coins, **+52.7% em 7 dias** (+29.5% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Dirk Kuyt (88)** — 24k coins, **+31.6% em 7 dias** (+16.3% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Johan Cruyff (87)** — 160k coins, **+52.4% em 7 dias** (+5.3% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Georginio Wijnaldum (87)** — 20k coins, **+27% em 7 dias** (+12.7% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Cody Gakpo (86)** — 60k coins, **+40.5% em 7 dias** (+18% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -79,7 +82,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (01/08/2026) no EA FC?**  
-Crysencio Summerville (86, Premier League) lidera, com +77.1% em 7 dias a 85k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Joshua Zirkzee (87, Premier League) lidera, com +66.7% em 7 dias a 34k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
