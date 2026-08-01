@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T19:27:20.000Z
+pubDatetime: 2026-08-01T22:27:20.000Z
 title: "Jogadores baratos EA FC: Holandeses em 01/08 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 10 opções:** 10.480 coins.
-- **Posição mais frequente:** CAM, com 3 cartas.
-- **Faixa real:** 1.800 a 12.500 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 9 opções:** 11.694 coins.
+- **Posição mais frequente:** ST, com 3 cartas.
+- **Faixa real:** 11.000 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -45,11 +45,10 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jaap Stam | 89 | CB | Premier League | 11.250 coins | 0% |
 | Roy Makaay | 89 | ST | Bundesliga | 11.250 coins | 0% |
 | Donyell Malen | 89 | ST | Serie A TIM | 11.250 coins | 0% |
-| Sepp van den Berg | 89 | CB | Premier League | 12.500 coins | +11.1% |
+| Dominique Janssen | 89 | CDM | Barclays WSL | 14.750 coins | +16.7% |
 | Esmee Brugts | 88 | LB | Liga F | 11.000 coins | 0% |
 | Tijjani Reijnders | 87 | CM | Premier League | 11.000 coins | 0% |
-| Dirk Kuyt | 86 | CAM | Eredivisie | 11.500 coins | -6.1% |
-| Xavi Simons | 84 | CAM | Premier League | 1.800 coins | 0% |
+| Dirk Kuyt | 86 | CAM | Eredivisie | 11.500 coins | 0% |
 
 
 ## 📈 Destaques
