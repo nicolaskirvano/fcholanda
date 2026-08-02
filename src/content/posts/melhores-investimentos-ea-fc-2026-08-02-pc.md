@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T10:27:20.000Z
+pubDatetime: 2026-08-02T13:27:19.000Z
 title: "Investimentos EA FC: Holandeses em 02/08 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 02/08/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (02/08/2026) no EA FC?"
-    a: "Wout Weghorst (85, Eredivisie) lidera, com +71.4% em 7 dias a 81k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Xavi Simons (91, Premier League) lidera, com +39.1% em 7 dias a 15.000 coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **02/08/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Wout Weghorst (85) acumula **+71.4% em 7 dias** a 81k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Xavi Simons (91) acumula **+39.1% em 7 dias** a 15.000 coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Holandeses em 02/08 — PC](/charts/melhores-investimentos-ea-fc-2026-08-02-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **02/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+16.1% em 24h** e **+20.6% em 7 dias**.
+- A mediana é de **+10.3% em 24h** e **+23.6% em 7 dias**.
 - **2 de 6 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- **Premier League** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,25 +43,25 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Wout Weghorst | 85 | Eredivisie | 81k coins | +20.9% | +71.4% | Esticada |
-| Xavi Simons | 91 | Premier League | 15.000 coins | +14.3% | +39.1% | Momentum moderado |
-| Steven Berghuis | 86 | Eredivisie | 65k coins | +10.3% | +21.7% | Momentum moderado |
-| Ryan Gravenberch | 87 | Premier League | 86k coins | +17.9% | +19.6% | Momentum moderado |
-| Vivianne Miedema | 89 | Barclays WSL | 46k coins | +30% | +19% | Esticada |
-| Jaap Stam | 89 | Premier League | 117k coins | +5.4% | +12.5% | Momentum moderado |
+| Xavi Simons | 91 | Premier League | 15.000 coins | +10.3% | +39.1% | Momentum moderado |
+| Jeremie Frimpong | 86 | Premier League | 153k coins | +10.3% | +36.9% | Momentum moderado |
+| Steven Berghuis | 86 | Eredivisie | 65k coins | +5.7% | +30% | Momentum moderado |
+| Vivianne Miedema | 89 | Barclays WSL | 42k coins | +32.8% | +17.2% | Esticada |
+| Youri Baas | 84 | Eredivisie | 48k coins | +25% | +11.1% | Esticada |
+| Ruud van Nistelrooy | 89 | Icons | 72k coins | +6.7% | +6.7% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Wout Weghorst (85)** — 81k coins, **+71.4% em 7 dias** (+20.9% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Xavi Simons (91)** — 15.000 coins, **+39.1% em 7 dias** (+10.3% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Xavi Simons (91)** — 15.000 coins, **+39.1% em 7 dias** (+14.3% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jeremie Frimpong (86)** — 153k coins, **+36.9% em 7 dias** (+10.3% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Steven Berghuis (86)** — 65k coins, **+21.7% em 7 dias** (+10.3% em 24h). Preço +44% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Steven Berghuis (86)** — 65k coins, **+30% em 7 dias** (+5.7% em 24h). Preço +43% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ryan Gravenberch (87)** — 86k coins, **+19.6% em 7 dias** (+17.9% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Vivianne Miedema (89)** — 42k coins, **+17.2% em 7 dias** (+32.8% em 24h). Preço +35% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Vivianne Miedema (89)** — 46k coins, **+19% em 7 dias** (+30% em 24h). Preço +48% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Youri Baas (84)** — 48k coins, **+11.1% em 7 dias** (+25% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -79,7 +79,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (02/08/2026) no EA FC?**  
-Wout Weghorst (85, Eredivisie) lidera, com +71.4% em 7 dias a 81k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Xavi Simons (91, Premier League) lidera, com +39.1% em 7 dias a 15.000 coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
