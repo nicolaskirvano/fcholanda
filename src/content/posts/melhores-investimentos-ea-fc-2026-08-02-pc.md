@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T16:27:18.000Z
+pubDatetime: 2026-08-02T19:27:19.000Z
 title: "Investimentos EA FC: Holandeses em 02/08 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 02/08/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (02/08/2026) no EA FC?"
-    a: "Jordan Teze (87, Ligue 1 McDonald's) lidera, com +80.9% em 7 dias a 28k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Marco van Basten (91, Icons) lidera, com +71.2% em 7 dias a 174k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **02/08/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Jordan Teze (87) acumula **+80.9% em 7 dias** a 28k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Marco van Basten (91) acumula **+71.2% em 7 dias** a 174k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Holandeses em 02/08 — PC](/charts/melhores-investimentos-ea-fc-2026-08-02-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **02/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+6.7% em 24h** e **+29.8% em 7 dias**.
-- **4 de 7 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+19.5% em 24h** e **+20.4% em 7 dias**.
+- **3 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Eredivisie** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,26 +43,24 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Jordan Teze | 87 | Ligue 1 McDonald's | 28k coins | +3.4% | +80.9% | Esticada |
-| Jurriën Timber | 87 | Premier League | 36k coins | +28.1% | +58.7% | Esticada |
-| Xavi Simons | 91 | Premier League | 15.000 coins | +5% | +37% | Momentum moderado |
+| Marco van Basten | 91 | Icons | 174k coins | +19.5% | +71.2% | Esticada |
 | Kees Smit | 86 | Eredivisie | 18.500 coins | +23.3% | +29.8% | Esticada |
-| Youri Baas | 84 | Eredivisie | 42k coins | +25% | +11.1% | Esticada |
-| Ruud van Nistelrooy | 89 | Icons | 72k coins | +6.7% | +6.7% | Momentum moderado |
-| Crysencio Summerville | 86 | Premier League | 54k coins | +2.8% | +5.7% | Entrada a observar |
+| Crysencio Summerville | 86 | Premier League | 56k coins | +9.5% | +20.4% | Momentum moderado |
+| Steven Berghuis | 86 | Eredivisie | 62k coins | +6.5% | +19.8% | Momentum moderado |
+| Janou Levels | 86 | GPFBL | 45k coins | +37.7% | +6.7% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Jordan Teze (87)** — 28k coins, **+80.9% em 7 dias** (+3.4% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Marco van Basten (91)** — 174k coins, **+71.2% em 7 dias** (+19.5% em 24h). Preço +60% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jurriën Timber (87)** — 36k coins, **+58.7% em 7 dias** (+28.1% em 24h). Preço +65% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Kees Smit (86)** — 18.500 coins, **+29.8% em 7 dias** (+23.3% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Xavi Simons (91)** — 15.000 coins, **+37% em 7 dias** (+5% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Crysencio Summerville (86)** — 56k coins, **+20.4% em 7 dias** (+9.5% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Kees Smit (86)** — 18.500 coins, **+29.8% em 7 dias** (+23.3% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Steven Berghuis (86)** — 62k coins, **+19.8% em 7 dias** (+6.5% em 24h). Preço +35% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Youri Baas (84)** — 42k coins, **+11.1% em 7 dias** (+25% em 24h). Preço -8% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Janou Levels (86)** — 45k coins, **+6.7% em 7 dias** (+37.7% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -80,7 +78,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (02/08/2026) no EA FC?**  
-Jordan Teze (87, Ligue 1 McDonald's) lidera, com +80.9% em 7 dias a 28k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Marco van Basten (91, Icons) lidera, com +71.2% em 7 dias a 174k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
