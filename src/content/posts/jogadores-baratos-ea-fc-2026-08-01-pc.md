@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T22:27:20.000Z
+pubDatetime: 2026-08-02T01:27:20.000Z
 title: "Jogadores baratos EA FC: Holandeses em 01/08 — PC"
 draft: false
 featured: false
@@ -30,8 +30,8 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 9 opções:** 11.694 coins.
-- **Posição mais frequente:** ST, com 3 cartas.
+- **Preço médio das 11 opções:** 11.932 coins.
+- **Posição mais frequente:** CAM, com 3 cartas.
 - **Faixa real:** 11.000 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
@@ -42,13 +42,15 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | --- | --- | --- | --- | --- | --- |
 | Wesley Sneijder | 93 | CAM | Serie A TIM | 11.750 coins | 0% |
 | Dennis Bergkamp | 91 | ST | Icons | 11.500 coins | 0% |
+| Xavi Simons | 91 | CAM | Premier League | 14.750 coins | +21.4% |
 | Jaap Stam | 89 | CB | Premier League | 11.250 coins | 0% |
 | Roy Makaay | 89 | ST | Bundesliga | 11.250 coins | 0% |
 | Donyell Malen | 89 | ST | Serie A TIM | 11.250 coins | 0% |
-| Dominique Janssen | 89 | CDM | Barclays WSL | 14.750 coins | +16.7% |
+| Dominique Janssen | 89 | CDM | Barclays WSL | 12.500 coins | +22.2% |
+| Sepp van den Berg | 89 | CB | Premier League | 12.500 coins | +13.3% |
 | Esmee Brugts | 88 | LB | Liga F | 11.000 coins | 0% |
 | Tijjani Reijnders | 87 | CM | Premier League | 11.000 coins | 0% |
-| Dirk Kuyt | 86 | CAM | Eredivisie | 11.500 coins | 0% |
+| Dirk Kuyt | 86 | CAM | Eredivisie | 12.500 coins | -2% |
 
 
 ## 📈 Destaques
@@ -57,11 +59,11 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Dennis Bergkamp (91, ST)** da Icons, a apenas **11.500 coins**
 
+- **Xavi Simons (91, CAM)** da Premier League, a apenas **14.750 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+
 - **Jaap Stam (89, CB)** da Premier League, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Roy Makaay (89, ST)** da Bundesliga, a apenas **11.250 coins**
-
-- **Donyell Malen (89, ST)** da Serie A TIM, a apenas **11.250 coins**
 
 
 ## Como distribuir a banca

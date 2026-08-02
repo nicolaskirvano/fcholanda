@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T22:27:09.000Z
+pubDatetime: 2026-08-02T01:27:09.000Z
 title: "Investimentos EA FC: Holandeses em 01/08 — Console (PS)"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **01/08/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+16.0% em 24h** e **+29.6% em 7 dias**.
-- **4 de 6 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Eredivisie** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+11.3% em 24h** e **+42.2% em 7 dias**.
+- **2 de 6 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Icons** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -44,24 +44,24 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Quinten Timber | 85 | Eredivisie | 33k coins | +12% | +79.5% | Esticada |
-| Xavi Simons | 91 | Premier League | 17.250 coins | +24.1% | +50% | Esticada |
-| Jordan Teze | 87 | Ligue 1 McDonald's | 22k coins | +27.1% | +39.1% | Esticada |
-| Ryan Gravenberch | 86 | Premier League | 60k coins | +20% | +20% | Esticada |
-| Joël Drommel | 84 | Eredivisie | 52k coins | +6.1% | +9.4% | Momentum moderado |
-| Dennis Bergkamp | 90 | Icons | 83k coins | +7% | +5% | Momentum moderado |
+| Johan Cruyff | 87 | Icons | 160k coins | +5% | +78.7% | Esticada |
+| Marten de Roon | 85 | Serie A TIM | 15.500 coins | +10.6% | +49% | Momentum moderado |
+| Xavi Simons | 91 | Premier League | 16.500 coins | +12.1% | +35.4% | Momentum moderado |
+| Jordan Teze | 87 | Ligue 1 McDonald's | 19.000 coins | +2.9% | +24.1% | Entrada a observar |
+| Dennis Bergkamp | 90 | Icons | 86k coins | +13.8% | +8.1% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Quinten Timber (85)** — 33k coins, **+79.5% em 7 dias** (+12% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Quinten Timber (85)** — 33k coins, **+79.5% em 7 dias** (+12% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Xavi Simons (91)** — 17.250 coins, **+50% em 7 dias** (+24.1% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Johan Cruyff (87)** — 160k coins, **+78.7% em 7 dias** (+5% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jordan Teze (87)** — 22k coins, **+39.1% em 7 dias** (+27.1% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Marten de Roon (85)** — 15.500 coins, **+49% em 7 dias** (+10.6% em 24h). Preço -17% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ryan Gravenberch (86)** — 60k coins, **+20% em 7 dias** (+20% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Xavi Simons (91)** — 16.500 coins, **+35.4% em 7 dias** (+12.1% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Joël Drommel (84)** — 52k coins, **+9.4% em 7 dias** (+6.1% em 24h). Preço em linha com a média de 7 dias (-2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jordan Teze (87)** — 19.000 coins, **+24.1% em 7 dias** (+2.9% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista

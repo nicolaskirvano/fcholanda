@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T22:27:18.000Z
+pubDatetime: 2026-08-02T01:27:19.000Z
 title: "Investimentos EA FC: Holandeses em 01/08 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 01/08/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (01/08/2026) no EA FC?"
-    a: "Xavi Simons (91, Premier League) lidera, com +47.8% em 7 dias a 15.000 coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Jeremie Frimpong (86, Premier League) lidera, com +90% em 7 dias a 182k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **01/08/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Xavi Simons (91) acumula **+47.8% em 7 dias** a 15.000 coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Jeremie Frimpong (86) acumula **+90% em 7 dias** a 182k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Holandeses em 01/08 — PC](/charts/melhores-investimentos-ea-fc-2026-08-01-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **01/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+7.1% em 24h** e **+11.2% em 7 dias**.
-- **0 de 7 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+6.1% em 24h** e **+71.4% em 7 dias**.
+- **4 de 7 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Premier League** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,26 +43,26 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Xavi Simons | 91 | Premier League | 15.000 coins | +15.3% | +47.8% | Momentum moderado |
-| Ian Maatsen | 89 | Premier League | 20k coins | +13.8% | +40% | Momentum moderado |
-| Edwin van der Sar | 88 | Icons | 102k coins | +2.1% | +25.2% | Momentum moderado |
-| Ryan Gravenberch | 86 | Premier League | 82k coins | +9% | +11.2% | Momentum moderado |
-| Sherida Spitse | 85 | Nederland Vrouwen Liga | 68k coins | +7.1% | +9.7% | Momentum moderado |
-| Jaap Stam | 89 | Premier League | 145k coins | +3.4% | +9% | Entrada a observar |
-| Crysencio Summerville | 86 | Premier League | 50k coins | +5.2% | +6.3% | Momentum moderado |
+| Jeremie Frimpong | 86 | Premier League | 182k coins | +6.1% | +90% | Esticada |
+| Jayden Oosterwolde | 87 | Trendyol Süper Lig | 160k coins | +10% | +82.3% | Esticada |
+| Robin Roefs | 87 | Premier League | 24k coins | +35.6% | +75.8% | Esticada |
+| Wout Weghorst | 85 | Eredivisie | 81k coins | +3.2% | +71.4% | Esticada |
+| Marten de Roon | 85 | Serie A TIM | 25k coins | +7.4% | +37.8% | Momentum moderado |
+| Cody Gakpo | 86 | Premier League | 50k coins | +3.6% | +11.1% | Entrada a observar |
+| Sherida Spitse | 85 | Nederland Vrouwen Liga | 62k coins | +4.1% | +10.3% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Xavi Simons (91)** — 15.000 coins, **+47.8% em 7 dias** (+15.3% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jeremie Frimpong (86)** — 182k coins, **+90% em 7 dias** (+6.1% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ian Maatsen (89)** — 20k coins, **+40% em 7 dias** (+13.8% em 24h). Preço -19% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jayden Oosterwolde (87)** — 160k coins, **+82.3% em 7 dias** (+10% em 24h). Preço em linha com a média de 7 dias (+8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Edwin van der Sar (88)** — 102k coins, **+25.2% em 7 dias** (+2.1% em 24h). Preço -34% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Robin Roefs (87)** — 24k coins, **+75.8% em 7 dias** (+35.6% em 24h). Preço -23% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ryan Gravenberch (86)** — 82k coins, **+11.2% em 7 dias** (+9% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Wout Weghorst (85)** — 81k coins, **+71.4% em 7 dias** (+3.2% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Sherida Spitse (85)** — 68k coins, **+9.7% em 7 dias** (+7.1% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Marten de Roon (85)** — 25k coins, **+37.8% em 7 dias** (+7.4% em 24h). Preço +8% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -80,7 +80,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (01/08/2026) no EA FC?**  
-Xavi Simons (91, Premier League) lidera, com +47.8% em 7 dias a 15.000 coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Jeremie Frimpong (86, Premier League) lidera, com +90% em 7 dias a 182k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
