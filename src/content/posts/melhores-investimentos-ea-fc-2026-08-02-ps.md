@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T10:26:06.000Z
+pubDatetime: 2026-08-02T10:27:11.000Z
 title: "Investimentos EA FC: Holandeses em 02/08 — Console (PS)"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **02/08/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+18.3% em 24h** e **+25.5% em 7 dias**.
-- **6 de 11 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+12.0% em 24h** e **+29.3% em 7 dias**.
+- **6 de 14 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Eredivisie** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -44,29 +44,32 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Joshua Zirkzee | 87 | Premier League | 35k coins | +14.6% | +80% | Esticada |
+| Dirk Kuyt | 88 | Eredivisie | 35k coins | +4.2% | +63.9% | Esticada |
 | Jordan Teze | 87 | Ligue 1 McDonald's | 20k coins | +28.1% | +60.8% | Esticada |
+| Denzel Dumfries | 89 | Serie A TIM | 44k coins | +13.9% | +53.8% | Momentum moderado |
+| Quinten Timber | 85 | Eredivisie | 33k coins | +3.1% | +52.3% | Momentum moderado |
 | Steven Berghuis | 86 | Eredivisie | 60k coins | +10.1% | +39.5% | Momentum moderado |
-| Xavi Simons | 88 | Premier League | 20k coins | +29% | +33.3% | Esticada |
 | Jeremie Frimpong | 86 | Premier League | 96k coins | +37.9% | +33.1% | Esticada |
-| Robin van Persie | 88 | Icons | 99k coins | +18.3% | +25.5% | Momentum moderado |
-| Youri Baas | 84 | Eredivisie | 54k coins | +7% | +18.9% | Momentum moderado |
-| Ruud van Nistelrooy | 89 | Icons | 73k coins | +5.5% | +14.1% | Momentum moderado |
+| Robin van Persie | 88 | Icons | 130k coins | +18.3% | +25.5% | Momentum moderado |
+| Youri Baas | 84 | Eredivisie | 54k coins | +7% | +13.8% | Momentum moderado |
+| Ruud van Nistelrooy | 89 | Icons | 73k coins | +4.1% | +12.6% | Entrada a observar |
 | Lineth Beerensteyn | 86 | GPFBL | 16.750 coins | +34.7% | +11.9% | Esticada |
 | Janou Levels | 86 | GPFBL | 53k coins | +21.9% | +10.8% | Esticada |
 | Melle Meulensteen | 84 | Eredivisie | 48k coins | +5.6% | +10.5% | Momentum moderado |
+| Jurriën Timber | 87 | Premier League | 18.500 coins | +1.3% | +6.7% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
 - **Joshua Zirkzee (87)** — 35k coins, **+80% em 7 dias** (+14.6% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
+- **Dirk Kuyt (88)** — 35k coins, **+63.9% em 7 dias** (+4.2% em 24h). Preço +91% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
 - **Jordan Teze (87)** — 20k coins, **+60.8% em 7 dias** (+28.1% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Steven Berghuis (86)** — 60k coins, **+39.5% em 7 dias** (+10.1% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Denzel Dumfries (89)** — 44k coins, **+53.8% em 7 dias** (+13.9% em 24h). Preço em linha com a média de 7 dias (-7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Xavi Simons (88)** — 20k coins, **+33.3% em 7 dias** (+29% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Jeremie Frimpong (86)** — 96k coins, **+33.1% em 7 dias** (+37.9% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Quinten Timber (85)** — 33k coins, **+52.3% em 7 dias** (+3.1% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista

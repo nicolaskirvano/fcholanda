@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T10:26:16.000Z
+pubDatetime: 2026-08-02T10:27:20.000Z
 title: "Investimentos EA FC: Holandeses em 02/08 — PC"
 draft: false
 featured: true
@@ -33,7 +33,7 @@ Esta lista de **02/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+12.7% em 24h** e **+24.2% em 7 dias**.
+- A mediana é de **+16.1% em 24h** e **+20.6% em 7 dias**.
 - **2 de 6 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Premier League** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
@@ -45,8 +45,8 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | --- | --- | --- | --- | --- | --- | --- |
 | Wout Weghorst | 85 | Eredivisie | 81k coins | +20.9% | +71.4% | Esticada |
 | Xavi Simons | 91 | Premier League | 15.000 coins | +14.3% | +39.1% | Momentum moderado |
-| Steven Berghuis | 86 | Eredivisie | 65k coins | +11.1% | +27.5% | Momentum moderado |
-| Ryan Gravenberch | 87 | Premier League | 86k coins | +9.5% | +21% | Momentum moderado |
+| Steven Berghuis | 86 | Eredivisie | 65k coins | +10.3% | +21.7% | Momentum moderado |
+| Ryan Gravenberch | 87 | Premier League | 86k coins | +17.9% | +19.6% | Momentum moderado |
 | Vivianne Miedema | 89 | Barclays WSL | 46k coins | +30% | +19% | Esticada |
 | Jaap Stam | 89 | Premier League | 117k coins | +5.4% | +12.5% | Momentum moderado |
 
@@ -57,9 +57,9 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 - **Xavi Simons (91)** — 15.000 coins, **+39.1% em 7 dias** (+14.3% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Steven Berghuis (86)** — 65k coins, **+27.5% em 7 dias** (+11.1% em 24h). Preço +44% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Steven Berghuis (86)** — 65k coins, **+21.7% em 7 dias** (+10.3% em 24h). Preço +44% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ryan Gravenberch (87)** — 86k coins, **+21% em 7 dias** (+9.5% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ryan Gravenberch (87)** — 86k coins, **+19.6% em 7 dias** (+17.9% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Vivianne Miedema (89)** — 46k coins, **+19% em 7 dias** (+30% em 24h). Preço +48% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
