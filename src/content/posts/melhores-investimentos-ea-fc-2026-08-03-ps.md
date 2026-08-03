@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T19:27:09.000Z
+pubDatetime: 2026-08-03T22:27:10.000Z
 title: "Investimentos EA FC: Holandeses em 03/08 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 03/08/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (03/08/2026) no EA FC?"
-    a: "Ronald Koeman (91, Icons) lidera, com +85.9% em 7 dias a 145k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Ronald Koeman (91, Icons) lidera, com +88.2% em 7 dias a 203k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **03/08/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Ronald Koeman (91) acumula **+85.9% em 7 dias** a 145k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Ronald Koeman (91) acumula **+88.2% em 7 dias** a 203k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Holandeses em 03/08 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-08-03-ps.svg)
 
@@ -33,8 +33,8 @@ Esta lista de **03/08/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+21.5% em 24h** e **+25.0% em 7 dias**.
-- **7 de 11 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+19.6% em 24h** e **+14.3% em 7 dias**.
+- **4 de 9 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Icons** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,30 +43,28 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Ronald Koeman | 91 | Icons | 145k coins | +34.3% | +85.9% | Esticada |
-| Cody Gakpo | 89 | Premier League | 123k coins | +21.5% | +68.8% | Esticada |
-| Lineth Beerensteyn | 86 | GPFBL | 16.750 coins | +28.8% | +45.7% | Esticada |
-| Crysencio Summerville | 86 | Premier League | 72k coins | +20% | +42.3% | Esticada |
-| Quinten Timber | 85 | Eredivisie | 38k coins | +25% | +26.1% | Esticada |
-| Daley Blind | 86 | LALIGA EA SPORTS | 40k coins | +4.6% | +25% | Entrada a observar |
-| Robin van Persie | 88 | Icons | 120k coins | +40% | +14.9% | Esticada |
-| Cody Gakpo | 86 | Premier League | 50k coins | +6.2% | +14.4% | Momentum moderado |
-| Jurriën Timber | 86 | Premier League | 47k coins | +6.4% | +12.4% | Momentum moderado |
-| Edwin van der Sar | 88 | Icons | 170k coins | +24% | +8.4% | Esticada |
-| Ronald Koeman | 88 | Icons | 66k coins | +5.3% | +5.3% | Momentum moderado |
+| Ronald Koeman | 91 | Icons | 203k coins | +24.3% | +88.2% | Esticada |
+| Xavi Simons | 91 | Premier League | 18.750 coins | +6.9% | +40% | Momentum moderado |
+| Noa Lang | 91 | Trendyol Süper Lig | 52k coins | +35.5% | +39.2% | Esticada |
+| Marco van Basten | 91 | Icons | 95k coins | +19.6% | +15.7% | Momentum moderado |
+| Robin Roefs | 87 | Premier League | 40k coins | +33.3% | +14.3% | Esticada |
+| Robin van Persie | 88 | Icons | 150k coins | +36.4% | +11.1% | Esticada |
+| Ruud van Nistelrooy | 89 | Icons | 72k coins | +4.3% | +8.9% | Entrada a observar |
+| Cody Gakpo | 86 | Premier League | 45k coins | +3.7% | +8.3% | Entrada a observar |
+| Lynn Wilms | 86 | Barclays Women’s Super League | 55k coins | +12% | +7.5% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Ronald Koeman (91)** — 145k coins, **+85.9% em 7 dias** (+34.3% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ronald Koeman (91)** — 203k coins, **+88.2% em 7 dias** (+24.3% em 24h). Preço +83% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Cody Gakpo (89)** — 123k coins, **+68.8% em 7 dias** (+21.5% em 24h). Preço em linha com a média de 7 dias (-0%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Xavi Simons (91)** — 18.750 coins, **+40% em 7 dias** (+6.9% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Lineth Beerensteyn (86)** — 16.750 coins, **+45.7% em 7 dias** (+28.8% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Noa Lang (91)** — 52k coins, **+39.2% em 7 dias** (+35.5% em 24h). Preço +55% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Crysencio Summerville (86)** — 72k coins, **+42.3% em 7 dias** (+20% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Marco van Basten (91)** — 95k coins, **+15.7% em 7 dias** (+19.6% em 24h). Preço -56% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Quinten Timber (85)** — 38k coins, **+26.1% em 7 dias** (+25% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Robin Roefs (87)** — 40k coins, **+14.3% em 7 dias** (+33.3% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -84,7 +82,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (03/08/2026) no EA FC?**  
-Ronald Koeman (91, Icons) lidera, com +85.9% em 7 dias a 145k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Ronald Koeman (91, Icons) lidera, com +88.2% em 7 dias a 203k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
