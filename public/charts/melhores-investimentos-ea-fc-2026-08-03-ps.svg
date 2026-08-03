@@ -6,20 +6,20 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ronald Koeman</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+74.4%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ian Maatsen</text>
-<rect x="285" y="153" width="323" height="28" rx="7" fill="#22c55e"/>
-<text x="618" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+50.0%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+85.9%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Cody Gakpo</text>
+<rect x="285" y="153" width="384" height="28" rx="7" fill="#22c55e"/>
+<text x="679" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+68.8%</text>
 <text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Lineth Beerensteyn</text>
-<rect x="285" y="211" width="203" height="28" rx="7" fill="#22c55e"/>
-<text x="498" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+31.4%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jurriën Timber</text>
-<rect x="285" y="269" width="137" height="28" rx="7" fill="#22c55e"/>
-<text x="432" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+21.3%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ruud van Nistelrooy</text>
-<rect x="285" y="327" width="95" height="28" rx="7" fill="#22c55e"/>
-<text x="390" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+14.8%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Melle Meulensteen</text>
-<rect x="285" y="385" width="43" height="28" rx="7" fill="#22c55e"/>
-<text x="338" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+6.7%</text>
+<rect x="285" y="211" width="255" height="28" rx="7" fill="#22c55e"/>
+<text x="550" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+45.7%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Crysencio Summerville</text>
+<rect x="285" y="269" width="236" height="28" rx="7" fill="#22c55e"/>
+<text x="531" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+42.3%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Quinten Timber</text>
+<rect x="285" y="327" width="146" height="28" rx="7" fill="#22c55e"/>
+<text x="441" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+26.1%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Daley Blind</text>
+<rect x="285" y="385" width="140" height="28" rx="7" fill="#22c55e"/>
+<text x="435" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+25.0%</text>
 </svg>
