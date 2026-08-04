@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T22:27:21.000Z
+pubDatetime: 2026-08-04T01:27:19.000Z
 title: "Investimentos EA FC: Holandeses em 03/08 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 03/08/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (03/08/2026) no EA FC?"
-    a: "Jayden Oosterwolde (87, Trendyol Süper Lig) lidera, com +63.8% em 7 dias a 150k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Jayden Oosterwolde (87, Trendyol Süper Lig) lidera, com +58% em 7 dias a 150k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **03/08/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Jayden Oosterwolde (87) acumula **+63.8% em 7 dias** a 150k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Jayden Oosterwolde (87) acumula **+58% em 7 dias** a 150k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Holandeses em 03/08 — PC](/charts/melhores-investimentos-ea-fc-2026-08-03-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **03/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+23.9% em 24h** e **+22.2% em 7 dias**.
-- **5 de 9 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+12.7% em 24h** e **+19.1% em 7 dias**.
+- **3 de 8 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Eredivisie** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,28 +43,27 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Jayden Oosterwolde | 87 | Trendyol Süper Lig | 150k coins | +35.7% | +63.8% | Esticada |
-| Georginio Wijnaldum | 84 | Brasileirão | 65k coins | +30% | +62.5% | Esticada |
-| Xavi Simons | 91 | Premier League | 18.500 coins | +2.8% | +32.1% | Momentum moderado |
-| Lineth Beerensteyn | 86 | GPFBL | 29k coins | +16.1% | +26.2% | Momentum moderado |
-| Daley Blind | 86 | LALIGA EA SPORTS | 26k coins | +39.2% | +22.2% | Esticada |
-| Jeremie Frimpong | 86 | Premier League | 146k coins | +24% | +19% | Esticada |
-| Melle Meulensteen | 84 | Eredivisie | 47k coins | +8.1% | +10% | Momentum moderado |
-| Jurriën Timber | 86 | Premier League | 54k coins | +23.9% | +9% | Esticada |
-| Vivianne Miedema | 89 | Barclays WSL | 17.750 coins | +15.4% | +5.6% | Momentum moderado |
+| Jayden Oosterwolde | 87 | Trendyol Süper Lig | 150k coins | +12.9% | +58% | Momentum moderado |
+| Noah Ohio | 87 | LaLiga Hypermotion | 20k coins | +11.1% | +42.9% | Momentum moderado |
+| Melle Meulensteen | 84 | Eredivisie | 52k coins | +10.2% | +21.2% | Momentum moderado |
+| Crysencio Summerville | 86 | Premier League | 54k coins | +12.5% | +20% | Momentum moderado |
+| Kenneth Taylor | 84 | Eredivisie | 36k coins | +21.4% | +18.3% | Esticada |
+| Lynn Wilms | 86 | Barclays Women’s Super League | 45k coins | +7.1% | +11.7% | Momentum moderado |
+| Daley Blind | 86 | LALIGA EA SPORTS | 26k coins | +28% | +11.6% | Esticada |
+| Jurriën Timber | 86 | Premier League | 55k coins | +25% | +10% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Jayden Oosterwolde (87)** — 150k coins, **+63.8% em 7 dias** (+35.7% em 24h). Preço -8% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jayden Oosterwolde (87)** — 150k coins, **+58% em 7 dias** (+12.9% em 24h). Preço -8% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Georginio Wijnaldum (84)** — 65k coins, **+62.5% em 7 dias** (+30% em 24h). Preço +53% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Noah Ohio (87)** — 20k coins, **+42.9% em 7 dias** (+11.1% em 24h). Preço -17% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Xavi Simons (91)** — 18.500 coins, **+32.1% em 7 dias** (+2.8% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Melle Meulensteen (84)** — 52k coins, **+21.2% em 7 dias** (+10.2% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Lineth Beerensteyn (86)** — 29k coins, **+26.2% em 7 dias** (+16.1% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Crysencio Summerville (86)** — 54k coins, **+20% em 7 dias** (+12.5% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Daley Blind (86)** — 26k coins, **+22.2% em 7 dias** (+39.2% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Kenneth Taylor (84)** — 36k coins, **+18.3% em 7 dias** (+21.4% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -82,7 +81,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (03/08/2026) no EA FC?**  
-Jayden Oosterwolde (87, Trendyol Süper Lig) lidera, com +63.8% em 7 dias a 150k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Jayden Oosterwolde (87, Trendyol Süper Lig) lidera, com +58% em 7 dias a 150k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
