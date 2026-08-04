@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-04T10:27:10.000Z
+pubDatetime: 2026-08-04T13:27:10.000Z
 title: "Jogadores baratos EA FC: Holandeses em 04/08 — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 04/08/2026 no Console (PS), com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (04/08/2026)?"
-    a: "Dennis Bergkamp (91, Icons) aparece como melhor custo-benefício, a 11.500 coins no Console (PS)."
+    a: "Wesley Sneijder (93, Serie A TIM) aparece como melhor custo-benefício, a 11.750 coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **04/08/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Dennis Bergkamp (91) por apenas 11.500 coins.
+> 💰 **Melhor pechincha:** Wesley Sneijder (93) por apenas 11.750 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Holandeses em 04/08 — Console (PS)](/charts/jogadores-baratos-ea-fc-2026-08-04-ps.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 10 opções:** 11.700 coins.
-- **Posição mais frequente:** ST, com 5 cartas.
-- **Faixa real:** 11.000 a 13.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 5 opções:** 12.150 coins.
+- **Posição mais frequente:** CAM, com 2 cartas.
+- **Faixa real:** 11.250 a 13.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,38 +40,33 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Dennis Bergkamp | 91 | ST | Icons | 11.500 coins | 0% |
-| Roy Makaay | 89 | ST | Bundesliga | 11.250 coins | 0% |
-| Donyell Malen | 89 | ST | Serie A TIM | 11.250 coins | 0% |
-| Vivianne Miedema | 89 | ST | Barclays WSL | 11.250 coins | -11.8% |
-| Sepp van den Berg | 89 | CB | Premier League | 12.500 coins | +8.7% |
-| Esmee Brugts | 88 | LB | Liga F | 11.000 coins | 0% |
-| Wesley Sneijder | 88 | CAM | Serie A TIM | 11.500 coins | -14.8% |
-| Xavi Simons | 88 | CAM | Premier League | 13.750 coins | -8.3% |
-| Roy Makaay | 87 | ST | Bundesliga | 11.000 coins | +2.3% |
-| Dirk Kuyt | 86 | CAM | Eredivisie | 12.000 coins | 0% |
+| Wesley Sneijder | 93 | CAM | Serie A TIM | 11.750 coins | 0% |
+| Jaap Stam | 89 | CB | Premier League | 11.250 coins | 0% |
+| Sepp van den Berg | 89 | CB | Premier League | 12.500 coins | +20% |
+| Vivianne Miedema | 89 | ST | Barclays WSL | 13.250 coins | +12.8% |
+| Wesley Sneijder | 88 | CAM | Serie A TIM | 12.000 coins | -4.2% |
 
 
 ## 📈 Destaques
 
-- **Dennis Bergkamp (91, ST)** da Icons, a apenas **11.500 coins**
+- **Wesley Sneijder (93, CAM)** da Serie A TIM, a apenas **11.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Roy Makaay (89, ST)** da Bundesliga, a apenas **11.250 coins**
+- **Jaap Stam (89, CB)** da Premier League, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Donyell Malen (89, ST)** da Serie A TIM, a apenas **11.250 coins**
+- **Sepp van den Berg (89, CB)** da Premier League, a apenas **12.500 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
-- **Vivianne Miedema (89, ST)** da Barclays WSL, a apenas **11.250 coins**
+- **Vivianne Miedema (89, ST)** da Barclays WSL, a apenas **13.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Sepp van den Berg (89, CB)** da Premier League, a apenas **12.500 coins**
+- **Wesley Sneijder (88, CAM)** da Serie A TIM, a apenas **12.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Sepp van den Berg (89, CB) por 12.500 coins é a referência de rating deste recorte.
+- **Defesa:** Jaap Stam (89, CB) por 11.250 coins é a referência de rating deste recorte.
 
-- **Meio:** Wesley Sneijder (88, CAM) por 11.500 coins é a referência de rating deste recorte.
+- **Meio:** Wesley Sneijder (93, CAM) por 11.750 coins é a referência de rating deste recorte.
 
-- **Ataque:** Dennis Bergkamp (91, ST) por 11.500 coins é a referência de rating deste recorte.
+- **Ataque:** Vivianne Miedema (89, ST) por 13.250 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -88,7 +83,6 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 <!-- content-links:v1 -->
 ## Continue a análise
 
-- [Investimentos EA FC: Holandeses em 04/08 — Console (PS)](/posts/melhores-investimentos-ea-fc-2026-08-04-ps/)
 - [Mercado EA FC em 04/08: Holandeses — Console (PS)](/posts/mercado-ea-fc-2026-08-04-ps/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
@@ -100,7 +94,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (04/08/2026)?**  
-Dennis Bergkamp (91, Icons) aparece como melhor custo-benefício, a 11.500 coins no Console (PS).
+Wesley Sneijder (93, Serie A TIM) aparece como melhor custo-benefício, a 11.750 coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
