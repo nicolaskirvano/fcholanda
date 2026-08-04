@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-04T13:27:17.000Z
+pubDatetime: 2026-08-04T16:27:17.000Z
 title: "Mercado EA FC em 04/08: Holandeses — PC"
 draft: false
 featured: true
