@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-04T19:27:11.000Z
+pubDatetime: 2026-08-04T22:27:10.000Z
 title: "Jogadores baratos EA FC: Holandeses em 04/08 — Console (PS)"
 draft: false
 featured: false
