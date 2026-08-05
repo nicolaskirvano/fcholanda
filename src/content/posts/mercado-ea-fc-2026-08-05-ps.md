@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-05T16:27:07.000Z
+pubDatetime: 2026-08-05T19:27:08.000Z
 title: "Mercado EA FC em 05/08: Holandeses — Console (PS)"
 draft: false
 featured: true
