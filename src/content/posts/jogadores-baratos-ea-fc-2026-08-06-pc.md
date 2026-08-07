@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-06T22:27:20.000Z
+pubDatetime: 2026-08-07T01:27:21.000Z
 title: "Jogadores baratos EA FC: Holandeses em 06/08 — PC"
 draft: false
 featured: false
